@@ -96,6 +96,7 @@ The ACM [SIGIR Conference](https://dl.acm.org/sig/sigir) focuses on research and
 | 2023       | [A Symmetric Dual Encoding Dense Retrieval Framework for Knowledge-Intensive Visual Question Answering](https://dx.doi.org/10.1145/3539618.3591629) | Alireza Salemi, Juan Altmayer, Pizzorno, Hamed Zamani | University of Massachusetts Amherst |
 | 2021       | [Dynamic Modality Interaction Modeling for Image-Text Retrieval](http://dx.doi.org/10.1145/3404835.3462829) | Leigang Qu, Meng Liu, Jianlong Wu, Zan Gao, Liqiang Nie |Shandong University, Shandong Jianzhu University, Shandong Artificial Intelligence Institute |
 | 2016       | [A Context-aware Time Model for Web Search](http://dx.doi.org/10.1145/2911451.2911504) | Alexey Borisov, Ilya Markov, Maarten de Rijke, Pavel Serdyukov |Yandex, University of Amsterdam |
+| 2016       | [Topic Modeling for Short Texts with Auxiliary Word Embeddings](http://dx.doi.org/10.1145/2911451.2911499) (Honorable Mentions)| Chenliang Li, Haoran Wang,  Zhiqian Zhang, Aixin Sun, Zongyang Ma | Wuhan University, Nanyang Technological University|
 | 2015       | [Sequential Testing for Early Stopping of Online Experiments](http://dx.doi.org/10.1145/2766462.2767729) | Eugene Kharitonov, Aleksandr Vorobev, Craig Macdonald, Pavel Serdyukov, Iadh Ounis | Yandex, University of Glasgow|
 | 2014       | [Towards better measurement of attention and satisfaction in mobile search](http://doi.acm.org/10.1145/2600428.2609631) | Dmitry Lagun, Chih-Hung Hsieh, Dale Webster, Vidhya Navalpakkam | Emory University, Google Inc.|
 | 2013       | [Toward Whole-Session Relevance: Exploring Intrinsic Diversity in Web Search](http://doi.acm.org/10.1145/2484028.2484089) | Karthik Raman, Paul N. Bennett, Kevyn Collins-Thompson |Cornell University, Microsoft Research|
@@ -120,12 +121,6 @@ The ACM [SIGIR Conference](https://dl.acm.org/sig/sigir) focuses on research and
 | 1995*      | [Fast evaluation of structured queries for information retrieval](http://doi.acm.org/10.1145/215206.215329) | Eric Brown | University of Massachusetts |
 
 <p>* co-winners</p>
-
-<h2>Honorable Mentions</h2>
-
-| Year       | Title | Authors   | Orgnization |                                                                                  
-|------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-| 2016       | [Topic Modeling for Short Texts with Auxiliary Word Embeddings](http://dx.doi.org/10.1145/2911451.2911499) | Chenliang Li, Haoran Wang,  Zhiqian Zhang, Aixin Sun, Zongyang Ma | Wuhan University, Nanyang Technological University|
 
 ## 4. Best Short Paper Awards <a id="best_short"></a>
 
