@@ -21,12 +21,18 @@
 
 | Year       | Title | Authors   | Orgnization | PubYear |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-||||||
+|2024|[Personalized entity recommendation: a heterogeneous information network approach](https://dl.acm.org/doi/abs/10.1145/2556195.2556259)|Xiao Yu, Xiang Ren, Yizhou Sun, Quanquan Gu, Bradley Sturt, Urvashi Khandelwal, Brandon Norick, Jiawei Han|University of Illinois at Urbana-Champaign, Northeastern Univeristy|2014|
+|2024|[What’s in a hashtag?: content based prediction of the spread of ideas in microblogging communities](https://dl.acm.org/doi/abs/10.1145/2124295.2124320) (Honorable Mentions)|Oren Tsur, Ari Rappoport|The Hebrew University|2012|
+|2024|[Overlapping community detection at scale: a nonnegative matrix factorization approach](https://dl.acm.org/doi/abs/10.1145/2433396.2433471) (Honorable Mentions)|Jaewon Yang, Jure Leskovec|Stanford University|2013|
+|2024|[Auralist: introducing serendipity into music recommendation](https://dl.acm.org/doi/abs/10.1145/2124295.2124300) (Honorable Mentions)|Yuan Cao Zhang, Diarmuid Ó Séaghdha, Daniele Quercia, Tamas Jambor|University of Cambridge|2012|
 
 ## 2. Best Paper Awards <a id="best"></a>
 
 | Year       | Title | Authors   | Orgnization |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|2024|[Long-Term Value of Exploration: Measurements, Findings and Algorithms](https://dl.acm.org/doi/pdf/10.1145/3616855.3635833)|Yi Su, Xiangyu Wang, Elaine Ya Le, Liang Liu, Yuening Li, Haokai Lu, Benjamin Lipshitz, Sriraj Badam, Lukasz Heldt, Shuchao Bi, Ed H. Chi, Cristos Goodrow, Su-Lin Wu, Lexi Baugher, Minmin Chen|Google Deepmind, Google|
+|2024|[Debiasing Sequential Recommenders through Distributionally Robust Optimization over System Exposure](https://dl.acm.org/doi/abs/10.1145/3616855.3635848) (Honorable Mentions)|Jiyuan Yang, Yue Ding, Yidan Wang, Pengjie Ren, Zhumin Chen, Fei Cai, Jun Ma, Rui Zhang, Zhaochun Ren, Xin Xin|Shandong University, Shanghai Jiao Tong University, National University of Defense Technology|
+|2024|[Source Free Graph Unsupervised Domain Adaptation](https://dl.acm.org/doi/pdf/10.1145/3616855.3635802) (Honorable Mentions)|Haitao Mao, Lun Du, Yujia Zheng, Qiang Fu, Zelin Li, Xu Chen, Shi Han, Dongmei Zhang|Michigan State University, Microsoft Research Asia, Carnegie Mellon University|
 |2023|[Learning Stance Embeddings from Signed Social Graphs](https://dl.acm.org/doi/10.1145/3539597.3570401)|John Pougué-Biyong, Akshay Gupta, Aria Haghighi, Ahmed El-Kishky|University of Oxford, Meta, Twitter Cortex|
 |2022|[Learning Discrete Representations via Constrained Clustering for Effective and Efficient Dense Retrieval](https://dl.acm.org/doi/abs/10.1145/3488560.3498443)|Jingtao Zhan, Jiaxin Mao, Yiqun Liu, Jiafeng Guo, Min Zhang, Shaoping Ma|Tsinghua University, Renmin University, Institute of Computing Technology|
 |2021|[Unifying Online and Counterfactual Learning to Rank: A Novel Counterfactual Estimator that Effectively Utilizes Online Interventions](https://dl.acm.org/doi/pdf/10.1145/3437963.3441794)|Harrie Oosterhuis, Maarten de Rijke|Radboud University, University of Amsterdam & Ahold Delhaize|
