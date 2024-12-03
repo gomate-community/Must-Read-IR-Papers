@@ -11,7 +11,7 @@
 
 ## Table of Content (ToC)
 
-- [Test of Time Award](#tot): all these papers are also listed in [this site](https://www.wsdm-conference.org/p).
+- [Test of Time Award](#tot): all these papers are also listed in [this site](https://www.wsdm-conference.org/).
 - [Best Paper Awards](#best): all these papers are also listed in [this site](https://www.wsdm-conference.org/).
 - [Best Student Paper Awards](#best_student): all these papers are also listed in [this site](https://www.wsdm-conference.org/).
 
@@ -27,7 +27,7 @@
 
 | Year       | Title | Authors   | Orgnization |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|||||
+|2023|[Learning Stance Embeddings from Signed Social Graphs](https://dl.acm.org/doi/10.1145/3539597.3570401)|John Pougué-Biyong, Akshay Gupta, Aria Haghighi, Ahmed El-Kishky|University of Oxford, Meta, Twitter Cortex|
 
 ## 3. Best Student Paper Awards <a id="best_student"></a>
 
