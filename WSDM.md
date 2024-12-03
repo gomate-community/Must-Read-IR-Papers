@@ -47,4 +47,7 @@
 
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|||||
+|2012|[How to win friends and influence people, truthfully: influence maximization mechanisms for social networks](https://dl.acm.org/doi/abs/10.1145/2124295.2124381)|Yaron Singer|University of California at Berkeley|
+|2011|[Correcting for Missing Data in Information Cascades](https://dl.acm.org/doi/abs/10.1145/1935826.1935844)|Eldar Sadikov, Montserrat Medina, Jure Leskovec, Hector Garcia-Molina|Stanford University|
+|2010|[Pairwise interaction tensor factorization for personalized tag recommendation](https://dl.acm.org/doi/abs/10.1145/1718487.1718498)|Steffen Rendle, Lars Schmidt-Thieme|Osaka University, University of Hildesheim|
+|2009|[The web changes everything: understanding the dynamics of web content](https://dl.acm.org/doi/abs/10.1145/1498759.1498837)|Eytan Adar, Jaime Teevan, Susan T. Dumais, Jonathan L. Elsas|University of Washington, Microsoft Research, CMU|
