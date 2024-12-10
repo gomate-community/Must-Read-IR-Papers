@@ -29,7 +29,15 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 | Year       | Title | Authors   | Orgnization | PubYear |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |2023|[TAGME: on-the-fly annotation of short text fragments (by Wikipedia entities)](https://dl.acm.org/doi/pdf/10.1145/1871437.1871689)|Paolo Ferragina, Ugo Scaiella|University of Pisa|2010|
-||||||
+|2022|[The link prediction problem for social networks](https://dl.acm.org/doi/10.1145/956863.956972)|David Liben-Nowell, Jon Kleinberg|Massachusetts Institute of Technology, Cornell University|2003|
+|2021|[Expected reciprocal rank for graded relevance](https://dl.acm.org/doi/abs/10.1145/1645953.1646033)|Olivier Chapelle, Donald Metzler, Ya Zhang, Pierre Grinspan|Yahoo! Labs, Google Inc|2009|
+|2020|[You are where you tweet: a content-based approach to geo-locating twitter users](https://dl.acm.org/doi/abs/10.1145/1871437.1871535)|Zhiyuan Cheng, James Caverlee, Kyumin Lee|Texas A&M University|2010|
+|2020|[Joint sentiment/topic model for sentiment analysis](https://dl.acm.org/doi/10.1145/1645953.1646003)|Chenghua Lin, Yulan He|University of Exeter, The Open University|2009|
+|2019|[Wikify! Linking Documents to Encyclopedic Knowledge](https://dl.acm.org/doi/10.1145/1321440.1321475)|Rada Mihalcea, Andras Csomai|University of North Texas|2007|
+|2019|[SoRec: Social Recommendation Using Probabilistic Matrix Factorization](https://dl.acm.org/doi/10.1145/1321440.1321475)|Hao Ma, Haixuan Yang, Michael R. Lyu, Irwin King|The Chinese University of Hong Kong|2008|
+|2018|[KQML as an agent communication language](https://dl.acm.org/doi/10.1145/191246.191322)|Tim Finin, Richard Fritzson, Don McKay, Robin McEntire|University of Maryland Baltimore County, Unisys Corporation|1994|
+|2018|[Learning to link with Wikipedia](https://dl.acm.org/doi/10.1145/1458082.1458150)|David Milne, Ian H. Witten|University of Waikato|2008|
+|2017|[Inductive Learning Algorithms and Representations for Text Categorization](https://dl.acm.org/doi/10.1145/288627.288651)|Susan Dumais, John Platt, David Heckerman, Mehran Sahami|Microsoft Research, Stanford University|1998|
 
 ## 2. Best Full Research Paper Awards <a id="best"></a>
 
