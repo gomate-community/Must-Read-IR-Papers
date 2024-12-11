@@ -28,6 +28,15 @@ In 2022 the IW3C2 adopted new by-laws and it is no longer involved in the organi
 | Year       | Title | Authors   | Orgnization | PubYear |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
 |2024|[Topic-Sensitive PageRank](https://dl.acm.org/doi/10.1145/511446.511513)|Taher H Haveliwala|Stanford University|2022|
+|2023|[A Contextual-Bandit Approach to Personalized News Article Recommendation](https://www.iw3c2.org/papers/2023-Contextual-Bandit.pdf)|Wei Chu, Lihong Li, John Langford and Robert Schapire|Yahoo! Labs, Princeton University|2010|
+|2022|[Earthquake shakes Twitter users: Real-time event detection by social sensors](https://www.iw3c2.org/papers/2022-Earthquake.pdf)|Takeshi Sakaki, Makoto Okazaki and Yutaka Matsuo|The University of Tokyo|2010|
+|2021|[Information Credibility on Twitter](https://www.iw3c2.org/papers/2021-Credibility.pdf)|Carlos Castillo, Marcelo Mendoza and Barbara Poblete|1Yahoo! Research, Universidad Técnica Federico Santa María, University of Chile|2011|
+|2020|[Mining the peanut gallery: Opinion Extraction and Semantic Classification of Product Reviews](https://www.iw3c2.org/papers/2020-Peanut/p451-dave.html)|Kushal Dave, Steve Lawrence and David M Pennock|NEC Laboratories America, Overture Services, Inc.|2003|
+|2019|[The EigenTrust Algorithm for Reputation Management in P2P Networks"](https://dl.acm.org/doi/pdf/10.1145/775152.775242)|Sepandar D. Kamvar, Mario Schlosser and Héctor Garcia-Molina|Stanford University|2003|
+|2018|[YAGO: A Core of Semantic Knowledge Unifying WordNet and Wikipedia](https://www.iw3c2.org/papers/2018-YAGO.pdf)|Fabian M. Suchanek, Gjergji Kasneci and Gerhard Weikum|Max-Planck-Institut|2007|
+|2017|[Graph Structure in the Web](https://www.iw3c2.org/papers/2017-Graph/index.html)|Andrei Broder, Ravi Kumar, Farzin Maghoul, Prabhakar Raghavan, Sridhar Rajagopalan, Raymie Stata, Andrew Tomkins and Janet Wiener|AltaVista Company, IBM Almaden Research Center, Compaq Systems Research Center|2003|
+|2016|[Item-based collaborative filtering recommendation algorithms](https://www.iw3c2.org/papers/2016-Collaborative.pdf)|Dr Badrul Sarwar, Professors George Karypis, Joseph Konstan, and John Riedl|University of Minnesota|2001|
+|2015|[The Anatomy of a Large-Scale Hypertextual Web Search Engine](https://www.iw3c2.org/papers/2015-Anatomy.pdf)|Sergey Brin and Larry Page|Stanford University|1998|
 ||||||
 
 ## 2. Best Paper Awards <a id="best"></a>
