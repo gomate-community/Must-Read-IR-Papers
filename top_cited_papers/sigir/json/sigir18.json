@@ -1,0 +1,3065 @@
+[
+    {
+        "title": "Salton Award Keynote: Information Interaction in Context",
+        "authors": [
+            "Kalervo J\u00e4rvelin"
+        ],
+        "affiliations": [
+            "University of Tampere"
+        ]
+    },
+    {
+        "title": "Data Science for Social Good and Public Policy: Examples, Opportunities, and Challenges",
+        "authors": [
+            "Rayid Ghani",
+            "Debora Donato"
+        ],
+        "affiliations": [
+            "Mix Tech",
+            "University of Chicago"
+        ]
+    },
+    {
+        "title": "Neural Compatibility Modeling with Attentive Knowledge Distillation",
+        "authors": [
+            "Xuemeng Song",
+            "Fuli Feng",
+            ",\nXianjing Han",
+            "Xin Yang",
+            "Wei Liu",
+            "Liqiang Nie"
+        ],
+        "affiliations": [
+            "Tencent AI Lab",
+            "National Unversity of Singapore",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "Attentive Moment Retrieval in Videos",
+        "authors": [
+            "Meng Liu",
+            "Xiang Wang",
+            "Liqiang Nie",
+            ",\nXiangnan He",
+            "Baoquan Chen",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "National University of Singapore",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "Enhancing Person-Job Fit for Talent Recruitment: An Ability-aware NeuralNetwork Approach",
+        "authors": [
+            "Chuan Qin",
+            ",\nHengshu Zhu",
+            ",\nTong Xu",
+            ",\nChen Zhu",
+            ",\nLiang Jiang",
+            "Enhong Chen",
+            ",\nHui Xiong"
+        ],
+        "affiliations": [
+            "University of Science and Technology of China & Baidu Talent Intelligence Center, Baidu Inc.",
+            "Baidu Talent Intelligence Center, Baidu Inc.",
+            "University of Science and Technology of China"
+        ]
+    },
+    {
+        "title": "Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings",
+        "authors": [
+            "Micael Carvalho",
+            "R\u00e9mi Cad\u00e8ne",
+            "David Picard",
+            "Laure Soulier",
+            ",\nNicolas Thome",
+            "Matthieu Cord",
+            "Paul Bennett"
+        ],
+        "affiliations": [
+            "Conservatoire National des Arts et M\u00e9tiers",
+            "Microsoft Research",
+            "Sorbonne Universit\u00e9, CNRS, LIP6"
+        ]
+    },
+    {
+        "title": "A Click Sequence Model for Web Search",
+        "authors": [
+            "Alexey Borisov",
+            ",\nMartijn Wardenaar",
+            "Ilya Markov",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "Yandex & University of Amsterdam",
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Understanding and Evaluating User Satisfaction with Music Discovery",
+        "authors": [
+            "Gathright",
+            "Brian St. Thomas",
+            "Christine Hosey",
+            "Zahra Nazari",
+            "Fernando Diaz"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "Spotify"
+        ]
+    },
+    {
+        "title": "Predicting User Knowledge Gain in Informational Search Sessions",
+        "authors": [
+            "Ran Yu",
+            "Ujwal Gadiraju",
+            "Peter Holtz",
+            "Markus Rokicki",
+            "Philipp Kemkes",
+            "Stefan Dietze"
+        ],
+        "affiliations": [
+            "Leibniz Universit\u00e4t Hannover"
+        ]
+    },
+    {
+        "title": "Session 1C: Prediction ....................................................................................................................................Session Chair: Alistair Moffat (The University of Melbourne),",
+        "authors": [],
+        "affiliations": []
+    },
+    {
+        "title": "Dynamic Shard Cutoff Prediction for Selective Search",
+        "authors": [
+            "Hafeezul Rahman Mohammad",
+            "Keyang Xu",
+            ",\nJamie Callan",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "Petuum Inc.",
+            "RMIT University",
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks",
+        "authors": [
+            "Cheng Chang",
+            "Yiming Yang",
+            "Hanxiao Liu"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Neural Query Performance Prediction using Weak Supervision from Multiple Signals",
+        "authors": [
+            "Hamed Zamani",
+            "W. Bruce Croft",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "RMIT University"
+        ]
+    },
+    {
+        "title": "Combined Regression and Tripletwise Learning for Conversion Rate Predictionin Real-Time Bidding Advertising",
+        "authors": [
+            "Lili Shan",
+            "Lei Lin",
+            "Chengjie Sun",
+            "Hang Li"
+        ],
+        "affiliations": [
+            "Harbin Institute of Technology",
+            "Bytedance Technologies"
+        ]
+    },
+    {
+        "title": "From Greedy Selection to Exploratory Decision-Making: Diverse Rankingwith Policy-Value Networks",
+        "authors": [
+            "Yue Feng",
+            "Jun Xu",
+            "Yanyan Lan",
+            "Jiafeng Guo",
+            "Wei Zeng",
+            "Xueqi Cheng"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Learning a Deep Listwise Context Model for Ranking Refinement",
+        "authors": [
+            "Qingyao Ai",
+            "Keping Bi",
+            "Jiafeng Guo",
+            ",\nW. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Efficient Exploration of Gradient Space for Online Learning to Rank",
+        "authors": [
+            "Snook",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia"
+        ]
+    },
+    {
+        "title": "Selective Gradient Boosting for Effective Learning to Rank",
+        "authors": [
+            "Claudio Lucchese",
+            "Franco Maria Nardini",
+            "Raffaele Perego",
+            ",\nSalvatore Orlando",
+            "Salvatore Trani",
+            "Min Zhang"
+        ],
+        "affiliations": [
+            "ISTI-CNR",
+            "Tsinghua University",
+            "Ca\u2019 Foscari University of Venice"
+        ]
+    },
+    {
+        "title": "Explainable Recommendation via Multi-Task Learning in Opinionated Text Data",
+        "authors": [
+            "Nan Wang",
+            "Hongning Wang",
+            "Yiling Jia",
+            "Yue Yin"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "Shanghai Jiao Tong University"
+        ]
+    },
+    {
+        "title": "Sentiment Analysis of Peer Review Texts for Scholarly Papers",
+        "authors": [
+            "Ke Wang",
+            "Xiaojun Wan",
+            "Vanessa Murdock"
+        ],
+        "affiliations": [
+            "Peking University",
+            "Amazon"
+        ]
+    },
+    {
+        "title": "Attentive Recurrent Social Recommendation",
+        "authors": [
+            "Peijie Sun",
+            "Le Wu",
+            "Meng Wang"
+        ],
+        "affiliations": [
+            "Hefei University of Technology"
+        ]
+    },
+    {
+        "title": "Mention Recommendation for Multimodal Microblog with Cross-attentionMemory Network",
+        "authors": [
+            "Renfeng Ma",
+            "Qi Zhang",
+            "Jiawen Wang",
+            "Lizhen Cui",
+            ",\nXuanjing Huang"
+        ],
+        "affiliations": [
+            "Fudan University",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "Learning Geo-Social User Topical Profiles with Bayesian Hierarchical User Factorization",
+        "authors": [
+            "Haokai Lu",
+            "Wei Niu",
+            "James Caverlee",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "Texas A&M University",
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "Target Apps Selection: Towards a Unified Search Framework for Mobile Devices",
+        "authors": [
+            "Mohammad Aliannejadi",
+            "Hamed Zamani",
+            "Fabio Crestani",
+            "W. Bruce Croft",
+            "Yun Nie"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "University of Montreal",
+            "Universit\u00e0 della Svizzera italiana (USI"
+        ]
+    },
+    {
+        "title": "Dialogue Act Recognition via CRF-Attentive Structured Network",
+        "authors": [
+            "Zheqian Chen",
+            "Rongqin Yang",
+            "Zhou Zhao",
+            ",\nDeng Cai",
+            "Xiaofei He"
+        ],
+        "affiliations": [
+            "Fabu Inc.",
+            "Zhejiang University",
+            "Alibaba-Zhejiang University Joint Institute of Frontier Technologies"
+        ]
+    },
+    {
+        "title": "Conversational Recommender System",
+        "authors": [
+            "Yueming Sun",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "University of California, Santa Cruz"
+        ]
+    },
+    {
+        "title": "Response Ranking with Deep Matching Networks and External Knowledge  in Information-seeking Conversation Systems",
+        "authors": [
+            "Liu Yang",
+            "Minghui Qiu",
+            "Chen Qu",
+            "Jiafeng Guo",
+            "Yongfeng Zhang",
+            "W. Bruce Croft",
+            "Jun Huang",
+            "Haiqing Chen"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Rutgers University",
+            "Institute of Computing Technology, Chinese Academy of Sciences",
+            "Alibaba Group"
+        ]
+    },
+    {
+        "title": "Chat More: Deepening and Widening the Chatting Topic via A Deep Model",
+        "authors": [
+            "Wenjie Wang",
+            "Minlie Huang",
+            "Shun Xu",
+            "Fumin Shen",
+            "Liqiang Nie",
+            "David Carmel"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Electronic Science and Technology of China",
+            "Amazon Research",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "Identifying Sub-events and Summarizing Disaster-Related Information from Microblogs",
+        "authors": [
+            "Koustav Rudra",
+            "Pawan Goyal",
+            "Niloy Ganguly",
+            "Prasenjit Mitra",
+            "Muhammad Imran"
+        ],
+        "affiliations": [
+            "Qatar Computing Research Institute (HBKU",
+            "Pennsylvania State University",
+            "Indian Institute of Technology Kharagpur"
+        ]
+    },
+    {
+        "title": "The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News",
+        "authors": [
+            "Nguyen Vo",
+            "Kyumin Lee",
+            "Grace Hui Yang"
+        ],
+        "affiliations": [
+            "Worcester Polytechnic Institute",
+            "Georgetown University"
+        ]
+    },
+    {
+        "title": "Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search",
+        "authors": [
+            "Wei Chang",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "University of California, Los Angeles"
+        ]
+    },
+    {
+        "title": "A Personal Privacy Preserving Framework: I Let You Know Who Can See What",
+        "authors": [
+            "Xuemeng Song",
+            "Xiang Wang",
+            "Liqiang Nie",
+            "Xiangnan He",
+            "Zhumin Chen",
+            "Wei Liu"
+        ],
+        "affiliations": [
+            "National University of Singapore",
+            "Tencent AI Lab",
+            "National Unversity of Singapore",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "SynTF: Synthetic and Differentially Private Term Frequency Vectors  for Privacy-Preserving Text Mining",
+        "authors": [
+            "Benjamin Weggenmann",
+            "Florian Kerschbaum"
+        ],
+        "affiliations": [
+            "SAP Security Research",
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Privacy-aware Ranking with Tree Ensembles on the Cloud",
+        "authors": [
+            "Shiyu Ji",
+            "Jinjin Shao",
+            "Daniel Agun",
+            "Tao Yang",
+            "Jianfeng Gao"
+        ],
+        "affiliations": [
+            "University of California, Santa Barbara",
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Multihop Attention Networks for Question Answer Matching",
+        "authors": [
+            "Nam Khanh Tran",
+            "Claudia Nieder\u00e9e"
+        ],
+        "affiliations": [
+            "L3S Research Center, Leibniz Universit\u00e4t Hannover"
+        ]
+    },
+    {
+        "title": "Ranking Documents by Answer-Passage Quality",
+        "authors": [
+            "Evi Yulianti",
+            "Cheng Chen",
+            "Falk Scholer",
+            "W. Bruce Croft",
+            "Mark Sanderson"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "SEEK Ltd."
+        ]
+    },
+    {
+        "title": "Characterizing and Supporting Question Answering in Human-to-Human Communication",
+        "authors": [
+            "Xiao Yang",
+            "Ahmed Hassan Awadallah",
+            "Madian Khabsa",
+            "Wei Wang",
+            "Miaosen Wang",
+            "Rong Wen"
+        ],
+        "affiliations": [
+            "Renmin University of China",
+            "Apple",
+            "Pennsylvania State University",
+            "Microsoft Research",
+            "Google"
+        ]
+    },
+    {
+        "title": "Adversarial Personalized Ranking for Recommendation",
+        "authors": [
+            "Xiangnan He",
+            "Zhankui He",
+            "Xiaoyu Du",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "Fudan University",
+            "Chengdu University of Information Technology",
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce",
+        "authors": [
+            "Liang Wu",
+            "Diane Hu",
+            "Liangjie Hong",
+            "Huan Liu"
+        ],
+        "affiliations": [
+            "Etsy Inc.",
+            "Arizona State University"
+        ]
+    },
+    {
+        "title": "Modeling Diverse Relevance Patterns in Ad-hoc Retrieval",
+        "authors": [
+            "Yixing Fan",
+            "Jiafeng Guo",
+            "Yanyan Lan",
+            "Jun Xu",
+            "Chengxiang Zhai",
+            "Xueqi Cheng",
+            "Fernando Diaz"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign",
+            "Spotify",
+            "Institute of Computing Technology, CAS"
+        ]
+    },
+    {
+        "title": "Unbiased Learning to Rank with Unbiased Propensity Estimation",
+        "authors": [
+            "Qingyao Ai",
+            "Keping Bi",
+            "Cheng Luo",
+            ",\nJiafeng Guo",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Tsinghua University",
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Ranking Robustness Under Adversarial Document Manipulations",
+        "authors": [
+            "Gregory Goren",
+            "Oren Kurland",
+            "Moshe Tennenholtz",
+            ",\nFiana Raiber"
+        ],
+        "affiliations": [
+            "Technion - Israel Institute of Technology",
+            "Yahoo Research"
+        ]
+    },
+    {
+        "title": "Equity of Attention: Amortizing Individual Fairness in Rankings",
+        "authors": [
+            "Asia J. Biega",
+            "Krishna P. Gummadi",
+            ",\nGerhard Weikum"
+        ],
+        "affiliations": [
+            "MPI-SWS",
+            "Max Planck Institute for Informatics"
+        ]
+    },
+    {
+        "title": "Should I Follow the Crowd? A Probabilistic Analysis of the Effectiveness of Popularityin Recommender Systems",
+        "authors": [
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells",
+            "Diane Kelly"
+        ],
+        "affiliations": [
+            "University of Tennessee",
+            "Universidad Aut\u00f3noma de Madrid"
+        ]
+    },
+    {
+        "title": "Constructing an Interaction Behavior Model for Web Image Search",
+        "authors": [
+            "Xiaohui Xie",
+            "Jiaxin Mao",
+            "Maarten de Rijke",
+            ",\nRuizhe Zhang",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Between Clicks and Satisfaction: Study on Multi-Phase User Preferencesand Satisfaction for Online News Reading",
+        "authors": [
+            "Hongyu Lu",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ]
+    },
+    {
+        "title": "The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes",
+        "authors": [
+            "Robert Capra",
+            "Jaime Arguello",
+            "Brien",
+            "Yuan Li",
+            "Bogeum Choi",
+            "Isabelle Moulinier"
+        ],
+        "affiliations": [
+            "Capital One",
+            "University of British Columbia",
+            "University of North Carolina at Chapel Hill"
+        ]
+    },
+    {
+        "title": "Seed-driven Document Ranking for Systematic Reviews in Evidence-Based Medicine",
+        "authors": [
+            "Grace E. Lee",
+            "Aixin Sun"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ]
+    },
+    {
+        "title": "A Dataset and an Examination of Identifying Passages for Due Diligence",
+        "authors": [
+            "Adam Roegiest",
+            "Alexander K. Hudek",
+            "Anne McNulty"
+        ],
+        "affiliations": [
+            "Kira Systems"
+        ]
+    },
+    {
+        "title": "Generating Better Queries for Systematic Reviews",
+        "authors": [
+            "Harrisen Scells",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ]
+    },
+    {
+        "title": "Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles",
+        "authors": [
+            "Pengfei Wang",
+            "Ze Yang",
+            ",\nShuzi Niu",
+            "Yongfeng Zhang",
+            ",\nLei Zhang",
+            "ShaoZhang Niu",
+            "Jun Xu"
+        ],
+        "affiliations": [
+            "Rutgers Univeristy",
+            "Chinese Academy of Sciences",
+            "Beijing University of Posts and Telecommunications"
+        ]
+    },
+    {
+        "title": "Learning Contextual Bandits in a Non-stationary Environment",
+        "authors": [
+            "Qingyun Wu",
+            "Naveen Iyer",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia"
+        ]
+    },
+    {
+        "title": "Collaborative Memory Network for Recommendation Systems",
+        "authors": [
+            "Travis Ebesu",
+            "Bin Shen",
+            "Yi Fang"
+        ],
+        "affiliations": [
+            "Santa Clara University",
+            "Google"
+        ]
+    },
+    {
+        "title": "Streaming Ranking Based Recommender Systems",
+        "authors": [
+            "Weiqing Wang",
+            "Hongzhi Yin",
+            "Zi Huang",
+            "Qinyong Wang",
+            "Xingzhong Du",
+            ",\nQuoc Viet Hung Nguyen",
+            "Dawei Yin"
+        ],
+        "affiliations": [
+            "Griffith University",
+            "University of Queensland",
+            "JD.com"
+        ]
+    },
+    {
+        "title": "Torch: A Search Engine for Trajectory Data",
+        "authors": [
+            "Sheng Wang",
+            "Zhifeng Bao",
+            "J. Shane Culpepper",
+            "Zizhe Xie",
+            "Qizhi Liu",
+            ",\nXiaolin Qin"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "Nanjing University",
+            "Nanjing University of Aeronautics and Astronautics"
+        ]
+    },
+    {
+        "title": "Top-k Route Search through Submodularity Modeling of Recurrent POI Features",
+        "authors": [
+            "Hongwei Liang",
+            "Ke Wang"
+        ],
+        "affiliations": [
+            "Simon Fraser University"
+        ]
+    },
+    {
+        "title": "A Contextual Attention Recurrent Architecture for Context-AwareVenue Recommendation",
+        "authors": [
+            "Jarana Manotumruksa",
+            "Craig Macdonald",
+            "Iadh Ounis",
+            "Arjen de Vries"
+        ],
+        "affiliations": [
+            "Radboud University",
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "Entity Set Search of Scientific Literature: An Unsupervised Ranking Approach",
+        "authors": [
+            "Jiaming Shen",
+            "Jinfeng Xiao",
+            "Xinwei He",
+            "Jingbo Shang",
+            "Saurabh Sinha,\nJiawei Han"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "Towards Better Text Understanding and Retrieval through Kernel EntitySalience Modeling",
+        "authors": [
+            "Chenyan Xiong",
+            "Zhengzhong Liu",
+            "Jamie Callan",
+            "Yan Liu"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Automated Comparative Table Generation for Facilitating Human Interventionin Multi-Entity Resolution",
+        "authors": [
+            "Jiacheng Huang",
+            "Wei Hu",
+            "Haoxuan Li",
+            "Yuzhong Qu"
+        ],
+        "affiliations": [
+            "Nanjing University"
+        ]
+    },
+    {
+        "title": "On-the-fly Table Generation",
+        "authors": [
+            "Shuo Zhang",
+            "Krisztian Balog",
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University",
+            "University of Stavanger"
+        ]
+    },
+    {
+        "title": "Measuring the Utility of Search Engine Result Pages: An Information ForagingBased Measure",
+        "authors": [
+            "Leif Azzopardi",
+            "Paul Thomas",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "University of Strathclyde"
+        ]
+    },
+    {
+        "title": "How Well do Offline and Online Evaluation Metrics Measure User Satisfactionin Web Image Search?",
+        "authors": [
+            "Fan Zhang",
+            "Ke Zhou",
+            ",\nYunqiu Shao",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Nottingham"
+        ]
+    },
+    {
+        "title": "An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-BiasedUtility Metric",
+        "authors": [
+            "Enrique Amig\u00f3",
+            "Damiano Spina",
+            "Albornoz",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "NLP & IR Group at UNED",
+            "RMIT University",
+            "University of California, Santa Cruz"
+        ]
+    },
+    {
+        "title": "Cross-language Citation Recommendation via Hierarchical Representation Learningon Heterogeneous Graph",
+        "authors": [
+            "Zhuoren Jiang",
+            ",\nYue Yin",
+            "Liangcai Gao",
+            "Yao Lu",
+            ",\nXiaozhong Liu"
+        ],
+        "affiliations": [
+            "Sun Yat-sen University",
+            "Peking University",
+            "Beijing Normal University",
+            "Alibaba Group"
+        ]
+    },
+    {
+        "title": "Attentive Group Recommendation",
+        "authors": [
+            "Da Cao",
+            "Xiangnan He",
+            "Lianhai Miao",
+            ",\nYahui An",
+            "Chao Yang",
+            ",\nRichang Hong"
+        ],
+        "affiliations": [
+            "University of Electronic Science and Technology of China",
+            "Hunan University",
+            "National University of Singapore",
+            "Hefei University of Technology"
+        ]
+    },
+    {
+        "title": "Calendar-Aware Proactive Email Recommendation",
+        "authors": [
+            "Qian Zhao",
+            "Paul N. Bennett",
+            "Adam Fourney",
+            "Anne Loomis Thompson",
+            "Shane Williams,\nAdam D. Troy",
+            "Susan T. Dumais"
+        ],
+        "affiliations": [
+            "University of Minnesota",
+            "Microsoft"
+        ]
+    },
+    {
+        "title": "Structuring Wikipedia Articles with Section Recommendations",
+        "authors": [
+            "Tiziano Piccardi",
+            "Michele Catasta",
+            ",\nLeila Zia",
+            "Robert West",
+            "Mark Sanderson"
+        ],
+        "affiliations": [
+            "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "Stanford University",
+            "RMIT University",
+            "Wikimedia Foundation"
+        ]
+    },
+    {
+        "title": "On Fine-Grained Relevance Scales",
+        "authors": [
+            "Kevin Roitero",
+            "Eddy Maddalena",
+            ",\nGianluca Demartini",
+            "Stefano Mizzaro"
+        ],
+        "affiliations": [
+            "University of Southampton",
+            "University of Udine",
+            "University of Queensland"
+        ]
+    },
+    {
+        "title": "Automatic Ground Truth Expansion for Timeline Evaluation",
+        "authors": [
+            "Richard McCreadie",
+            "Craig Macdonald",
+            "Iadh Ounis"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "Stochastic Simulation of Test Collections: Evaluation Scores",
+        "authors": [
+            "Juli\u00e1n Urbano",
+            "Thomas Nagler"
+        ],
+        "affiliations": [
+            "Technical University of Munich",
+            "Delft University of Technology"
+        ]
+    },
+    {
+        "title": "Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback",
+        "authors": [
+            "Ben Carterette",
+            "Praveen Chandar",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "University of Delaware",
+            "Spotify"
+        ]
+    },
+    {
+        "title": "BiNE: Bipartite Network Embedding",
+        "authors": [
+            "Ming Gao",
+            "Leihui Chen",
+            "Xiangnan He",
+            ",\nAoying Zhou"
+        ],
+        "affiliations": [
+            "East China Normal University",
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "Deep Domain Adaptation Hashing with Adversarial Learning",
+        "authors": [
+            "Fuchen Long",
+            "Ting Yao",
+            "Qi Dai",
+            ",\nXinmei Tian",
+            "Jiebo Luo",
+            ",\nTao Mei"
+        ],
+        "affiliations": [
+            "University of Rochester",
+            "Microsoft Research",
+            "University of Science and Technology of China"
+        ]
+    },
+    {
+        "title": "Fast Scalable Supervised Hashing",
+        "authors": [
+            "Xin Luo",
+            "Liqiang Nie",
+            "Xiangnan He",
+            "Shun Xu",
+            "Krisztian Balog"
+        ],
+        "affiliations": [
+            "University of Stavanger",
+            "National University of Singapore",
+            "Shandong University"
+        ]
+    },
+    {
+        "title": "Enriching Taxonomies With Functional Domain Knowledge",
+        "authors": [
+            "Nikhita Vedula",
+            "Patrick K. Nicholson",
+            "Deepak Ajwani",
+            "Sourav Dutta",
+            "Alessandra Sala",
+            ",\nSrinivasan Parthasarathy"
+        ],
+        "affiliations": [
+            "The Ohio State University",
+            "Nokia Bell Labs, Ireland"
+        ]
+    },
+    {
+        "title": "On Link Prediction in Knowledge Bases: Max-K Criterion and Prediction Protocols",
+        "authors": [
+            "Jiajie Mei",
+            "Richong Zhang",
+            "Yongyi Mao",
+            "Ting Deng"
+        ],
+        "affiliations": [
+            "Beihang University",
+            "University of Ottawa"
+        ]
+    },
+    {
+        "title": "Weakly-supervised Contextualization of Knowledge Graph Facts",
+        "authors": [
+            "Nikos Voskarides",
+            "Edgar Meij",
+            "Ridho Reinanda",
+            "Abhinav Khaitan",
+            "Miles Osborne,\nGiorgio Stefanoni",
+            "Prabhanjan Kambadur",
+            "Maarten de Rijke",
+            "Makoto P. Kato"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "Kyoto University",
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Constructing Click Models for Mobile Search",
+        "authors": [
+            "Jiaxin Mao",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ]
+    },
+    {
+        "title": "Update Delivery Mechanisms for Prospective Information Needs:An Analysis of Attention in Mobile Users",
+        "authors": [
+            "Jimmy Lin",
+            "Salman Mohammed",
+            "Royal Sequiera",
+            "Luchen Tan",
+            "Mark Smucker"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Item Retrieval as Utility Estimation",
+        "authors": [
+            "Shawn R. Wolfe",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "University of California, Santa Cruz",
+            "National Aeronautics and Space Administration"
+        ]
+    },
+    {
+        "title": "Crowd vs. Expert: What Can Relevance Judgment Rationales Teach Us AboutAssessor Disagreement?",
+        "authors": [
+            "Mucahid Kutlu",
+            "Tyler McDonnell",
+            ",\nYassmine Barkallah",
+            "Tamer Elsayed",
+            "Matthew Lease",
+            "James Allan"
+        ],
+        "affiliations": [
+            "Qatar University",
+            "University of Texas at Austin",
+            "University of Massachusetts \u2012 Amherst"
+        ]
+    },
+    {
+        "title": "CAN: Enhancing Sentence Similarity Modeling with Collaborativeand Adversarial Network",
+        "authors": [
+            "Qin Chen",
+            "Qinmin Hu",
+            ",\nJimmy Xiangji Huang",
+            ",\nLiang He"
+        ],
+        "affiliations": [
+            "York University",
+            "East China Normal University",
+            "East China Normal University & Ryerson University",
+            "East China Normal University & Shanghai Engineering Research Center of Intelligent Service Robot"
+        ]
+    },
+    {
+        "title": "Identify Shifts of Word Semantics through Bayesian Surprise",
+        "authors": [
+            "Zhuofeng Wu",
+            "Cheng Li",
+            "Zhe Zhao",
+            "Fei Wu",
+            ",\nQiaozhu Mei"
+        ],
+        "affiliations": [
+            "University of Michigan",
+            "Zhejiang University"
+        ]
+    },
+    {
+        "title": "From Royals to Vegans: Characterizing Question Trolling on a CommunityQuestion Answering Website",
+        "authors": [
+            "Ido Guy",
+            "Bracha Shapira",
+            "Rob Capra"
+        ],
+        "affiliations": [
+            "The University of North Carolina at Chapel Hill",
+            "Ben-Gurion University of the Negev",
+            "Ben-Gurion University of the Negev & eBay Research"
+        ]
+    },
+    {
+        "title": "Ranking for Relevance and Display Preferences in Complex Presentation Layouts",
+        "authors": [
+            "Harrie Oosterhuis",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Natural Language Interfaces with Fine-Grained User Interaction:A Case Study on Web APIs",
+        "authors": [
+            "Yu Su",
+            "Ahmed Hassan Awadallah",
+            "Miaosen Wang",
+            ",\nRyen W. White"
+        ],
+        "affiliations": [
+            "Microsoft Cortana",
+            "University of California, Santa Barbara",
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Pytrec_eval: An Extremely Fast Python Interface to trec_eval",
+        "authors": [
+            "Christophe Van Gysel",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Split-Lists and Initial Thresholds for WAND-based Search",
+        "authors": [
+            "Andrew Kane",
+            "Frank Wm. Tompa"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Ontology Evaluation with Path-based Text-aware Entropy Computation",
+        "authors": [
+            "Ying Shen",
+            "Daoyuan Chen",
+            "Min Yang",
+            ",\nYaliang Li",
+            "Nan Du",
+            "Kai Lei"
+        ],
+        "affiliations": [
+            "Tencent Medical AI Lab",
+            "Chinese Academy of Sciences",
+            "Peking University Shenzhen Graduate School"
+        ]
+    },
+    {
+        "title": "Reducing Variance in Gradient Bandit Algorithm using Antithetic Variates Method",
+        "authors": [
+            "Sihao Yu",
+            "Jun Xu",
+            "Yanyan Lan",
+            "Jiafeng Guo,\nXueqi Cheng"
+        ],
+        "affiliations": [
+            "Institute of Computing Technology, Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns:A Case Study of Web Traffic",
+        "authors": [
+            "Zitao Liu",
+            "Yan Yan",
+            "Milos Hauskrecht"
+        ],
+        "affiliations": [
+            "Intelligent Advertising Lab, JD.COM",
+            "TAL AI Lab",
+            "University of Pittsburgh"
+        ]
+    },
+    {
+        "title": "Query Performance Prediction using Passage Information",
+        "authors": [
+            "Haggai Roitman"
+        ],
+        "affiliations": [
+            "IBM Research AI"
+        ]
+    },
+    {
+        "title": "Users, Adaptivity, and Bad Abandonment",
+        "authors": [
+            "Alistair Moffat",
+            "Alfan Farizki Wicaksono"
+        ],
+        "affiliations": [
+            "University of Melbourne"
+        ]
+    },
+    {
+        "title": "Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs",
+        "authors": [
+            "Ying Shen",
+            "Yang Deng",
+            "Min Yang",
+            ",\nYaliang Li",
+            "Nan Du",
+            "Wei Fan",
+            ",\nKai Lei"
+        ],
+        "affiliations": [
+            "Tencent Medical AI Lab",
+            "Chinese Academy of Sciences",
+            "Peking University Shenzhen Graduate School"
+        ]
+    },
+    {
+        "title": "A Living Lab Study of Query Amendment in Job Search",
+        "authors": [
+            "Bahar Salehi",
+            "Damiano Spina",
+            "Alistair Moffat",
+            "Sargol Sadeghi",
+            "Falk Scholer",
+            "Timothy Baldwin",
+            "Lawrence Cavedon",
+            "Mark Sanderson",
+            "Wilson Wong",
+            "Justin Zobel"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "SEEK Ltd.",
+            "University of Melbourne"
+        ]
+    },
+    {
+        "title": "Attention-driven Factor Model for Explainable Personalized Recommendation",
+        "authors": [
+            "Jingwu Chen",
+            "Fuzhen Zhuang",
+            "Xin Hong",
+            "Xiang Ao",
+            ",\nXing Xie",
+            "Qing He"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences",
+            "Microsoft Research Asia"
+        ]
+    },
+    {
+        "title": "Translating Representations of Knowledge Graphs with Neighbors",
+        "authors": [
+            "Jen Cheng"
+        ],
+        "affiliations": [
+            "National Taiwan University"
+        ]
+    },
+    {
+        "title": "Large-Scale Image Retrieval with Elasticsearch",
+        "authors": [
+            "Giuseppe Amato",
+            "Paolo Bolettieri",
+            "Fabio Carrara",
+            "Fabrizio Falchi",
+            "Claudio Gennaro"
+        ],
+        "affiliations": [
+            "ISTI-CNR"
+        ]
+    },
+    {
+        "title": "A Co-Memory Network for Multimodal Sentiment Analysis",
+        "authors": [
+            "Nan Xu",
+            "Wenji Mao",
+            "Guandan Chen"
+        ],
+        "affiliations": [
+            "Institute of Automation, Chinese Academy of Sciences \n& University of Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Killing Two Birds With One Stone: Concurrent Ranking of Tags and Commentsof Social Images",
+        "authors": [
+            "Siew Seah",
+            "Aixin Sun",
+            "Sourav S Bhowmick"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ]
+    },
+    {
+        "title": "Imagination Based Sample Construction for Zero-Shot Learning",
+        "authors": [
+            "Gang Yang",
+            "Jinlu Liu",
+            "Xirong Li"
+        ],
+        "affiliations": [
+            "Renmin University of China"
+        ]
+    },
+    {
+        "title": "Parameterizing Kterm Hashing",
+        "authors": [
+            "Dominik Wurzer",
+            "Yumeng Qin"
+        ],
+        "affiliations": [
+            "Wuhan University"
+        ]
+    },
+    {
+        "title": "Technology Assisted Reviews: Finding the Last Few Relevant Documents by AskingYes/No Questions to Reviewers",
+        "authors": [
+            "Jie Zou",
+            "Dan Li",
+            "Evangelos Kanoulas"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "An Information Retrieval Framework for Contextual Suggestion Based on HeterogeneousInformation Network Embeddings",
+        "authors": [
+            "Dominic Seyler",
+            ",\nPraveen Chandar",
+            "Matthew Davis"
+        ],
+        "affiliations": [
+            "IBM Research & Spotify Research",
+            "IBM Research & Invitae",
+            "IBM Research & University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "Toward an Interactive Patent Retrieval Framework based on Distributed Representations",
+        "authors": [
+            "Walid Shalaby",
+            "Wlodek Zadrozny"
+        ],
+        "affiliations": [
+            "University of North Carolina at Charlotte"
+        ]
+    },
+    {
+        "title": "Consistency and Variation in Kernel Neural Ranking Model",
+        "authors": [
+            "Mary Arpita Pyreddy",
+            "Varshini Ramaseshan",
+            "Narendra Nath Joshi",
+            "Zhuyun Dai",
+            "Chenyan Xiong,\nJamie Callan",
+            "Zhiyuan Liu"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Review Sentiment-Guided Scalable Deep Recommender System",
+        "authors": [
+            "Dongmin Hyun",
+            "Chanyoung Park",
+            "Tae Lee",
+            ",\nHwanjo Yu"
+        ],
+        "affiliations": [
+            "POSTECH",
+            "NAVER Corporation"
+        ]
+    },
+    {
+        "title": "Learning to Detect Pathogenic Microorganism of Community-acquired Pneumonia",
+        "authors": [
+            "Wenwei Liang",
+            "Wei Zhang",
+            "Bo Jin",
+            ",\nJiangjiang Xu",
+            "Linhua Shu",
+            "Hongyuan Zha"
+        ],
+        "affiliations": [
+            "Georgia Institute of Technology",
+            "East China Normal University",
+            "Shanghai Children\u2019s Hospital"
+        ]
+    },
+    {
+        "title": "Towards Distributed Pairwise Ranking using Implicit Feedback",
+        "authors": [
+            "Thieme"
+        ],
+        "affiliations": [
+            "University of Hildesheim"
+        ]
+    },
+    {
+        "title": "Semantic Location in Email Query Suggestion",
+        "authors": [
+            "John Foley",
+            "Mingyang Zhang",
+            "Michael Bendersky",
+            "Marc Najork"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Google, Inc."
+        ]
+    },
+    {
+        "title": "GraphCAR: Content-aware Multimedia Recommendation with Graph Autoencoder",
+        "authors": [
+            "Qidi Xu",
+            "Fumin Shen",
+            "Li Liu",
+            ",\nHeng Tao Shen"
+        ],
+        "affiliations": [
+            "University of Electronic Science and Technology of China",
+            "University of East Anglia"
+        ]
+    },
+    {
+        "title": "Multi-level Abstraction Convolutional Model with Weak Supervisionfor Information Retrieval",
+        "authors": [
+            "Yifan Nie",
+            "Alessandro Sordoni",
+            "Yun Nie"
+        ],
+        "affiliations": [
+            "Universit\u00e9 de Montr\u00e9al",
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Analyzing and Characterizing User Intent in Information-seeking Conversations",
+        "authors": [
+            "Chen Qu",
+            "Liu Yang",
+            "W. Bruce Croft",
+            "Johanne R. Trippas",
+            ",\nYongfeng Zhang",
+            "Minghui Qiu"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "RMIT University",
+            "Rutgers University",
+            "Alibaba Group"
+        ]
+    },
+    {
+        "title": "Modeling Multidimensional User Relevance in IR using Vector Spaces",
+        "authors": [
+            "Sagar Uprety",
+            "Yi Su",
+            "Dawei Song",
+            ",\nJingfei Li"
+        ],
+        "affiliations": [
+            "The Open University",
+            "Tianjin University",
+            "National Computer Network Emergency Response Technical Team/Coordination Center of China"
+        ]
+    },
+    {
+        "title": "Are we on the Right Track? An Examination of Information Retrieval Methodologies",
+        "authors": [
+            "Enrique Amig\u00f3",
+            "Hui Fang",
+            ",\nStefano Mizzaro",
+            "ChengXiang Zhai"
+        ],
+        "affiliations": [
+            "National Distance Education University",
+            "University of Illinois at Urbana-Champaign",
+            "University of Delaware",
+            "University of Udine"
+        ]
+    },
+    {
+        "title": "Fine-Grained Information Identification in Health Related Posts",
+        "authors": [
+            "Hamed Khanpour",
+            "Cornelia Caragea"
+        ],
+        "affiliations": [
+            "Kansas State University",
+            "University of North Texas"
+        ]
+    },
+    {
+        "title": "Quantitative Information Extraction From Social Data",
+        "authors": [
+            "Omar Alonso",
+            "Thibault Sellam"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "Columbia University"
+        ]
+    },
+    {
+        "title": "Measuring Influence on Instagram: A Network-Oblivious Approach",
+        "authors": [
+            "Noam Segev",
+            "Noam Avigdor",
+            "Eytan Avigdor"
+        ],
+        "affiliations": [
+            "Klear"
+        ]
+    },
+    {
+        "title": "Event2Vec: Neural Embeddings for News Events",
+        "authors": [
+            "Vinay Setty",
+            "Katja Hose"
+        ],
+        "affiliations": [
+            "University of Stavanger & Aalborg University",
+            "Aalborg University"
+        ]
+    },
+    {
+        "title": "Universal Approximation Functions for Fast Learning to Rank: Replacing ExpensiveRegression Forests with Simple Feed-Forward Networks",
+        "authors": [
+            "Daniel Cohen",
+            "John Foley",
+            "Hamed Zamani",
+            "James Allan",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ]
+    },
+    {
+        "title": "Modeling Mobile User Actions for Purchase Recommendation using DeepMemory Networks",
+        "authors": [
+            "Djordje Gligorijevic",
+            "Jelena Gligorijevic",
+            "Aravindan Raghuveer",
+            ",\nMihajlo Grbovic",
+            "Zoran Obradovic"
+        ],
+        "affiliations": [
+            "Airbnb",
+            "Temple University",
+            "Facebook Inc."
+        ]
+    },
+    {
+        "title": "Cross Domain Regularization for Neural Ranking Models using Adversarial Learning",
+        "authors": [
+            "Daniel Cohen",
+            "Bhaskar Mitra",
+            "Katja Hofmann",
+            ",\nW. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Microsoft AI & Research"
+        ]
+    },
+    {
+        "title": "Affective Representations for Sarcasm Detection",
+        "authors": [
+            "Ameeta Agrawal",
+            "Aijun An"
+        ],
+        "affiliations": [
+            "York University"
+        ]
+    },
+    {
+        "title": "A User Study on Snippet Generation: Text Reuse vs. Paraphrases",
+        "authors": [
+            "Fan Chen",
+            "Matthias Hagen",
+            ",\nBenno Stein",
+            "Martin Potthast"
+        ],
+        "affiliations": [
+            "Martin Luther University Halle-Wittenberg",
+            "Leipzig University",
+            "Bauhaus-Universit\u00e4t Weimar"
+        ]
+    },
+    {
+        "title": "New Embedded Representations and Evaluation Protocols for InferringTransitive Relations",
+        "authors": [
+            "Sandeep Subramanian",
+            "Soumen Chakrabarti"
+        ],
+        "affiliations": [
+            "IIT Bombay"
+        ]
+    },
+    {
+        "title": "Taxi or Hitchhiking: Predicting Passenger\u2019s Preferred Service on Ride Sharing Platforms",
+        "authors": [
+            "Lingyu Zhang",
+            "Wei Ai",
+            ",\nChuan Yuan",
+            "Yuhui Zhang",
+            ",\nJieping Ye"
+        ],
+        "affiliations": [
+            "University of Michigan",
+            "Didi Chuxing",
+            "Huazhong University of Science and Technology",
+            "Beijing Jiaotong University"
+        ]
+    },
+    {
+        "title": "Towards Intent-Aware Contextual Music Recommendation: Initial Experiments",
+        "authors": [
+            "Sergey Volokhin",
+            "Eugene Agichtein"
+        ],
+        "affiliations": [
+            "Emory University"
+        ]
+    },
+    {
+        "title": "Deep Domain Adaptation Based on Multi-layer Joint Kernelized Distance",
+        "authors": [
+            "lai Chung"
+        ],
+        "affiliations": [
+            "Hong Kong Polytechnic University"
+        ]
+    },
+    {
+        "title": "Do Not Pull My Data for Resale: Protecting Data Providers Using Data RetrievalPattern Analysis",
+        "authors": [
+            "Guosai Wang",
+            "Shiyang Xiang",
+            "Yitao Duan",
+            ",\nLing Huang",
+            "Wei Xu"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Netease Youdao Inc.",
+            "AHI Fin-tech Inc."
+        ]
+    },
+    {
+        "title": "K-plet Recurrent Neural Networks for Sequential Recommendation",
+        "authors": [
+            "Xiang Lin",
+            "Shuzi Niu",
+            ",\nYiqiao Wang",
+            "Yucheng Li"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences",
+            "University of Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Citation Worthiness of Sentences in Scientific Reports",
+        "authors": [
+            "Miller",
+            "James Allan"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ]
+    },
+    {
+        "title": "Ad Click Prediction in Sequence with Long Short-Term Memory Networks:an Externality-aware Model",
+        "authors": [
+            "Weiwei Deng",
+            "Xiaoliang Ling",
+            "Yang Qi",
+            ",\nTunzi Tan",
+            "Eren Manavoglu",
+            "Qi Zhang"
+        ],
+        "affiliations": [
+            "Microsoft Bing",
+            "University of Chinese Academy of Sciences & Microsoft Bing"
+        ]
+    },
+    {
+        "title": "Assessing the Readability of Web Search Results for Searchers with Dyslexia",
+        "authors": [
+            "Adam Fourney",
+            "Meredith Ringel Morris",
+            "Abdullah Ali",
+            "Laura Vonessen"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "University of Washington"
+        ]
+    },
+    {
+        "title": "Comparing Two Binned Probability Distributions for Information Access Evaluation",
+        "authors": [
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University"
+        ]
+    },
+    {
+        "title": "Robust Asymmetric Recommendation via Min-Max Optimization",
+        "authors": [
+            "Peng Yang",
+            "Peilin Zhao",
+            "Vincent W. Zheng",
+            ",\nLizhong Ding",
+            "Xin Gao"
+        ],
+        "affiliations": [
+            "SCUT",
+            "Advanced Digital Sciences Center",
+            "KAUST"
+        ]
+    },
+    {
+        "title": "From the PRP to the Low Prior Discovery Recall Principle for Recommender Systems",
+        "authors": [
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells"
+        ],
+        "affiliations": [
+            "Universidad Aut\u00f3noma de Madrid"
+        ]
+    },
+    {
+        "title": "Deep Learning for Epidemiological Predictions",
+        "authors": [
+            "Yuexin Wu",
+            "Yiming Yang",
+            "Hiroshi Nishiura",
+            ",\nMasaya Saitoh"
+        ],
+        "affiliations": [
+            "The Institute of Statistical Mathematics",
+            "Carnegie Mellon University",
+            "Hokkaido University"
+        ]
+    },
+    {
+        "title": "Query Variation Performance Prediction for Systematic Reviews",
+        "authors": [
+            "Harrisen Scells",
+            "Leif Azzopardi",
+            ",\nGuido Zuccon",
+            "Bevan Koopman"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "CSIRO",
+            "Strathclyde University"
+        ]
+    },
+    {
+        "title": "Attention-based Hierarchical Neural Query Suggestion",
+        "authors": [
+            "Wanyu Chen",
+            "Fei Cai",
+            "Honghui Chen",
+            ",\nMaarten de Rijke"
+        ],
+        "affiliations": [
+            "National University of Defense Technology",
+            "University of Amsterdam"
+        ]
+    },
+    {
+        "title": "Texygen: A Benchmarking Platform for Text Generation Models",
+        "authors": [
+            "Yaoming Zhu",
+            "Sidi Lu",
+            "Lei Zheng",
+            "Jiaxian Guo",
+            "Weinan Zhang",
+            ",\nJun Wang",
+            "Yong Yu"
+        ],
+        "affiliations": [
+            "University College London",
+            "Shanghai Jiao Tong University"
+        ]
+    },
+    {
+        "title": "CA-LSTM: Search Task Identification with Context Attention based LSTM",
+        "authors": [
+            "Cong Du",
+            "Peng Shu",
+            "Yong Li"
+        ],
+        "affiliations": [
+            "Sogou Inc."
+        ]
+    },
+    {
+        "title": "On the Volatility of Commercial Search Engines and its Impact on InformationRetrieval Research",
+        "authors": [
+            "Jimmy",
+            ",\nGuido Zuccon",
+            "Gianluca Demartini"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "University of Queensland",
+            "Queensland University of Technology & University of Surabaya (UBAYA"
+        ]
+    },
+    {
+        "title": "Deep Semantic Text Hashing with Weak Supervision",
+        "authors": [
+            "Suthee Chaidaroon",
+            "Travis Ebesu",
+            "Yi Fang"
+        ],
+        "affiliations": [
+            "Santa Clara University"
+        ]
+    },
+    {
+        "title": "Who is the Mr. Right for Your Brand? \u2012 Discovering Brand Key Assets via Multi-modalAsset-aware Projection",
+        "authors": [
+            "Yang Liu",
+            "Tobey H. Ko",
+            ",\nZhonglei Gu"
+        ],
+        "affiliations": [
+            "Hong Kong Baptist University",
+            "University of Hong Kong"
+        ]
+    },
+    {
+        "title": "Sogou-QCL: A New Dataset with Click Relevance Label",
+        "authors": [
+            "Yukun Zheng",
+            "Zhen Fan",
+            "Yiqun Liu",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ]
+    },
+    {
+        "title": "Towards Designing Better Session Search Evaluation Metrics",
+        "authors": [
+            "Mengyang Liu",
+            "Yiqun Liu",
+            "Jiaxin Mao",
+            "Cheng Luo",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ]
+    },
+    {
+        "title": "Predicting Contradiction Intensity: Low, Strong or Very Strong?",
+        "authors": [
+            "Gabriel Chifu"
+        ],
+        "affiliations": [
+            "LIS UMR 7020 CNRS, University Aix-Marseille"
+        ]
+    },
+    {
+        "title": "A Large-Scale Study of Mobile Search Examination Behavior",
+        "authors": [
+            "Xiaochuan Wang",
+            "Ning Su",
+            "Zexue He",
+            ",\nYiqun Liu",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Beijing Normal University"
+        ]
+    },
+    {
+        "title": "Ranking Without Learning: Towards Historical Relevance-based Rankingof Social Images",
+        "authors": [
+            "Min Min Chew",
+            "Sourav S. Bhowmick",
+            "Adam Jatowt"
+        ],
+        "affiliations": [
+            "Kyoto University",
+            "Nanyang Technological University"
+        ]
+    },
+    {
+        "title": "Entire Space Multi-Task Model: An Effective Approach for Estimating Post-ClickConversion Rate",
+        "authors": [
+            "Xiao Ma",
+            "Liqin Zhao",
+            "Guan Huang",
+            "Zhi Wang",
+            "Zelin Hu",
+            "Xiaoqiang Zhu",
+            "Kun Gai"
+        ],
+        "affiliations": [
+            "Alibaba Inc."
+        ]
+    },
+    {
+        "title": "How Much is Too Much? Whole Session vs. First Query Behaviors in Task Type Prediction",
+        "authors": [
+            "Matthew Mitsui",
+            "Jiqun Liu",
+            "Chirag Shah"
+        ],
+        "affiliations": [
+            "Rutgers University"
+        ]
+    },
+    {
+        "title": "Effectiveness Evaluation with a Subset of Topics: A Practical Approach",
+        "authors": [
+            "Kevin Roitero",
+            "Michael Soprano",
+            "Stefano Mizzaro"
+        ],
+        "affiliations": [
+            "University of Udine"
+        ]
+    },
+    {
+        "title": "Locality-adapted Kernel Densities for Tweet Localization",
+        "authors": [
+            "Ozer Ozdikis",
+            "Heri Ramampiaro",
+            "Kjetil N\u00f8rv\u00e5g"
+        ],
+        "affiliations": [
+            "NTNU"
+        ]
+    },
+    {
+        "title": "Related or Duplicate: Distinguishing Similar CQA Questions via ConvolutionalNeural Networks",
+        "authors": [
+            "Wei Emma Zhang",
+            "Quan Z. Sheng",
+            ",\nZhejun Tang",
+            "Wenjie Ruan"
+        ],
+        "affiliations": [
+            "Macquarie University",
+            "Ningxia University",
+            "Oxford University"
+        ]
+    },
+    {
+        "title": "Procrastination is the Thief of Time: Evaluating the Effectiveness of ProactiveSearch Systems",
+        "authors": [
+            "Procheta Sen",
+            "Debasis Ganguly",
+            "Gareth Jones"
+        ],
+        "affiliations": [
+            "IBM Research",
+            "Dublin City University"
+        ]
+    },
+    {
+        "title": "Convolution-based Memory Network for Aspect-based Sentiment Analysis",
+        "authors": [
+            "Chuang Fan",
+            "Qinghong Gao",
+            "Jiachen Du",
+            "Lin Gui",
+            ",\nRuifeng Xu",
+            "Fai Wong"
+        ],
+        "affiliations": [
+            "Chinese University of Hong Kong",
+            "Harbin Institute of Technology",
+            "Aston University"
+        ]
+    },
+    {
+        "title": "WikiPassageQA: A Benchmark Collection for Research on Non-factoid AnswerPassage Retrieval",
+        "authors": [
+            "Daniel Cohen",
+            "Liu Yang",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ]
+    },
+    {
+        "title": "Beyond Pooling",
+        "authors": [
+            "Gordon V. Cormack",
+            "Maura R. Grossman"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Testing the Cluster Hypothesis with Focused and Graded Relevance Judgments",
+        "authors": [
+            "Eilon Sheetrit",
+            "Anna Shtok",
+            "Oren Kurland",
+            "Igal Shprincis"
+        ],
+        "affiliations": [
+            "Technion - Israel Institute of Technology",
+            "Microsoft"
+        ]
+    },
+    {
+        "title": "Query Performance Prediction Focused on Summarized Letor Features",
+        "authors": [
+            "Gabriel Chifu",
+            "L\u00e9a Laporte",
+            "Josiane Mothe",
+            "Md Zia Ullah"
+        ],
+        "affiliations": [
+            "Aix Marseille Univ, Universit\u00e9 de Toulon, CNRS, LIS",
+            "UPS, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS",
+            "INSA Lyon, LIRIS, UMR 5205 CNRS",
+            "ESPE, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS"
+        ]
+    },
+    {
+        "title": "A Study of Per-Topic Variance on System Comparison",
+        "authors": [
+            "Meng Yang",
+            "Peng Zhang",
+            "Dawei Song"
+        ],
+        "affiliations": [
+            "Tianjin University",
+            "Beijing Institute of Technology"
+        ]
+    },
+    {
+        "title": "Online Job Search: Study of Users\u2019 Search Behavior using Search Engine Query Logs",
+        "authors": [
+            "Behrooz Mansouri",
+            "Mohammad Sadegh Zahedi",
+            ",\nRicardo Campos",
+            ",\nMojgan Farhoodi"
+        ],
+        "affiliations": [
+            "Iran Telecommunication Research Center",
+            "Polytechnic Institute of Tomar, Smart Cities Research Center, LIAAD - INESC TEC"
+        ]
+    },
+    {
+        "title": "Optimizing Query Evaluations Using Reinforcement Learning for Web Search",
+        "authors": [
+            "Corby Rosset",
+            "Damien Jose",
+            "Gargi Ghosh",
+            "Bhaskar Mitra",
+            "Saurabh Tiwary"
+        ],
+        "affiliations": [
+            "Microsoft AI & Research"
+        ]
+    },
+    {
+        "title": "SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis",
+        "authors": [
+            "Zeyang Lei",
+            "Yujiu Yang",
+            "Min Yang"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "An Attribute-aware Neural Attentive Model for Next Basket Recommendation",
+        "authors": [
+            "Ting Bai",
+            "Yun Nie",
+            ",\nWayne Xin Zhao",
+            "Yutao Zhu",
+            "Pan Du",
+            "Rong Wen"
+        ],
+        "affiliations": [
+            "University of Montreal",
+            "Renmin University of China & Beijing Key Laboratory of Big Data Management  \nand Analysis Methods",
+            "Renmin University of China & Beijing Key Laboratory of Big Data Management and Analysis Methods"
+        ]
+    },
+    {
+        "title": "Characterizing Question Facets for Complex Answer Retrieval",
+        "authors": [
+            "Sean MacAvaney",
+            "Andrew Yates",
+            ",\nArman Cohan",
+            "Luca Soldaini",
+            "Kai Hui",
+            ",\nNazli Goharian",
+            "Ophir Frieder"
+        ],
+        "affiliations": [
+            "SAP SE",
+            "Georgetown University",
+            "Max Planck Institute for Informatics"
+        ]
+    },
+    {
+        "title": "A Test Collection for Coreferent Mention Retrieval",
+        "authors": [
+            "Rashmi Sankepally",
+            ",\nTongfei Chen",
+            ",\nBenjamin Van Durme",
+            ",\nDouglas W. Oard"
+        ],
+        "affiliations": [
+            "University of Maryland - College Park and Human Language Technology Center of Excellence",
+            "Johns Hopkins University",
+            "Johns Hopkins University and Human Language Technology Center of Excellence"
+        ]
+    },
+    {
+        "title": "What Do Viewers Say to Their TVs? An Analysis of Voice Queriesto Entertainment Systems",
+        "authors": [
+            "Jinfeng Rao",
+            ",\nFerhan Ture",
+            "Jimmy Lin"
+        ],
+        "affiliations": [
+            "Comcast Applied AI Research Lab",
+            "University of Maryland & Comcast Applied AI Research Lab",
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Sanity Check: A Strong Alignment and Information Retrieval Baselinefor Question Answering",
+        "authors": [
+            "Vikas Yadav",
+            "Rebecca Sharp",
+            "Mihai Surdeanu"
+        ],
+        "affiliations": [
+            "University of Arizona"
+        ]
+    },
+    {
+        "title": "Explaining Controversy on Social Media via Stance Summarization",
+        "authors": [
+            "Myungha Jang",
+            "James Allan"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ]
+    },
+    {
+        "title": "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network",
+        "authors": [
+            "Penghui Wei",
+            "Junjie Lin",
+            "Wenji Mao"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences"
+        ]
+    },
+    {
+        "title": "Query Performance Prediction and Effectiveness Evaluation Without RelevanceJudgments: Two Sides of the Same Coin",
+        "authors": [
+            "Stefano Mizzaro",
+            "Josiane Mothe",
+            ",\nKevin Roitero",
+            "Md Zia Ullah"
+        ],
+        "affiliations": [
+            "University of Udine",
+            "UPS, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS",
+            "ESPE, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS"
+        ]
+    },
+    {
+        "title": "A New Term Frequency Normalization Model for Probabilistic Information Retrieval",
+        "authors": [
+            "Fanghong Jian",
+            "Jimmy Xiangji Huang",
+            "Jiashu Zhao",
+            ",\nTingting He"
+        ],
+        "affiliations": [
+            "York University",
+            "Central China Normal University"
+        ]
+    },
+    {
+        "title": "Transparent Tree Ensembles",
+        "authors": [
+            "Alexander Moore",
+            "Vanessa Murdock",
+            "Yaxiong Cai",
+            "Kristine Jones"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "Amazon Research",
+            "eBay, Inc."
+        ]
+    },
+    {
+        "title": "A Taxonomy of Queries for E-commerce Search",
+        "authors": [
+            "Parikshit Sondhi",
+            "Mohit Sharma",
+            "Pranam Kolari",
+            ",\nChengXiang Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois Urbana Champaign",
+            "WalmartLabs"
+        ]
+    },
+    {
+        "title": "Theoretical Analysis of Interdependent Constraints in Pseudo-Relevance Feedback",
+        "authors": [
+            "Ali Montazeralghaem",
+            "Hamed Zamani",
+            ",\nAzadeh Shakery"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "University of Tehran & Institute for Research in Fundamental Sciences (IPM"
+        ]
+    },
+    {
+        "title": "Unsupervised Cross-Lingual Information Retrieval Using Monolingual Data Only",
+        "authors": [
+            "Simone Paolo Ponzetto",
+            ""
+        ],
+        "affiliations": [
+            "University of Cambridge",
+            "University of Mannheim"
+        ]
+    },
+    {
+        "title": "Toward Voice Query Clarification",
+        "authors": [
+            "Johannes Kiesel",
+            "Arefeh Bahrami",
+            "Benno Stein",
+            "Avishek Anand",
+            ",\nMatthias Hagen"
+        ],
+        "affiliations": [
+            "L3S Research Center",
+            "Bauhaus-Universit\u00e4t Weimar",
+            "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
+        ]
+    },
+    {
+        "title": "A Test Collection for Evaluating Legal Case Law Search",
+        "authors": [
+            "Daniel Locke",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ]
+    },
+    {
+        "title": "SearchX: Empowering Collaborative Search Research",
+        "authors": [
+            "Sindunuraga Rikarno Putra",
+            "Felipe Moraes",
+            "Claudia Hauff"
+        ],
+        "affiliations": [
+            "Delft University of Technology"
+        ]
+    },
+    {
+        "title": "A/B Testing with APONE",
+        "authors": [
+            "M\u00f3nica Marrero",
+            "Claudia Hauff"
+        ],
+        "affiliations": [
+            "Delft University of Technology"
+        ]
+    },
+    {
+        "title": "CoNEREL: Collective Information Extraction in News Articles",
+        "authors": [
+            "Minh C. Phan",
+            "Aixin Sun"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ]
+    },
+    {
+        "title": "A2A: Benchmark Your Clinical Decision Support Search",
+        "authors": [
+            "Sarvnaz Karimi",
+            "Vincent Nguyen",
+            "Falk Scholer",
+            ",\nBrian Jin",
+            "Sara Falamaki"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "CSIRO Data61",
+            "Sydney University"
+        ]
+    },
+    {
+        "title": "An Information Retrieval Experiment Framework for Domain Specific Applications",
+        "authors": [
+            "Harrisen Scells",
+            "Daniel Locke",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ]
+    },
+    {
+        "title": "Vote Goat: Conversational Movie Recommendation",
+        "authors": [
+            "Jeffrey Dalton",
+            "Victor Ajayi",
+            "Richard Main"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "LogCanvas: Visualizing Search History Using Knowledge Graphs",
+        "authors": [
+            "Luyan Xu",
+            "Zeon Trevor Fernando",
+            ",\nXuan Zhou",
+            "Wolfgang Nejdl"
+        ],
+        "affiliations": [
+            "Renmin University of China",
+            "Leibniz Universit\u00e4t Hannover",
+            "East China Normal University"
+        ]
+    },
+    {
+        "title": "API Caveat Explorer: Surfacing Negative Usages from Practice: An API-orientedInteractive Exploratory Search System for Programmers",
+        "authors": [
+            "Jing Li",
+            "Aixin Sun",
+            "Zhenchang Xing",
+            ",\nLei Han"
+        ],
+        "affiliations": [
+            "Nanyang Technological University",
+            "Australian National University"
+        ]
+    },
+    {
+        "title": "SmartTable: A Spreadsheet Program with Intelligent Assistance",
+        "authors": [
+            "Shuo Zhang",
+            "Vugar Abdul Zada",
+            "Krisztian Balog"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ]
+    },
+    {
+        "title": "Interactive Symptom Elicitation for Diagnostic Information Retrieval",
+        "authors": [
+            "Tuukka Ruotsalo",
+            "Antti Lipsanen"
+        ],
+        "affiliations": [
+            "University of Helsinki"
+        ]
+    },
+    {
+        "title": "Sover! Social Media Observer",
+        "authors": [
+            "Asmelash Teka Hadgu",
+            "Sallam Abualhaija",
+            "Claudia Nieder\u00e9e"
+        ],
+        "affiliations": [
+            "L3S Research Center",
+            "Interdisciplinary Centre for Security, Reliability and Trust"
+        ]
+    },
+    {
+        "title": "Combining Terrier with Apache Spark to create Agile Experimental InformationRetrieval Pipelines",
+        "authors": [
+            "Craig Macdonald"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "Dynamic Composition of Question Answering Pipelines with Frankenstein",
+        "authors": [
+            "Kuldeep Singh",
+            "Ioanna Lytra",
+            ",\nArun Sethupat Radhakrishna",
+            "Akhilesh Vyas",
+            "Esther Vidal"
+        ],
+        "affiliations": [
+            "University of Minnesota",
+            "TIB",
+            "Fraunhofer IAIS",
+            "University of Bonn & Fraunhofer IAIS"
+        ]
+    },
+    {
+        "title": "A System for Efficient High-Recall Retrieval",
+        "authors": [
+            "Mustafa Abualsaud",
+            "Nimesh Ghelani",
+            "Haotian Zhang",
+            "Mark D. Smucker",
+            "Gordon V. Cormack,\nMaura R. Grossman"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "HyPlag: A Hybrid Approach to Academic Plagiarism Detection",
+        "authors": [
+            "Norman Meuschke",
+            "Vincent Stange",
+            "Moritz Schubotz",
+            "Bela Gipp"
+        ],
+        "affiliations": [
+            "University of Konstanz"
+        ]
+    },
+    {
+        "title": "RecAdvisor: Criteria-based Ph.D. Supervisor Recommendation",
+        "authors": [
+            "Mir Anamul Hasan",
+            "Daniel G. Schwartz"
+        ],
+        "affiliations": [
+            "Florida State University"
+        ]
+    },
+    {
+        "title": "Minority Report by Lemur: Supporting Search Engine with Virtual Reality",
+        "authors": [
+            "Andrew Jie Zhou",
+            "Grace Hui Yang"
+        ],
+        "affiliations": [
+            "Georgetown University"
+        ]
+    },
+    {
+        "title": "Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search",
+        "authors": [
+            "Puxuan Yu",
+            "Wasi Uddin Ahmad",
+            ",\nHongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "University of California, Los Angeles",
+            "Wuhan University"
+        ]
+    },
+    {
+        "title": "Machine Learning @ Amazon",
+        "authors": [
+            "Rajeev Rastogi"
+        ],
+        "affiliations": [
+            "Amazon"
+        ]
+    },
+    {
+        "title": "Extracting Real-Time Insights from Graphs and Social Streams",
+        "authors": [
+            "Charu C. Aggarwal"
+        ],
+        "affiliations": [
+            "IBM T. J. Watson Research Center"
+        ]
+    },
+    {
+        "title": "Big Data at Didi Chuxing",
+        "authors": [
+            "Jieping Ye"
+        ],
+        "affiliations": [
+            "DiDi Chuxing & University of Michigan"
+        ]
+    },
+    {
+        "title": "The City Brain: Towards Real-Time Search for the Real-World",
+        "authors": [
+            "Sheng Hua"
+        ],
+        "affiliations": [
+            "Alibaba Group"
+        ]
+    },
+    {
+        "title": "Causal Inference over Longitudinal Data to Support Expectation Exploration",
+        "authors": [
+            "man"
+        ],
+        "affiliations": [
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Merchandise Recommendation for Retail Events with Word Embedding WeightedTf-idf and Dynamic Query Expansion",
+        "authors": [
+            "Ted Tao Yuan",
+            "Zezhong Zhang"
+        ],
+        "affiliations": [
+            "eBay Inc."
+        ]
+    },
+    {
+        "title": "Product Question Answering Using Customer Generated Content - Research Challenges",
+        "authors": [
+            "Eytan",
+            "Yoelle Maarek"
+        ],
+        "affiliations": [
+            "Amazon Research"
+        ]
+    },
+    {
+        "title": "Auto-completion for Question Answering Systems at Bloomberg",
+        "authors": [
+            "Konstantine Arkoudas",
+            "Mohamed Yahya"
+        ],
+        "affiliations": [
+            "Bloomberg"
+        ]
+    },
+    {
+        "title": "Talent Search and Recommendation Systems at LinkedIn: Practical Challengesand Lessons Learned",
+        "authors": [
+            "Sahin Cem Geyik",
+            "Qi Guo",
+            "Bo Hu",
+            "Cagri Ozcaglar",
+            "Ketan Thakkar",
+            "Xianren Wu",
+            "Krishnaram Kenthapadi"
+        ],
+        "affiliations": [
+            "LinkedIn"
+        ]
+    },
+    {
+        "title": "The Evolution of Content Analysis for Personalized Recommendations at Twitter",
+        "authors": [
+            "Ajeet Grewal",
+            "Jimmy Lin"
+        ],
+        "affiliations": [
+            "University of Waterloo",
+            "Twitter, Inc."
+        ]
+    },
+    {
+        "title": "Large Scale Search Engine Marketing (SEM) at Airbnb",
+        "authors": [
+            "James Wong",
+            "Brendan Collins",
+            "Ganesh Venkataraman"
+        ],
+        "affiliations": [
+            "Airbnb Inc"
+        ]
+    },
+    {
+        "title": "Clova: Services and Devices Powered by AI",
+        "authors": [
+            "Inho Kang"
+        ],
+        "affiliations": [
+            "Naver Search"
+        ]
+    },
+    {
+        "title": "Lessons from Building a Large-scale Commercial IR-based Chatbot foran Emerging Market",
+        "authors": [
+            "Manoj Kumar Chinnakotla",
+            "Puneet Agrawal"
+        ],
+        "affiliations": [
+            "Microsoft"
+        ]
+    },
+    {
+        "title": "LessonWare: Mining Student Notes to Provide Personalized Feedback",
+        "authors": [
+            "Perry Samson",
+            "Charles Bassam"
+        ],
+        "affiliations": [
+            "Echo360 Inc. & University of Michigan",
+            "Echo360 Inc."
+        ]
+    },
+    {
+        "title": "Deep Learning for Matching in Search and Recommendation",
+        "authors": [
+            "Jun Xu",
+            "Xiangnan He",
+            "Hang Li"
+        ],
+        "affiliations": [
+            "Institute of Computing Technology, Chinese Academy of Sciences",
+            "Toutiao AI Lab",
+            "School of Computing, National University of Singapore"
+        ]
+    },
+    {
+        "title": "Conducting Laboratory Experiments Properly with Statistical Tools:An Easy Hands-on Tutorial",
+        "authors": [
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University"
+        ]
+    },
+    {
+        "title": "Neural Approaches to Conversational AI",
+        "authors": [
+            "Jianfeng Gao",
+            "Michel Galley",
+            "Lihong Li"
+        ],
+        "affiliations": [
+            "Google Inc.",
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances",
+        "authors": [
+            "Weinan Zhang"
+        ],
+        "affiliations": [
+            "Shanghai Jiao Tong University"
+        ]
+    },
+    {
+        "title": "Fusion in Information Retrieval: SIGIR 2018 Half-Day Tutorial",
+        "authors": [
+            "Oren Kurland",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "Technion",
+            "RMIT University"
+        ]
+    },
+    {
+        "title": "Utilizing Knowledge Graphs for Text-Centric Information Retrieval",
+        "authors": [
+            "Laura Dietz",
+            "Alexander Kotov",
+            "Edgar Meij"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "Wayne State University",
+            "University of New Hampshire"
+        ]
+    },
+    {
+        "title": "SIGIR 2018 Tutorial on Health Search (HS2018): A Full-day from Consumers to Clinicians",
+        "authors": [
+            "Guido Zuccon",
+            "Bevan Koopman"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "Australian e-Health Research Centre, CSIRO"
+        ]
+    },
+    {
+        "title": "A Tutorial on Probabilistic Topic Models for Text Data Retrieval and Analysis",
+        "authors": [
+            "ChengXiang Zhai",
+            "Chase Geigle"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "Knowledge Extraction and Inference from Text: Shallow, Deep, and Everythingin Between",
+        "authors": [
+            "Soumen Chakrabarti"
+        ],
+        "affiliations": [
+            "IIT Bombay"
+        ]
+    },
+    {
+        "title": "Efficient Query Processing Infrastructures: A half-day tutorial at SIGIR 2018",
+        "authors": [
+            "Nicola Tonellotto",
+            "Craig Macdonald"
+        ],
+        "affiliations": [
+            "ISTI-CNR",
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "SIGIR 2018 Workshop on eCommerce (ECOM18)",
+        "authors": [
+            "Jon Degenhardt",
+            "Pino Di Fabbrizio",
+            ",\nSurya Kallumadi",
+            "Mohit Kumar",
+            "Chang Lin",
+            ",\nAndrew Trotman",
+            "Huasha Zhao"
+        ],
+        "affiliations": [
+            "Rakuten Institute of Technology",
+            "Flipkart",
+            "eBay Inc.",
+            "University of Otago",
+            "Alibaba Group",
+            "Kansas State University"
+        ]
+    },
+    {
+        "title": "SIGIR 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018)",
+        "authors": [
+            "Yongfeng Zhang",
+            "Yi Zhang",
+            "Min Zhang"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of California Santa Cruz",
+            "Rutgers University"
+        ]
+    },
+    {
+        "title": "Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural LanguageProcessing for Digital Libraries (BIRNDL 2018)",
+        "authors": [
+            "Muthu Kumar Chandrasekaran",
+            "Kokil Jaidka",
+            ",\nPhilipp Mayr"
+        ],
+        "affiliations": [
+            "GESIS - Leibniz Institute for the Social Sciences",
+            "University of Pennsylvania",
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "DATA:SEARCH\u201918 - Searching Data on the Web",
+        "authors": [
+            "Paul Groth",
+            "Laura Koesten",
+            ",\nPhilipp Mayr",
+            "Maarten de Rijke",
+            ",\nElena Simperl"
+        ],
+        "affiliations": [
+            "Elsevier Labs",
+            "University of Amsterdam",
+            "University of Southampton",
+            "Open Data Institute & University of Southampton",
+            "GESIS Leibniz - Institute for the Social Sciences"
+        ]
+    },
+    {
+        "title": "The Second Workshop on Knowledge Graphs and Semantics for Text Retrieval,Analysis, and Understanding (KG4IR)",
+        "authors": [
+            "Laura Dietz",
+            "Chenyan Xiong",
+            ",\nJeff Dalton",
+            "Edgar Meij"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "University of Glasgow",
+            "Carnegie Mellon University",
+            "University of New Hampshire"
+        ]
+    },
+    {
+        "title": "Computational Surprise in Information Retrieval",
+        "authors": [
+            "Xi Niu",
+            "Wlodek Zadrozny",
+            "Kazjon Grace",
+            ",\nWeimao Ke"
+        ],
+        "affiliations": [
+            "University of Sydney",
+            "University of North Carolina at Charlotte",
+            "Drexel University"
+        ]
+    },
+    {
+        "title": "First International Workshop on Professional Search (ProfS2018)",
+        "authors": [
+            "Suzan Verberne",
+            "Jiyin He",
+            ",\nUdo Kruschwitz",
+            "Birger Larsen",
+            "Rose",
+            ",\nArjen P. de Vries"
+        ],
+        "affiliations": [
+            "Leiden University",
+            "Aalborg University",
+            "Radboud University",
+            "University of Essex",
+            "UXLabs",
+            "Centrum Wiskunde & Informatica"
+        ]
+    },
+    {
+        "title": "Second International Workshop on Conversational Approaches to Information Retrieval(CAIR\u201918): Workshop at SIGIR 2018",
+        "authors": [
+            "Jaime Arguello",
+            "Filip Radlinski",
+            ",\nHideo Joho",
+            "Damiano Spina",
+            "Julia Kiseleva"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "University of Amsterdam",
+            "University of North Carolina at Chapel Hill",
+            "Google",
+            "University of Tsukuba"
+        ]
+    },
+    {
+        "title": "SIGIR 2018 Workshop on Learning from Limited or Noisy Data for Information Retrieval",
+        "authors": [
+            "Hamed Zamani",
+            "Mostafa Dehghani",
+            ",\nFernando Diaz",
+            "Hang Li",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Toutiao AI Lab",
+            "University of Amsterdam",
+            "Microsoft",
+            "Spotify",
+            "University of Massachusetts, Amherst"
+        ]
+    },
+    {
+        "title": "SIGIR 2018 Workshop on Intelligent Transportation Informatics",
+        "authors": [
+            "Yan Liu",
+            "Zhenhui Li",
+            ",\nWei Ai",
+            "Lingyu Zhang"
+        ],
+        "affiliations": [
+            "University of South California",
+            "Didi Chuxing",
+            "Pennsylvania State University",
+            "University of Michigan"
+        ]
+    },
+    {
+        "title": "Exploring Potential Pathways to Address Bias and Ethics in IR",
+        "authors": [
+            "Steven Zimmerman"
+        ],
+        "affiliations": [
+            "University of Essex"
+        ]
+    },
+    {
+        "title": "SmartTable: Equipping Spreadsheets with Intelligent AssistanceFunctionalities",
+        "authors": [
+            "Shuo Zhang"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ]
+    },
+    {
+        "title": "Efficiency-Effectiveness Trade-Offs in Machine Learned Models for Information Retrieval",
+        "authors": [
+            "Luke Gallagher"
+        ],
+        "affiliations": [
+            "RMIT University"
+        ]
+    },
+    {
+        "title": "Case-Based Retrieval Using Document-Level Semantic Networks",
+        "authors": [
+            "Stefano Marchesin"
+        ],
+        "affiliations": [
+            "University of Padova"
+        ]
+    },
+    {
+        "title": "Utilizing Inter-Passage Similarities for Focused Retrieval",
+        "authors": [
+            "Eilon Sheetrit"
+        ],
+        "affiliations": [
+            "Technion"
+        ]
+    },
+    {
+        "title": "Enhanced Contextual Recommendation using Social Media Data",
+        "authors": [
+            "Anirban Chakraborty"
+        ],
+        "affiliations": [
+            "Trinity College Dublin"
+        ]
+    },
+    {
+        "title": "A Semantic Search Approach to Task-Completion Engines",
+        "authors": [
+            "Dar\u00edo Garigliotti"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ]
+    },
+    {
+        "title": "Addressing News-Related Standing Information Needs",
+        "authors": [
+            "Kristine M. Rogers"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Design and Evaluation of Query Auto Completion Mechanisms",
+        "authors": [
+            "Unni Krishnan"
+        ],
+        "affiliations": [
+            "The University of Melbourne"
+        ]
+    },
+    {
+        "title": "Better Textbooks with Human Language Technology",
+        "authors": [
+            "Sudeshna Das"
+        ],
+        "affiliations": [
+            "Indian Institute of Technology, Kharagpur"
+        ]
+    },
+    {
+        "title": "CHEERS: CHeap & Engineered Evaluation of Retrieval Systems",
+        "authors": [
+            "Kevin Roitero"
+        ],
+        "affiliations": [
+            "University of Udine"
+        ]
+    }
+]
