@@ -27,7 +27,7 @@ In 2022 the IW3C2 adopted new by-laws and it is no longer involved in the organi
 
 | Year       | Title | Authors   | Orgnization | PubYear |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
-|2024|[Topic-Sensitive PageRank](https://dl.acm.org/doi/10.1145/511446.511513)|Taher H Haveliwala|Stanford University|2022|
+|2024|[Topic-Sensitive PageRank](https://dl.acm.org/doi/10.1145/511446.511513)|Taher H Haveliwala|Stanford University|2002|
 |2023|[A Contextual-Bandit Approach to Personalized News Article Recommendation](https://www.iw3c2.org/papers/2023-Contextual-Bandit.pdf)|Wei Chu, Lihong Li, John Langford and Robert Schapire|Yahoo! Labs, Princeton University|2010|
 |2022|[Earthquake shakes Twitter users: Real-time event detection by social sensors](https://www.iw3c2.org/papers/2022-Earthquake.pdf)|Takeshi Sakaki, Makoto Okazaki and Yutaka Matsuo|The University of Tokyo|2010|
 |2021|[Information Credibility on Twitter](https://www.iw3c2.org/papers/2021-Credibility.pdf)|Carlos Castillo, Marcelo Mendoza and Barbara Poblete|1Yahoo! Research, Universidad Técnica Federico Santa María, University of Chile|2011|
