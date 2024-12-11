@@ -1,0 +1,1603 @@
+[
+    {
+        "title": "The Portinari Project \u2014 IR helps Art and Culture",
+        "authors": [
+            "J. C. Portinari"
+        ],
+        "affiliations": [
+            "Pontificia Universidade Cat\u00f3lica do Rio de Janeiro"
+        ]
+    },
+    {
+        "title": "Orthogonal Locality Preserving Indexing",
+        "authors": [
+            "D. Cai",
+            "X. He"
+        ],
+        "affiliations": [
+            "University of Chicago",
+            "University of Illinois at Urbana Champaign"
+        ]
+    },
+    {
+        "title": "Why Spectral Retrieval Works",
+        "authors": [
+            "H. Bast",
+            "D. Majumdar"
+        ],
+        "affiliations": [
+            "Max-Planck-Institut f\u00fcr Informatik"
+        ]
+    },
+    {
+        "title": "Better than the Real Thing? Iterative Pseudo-Query Processing  using Cluster-Based Language Models",
+        "authors": [
+            "O. Kurland",
+            "L. Lee",
+            "C. Domshlak"
+        ],
+        "affiliations": [
+            "Cornell University, Carnegie Mellon University",
+            "Technion"
+        ]
+    },
+    {
+        "title": "The Maximum Entropy Method for Analyzing Retrieval Measures",
+        "authors": [
+            "J. A. Aslam",
+            "E. Yilmaz",
+            "V. Pavlu"
+        ],
+        "affiliations": [
+            "Northeastern University"
+        ]
+    },
+    {
+        "title": "A Study of Factors Affecting the Utility of Implicit Relevance Feedback",
+        "authors": [
+            "R. W. White",
+            "I. Ruthven",
+            "J. M. Jose"
+        ],
+        "affiliations": [
+            "University of Maryland",
+            "University of Strathclyde",
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "Context-Sensitive Information Retrieval Using Implicit Feedback",
+        "authors": [
+            "X. Shen",
+            "B. Tan",
+            "CX. Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana Champaign"
+        ]
+    },
+    {
+        "title": "User Term Feedback in Interactive Text-based Image Retrieval",
+        "authors": [
+            "C. Zhang",
+            "J. Y. Chai",
+            "R. Jin"
+        ],
+        "affiliations": [
+            "Michigan State University"
+        ]
+    },
+    {
+        "title": "Active Feedback in Ad Hoc Information Retrieval",
+        "authors": [
+            "X. Shen",
+            "CX. Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana Champaign"
+        ]
+    },
+    {
+        "title": "Improving Collection Selection with Overlap Awareness in P2P Search Engines",
+        "authors": [
+            "M. Bender",
+            "S. Michel",
+            "P. Triantafillou",
+            "G. Weikum",
+            "C. Zimmer"
+        ],
+        "affiliations": [
+            "Max-Planck-Institut f\u00fcr Informatik",
+            "University of Patras"
+        ]
+    },
+    {
+        "title": "Server Selection Methods in Hybrid Portal Search",
+        "authors": [
+            "D. Hawking",
+            "P. Thomas"
+        ],
+        "affiliations": [
+            "CSIRO ICT Centre",
+            "Australian National University"
+        ]
+    },
+    {
+        "title": "Modeling Search Engine Effectiveness for Federated Search",
+        "authors": [
+            "L. Si",
+            "J. Callan"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "A Utility Theoretic Approach to Determining Optimal Wait Times  in Distributed Information Retrieval",
+        "authors": [
+            "K. Hosanagar"
+        ],
+        "affiliations": [
+            "The University of Pennsylvania"
+        ]
+    },
+    {
+        "title": "Robustness of Adaptive Filtering Methods In a Cross-benchmark Evaluation",
+        "authors": [
+            "Y. Yang",
+            "S. Yoo",
+            "J. Zhang",
+            "B. Kisiel"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "A Probabilistic Model for Retrospective News Event Detection",
+        "authors": [
+            "Z. Li",
+            "B. Wang",
+            "Y. Ma"
+        ],
+        "affiliations": [
+            "University of Science and Technology of China",
+            "Microsoft Research Asia"
+        ]
+    },
+    {
+        "title": "Scalable Collaborative Filtering Using Cluster-based Smoothing",
+        "authors": [
+            "R. Xue",
+            "C. Lin",
+            "Q. Yang",
+            "WS. Xi",
+            "J. Zeng",
+            "Y. Yu"
+        ],
+        "affiliations": [
+            "Shanghai Jiao-Tong University",
+            "Microsoft Research Asia",
+            "Hong Kong University of Science and Technology",
+            "Virginia Polytechnic Institute and State University"
+        ]
+    },
+    {
+        "title": "OCFS: Optimal Orthogonal Centroid Feature Selection for Text Categorization",
+        "authors": [
+            "J. Yan",
+            "N. Liu",
+            "B. Zhang",
+            "S. Yan",
+            "Z. Chen",
+            "Q. Cheng",
+            "W. Fan",
+            "Y. Ma"
+        ],
+        "affiliations": [
+            "Microsoft Research Asia",
+            "Chinese University of Hong Kong",
+            "Virginia Polytechnic Institute and State University",
+            "Tsinghua University",
+            "Peking University"
+        ]
+    },
+    {
+        "title": "SimFusion: Measuring Similarity using Unified Relationship Matrix",
+        "authors": [
+            "W. Xi",
+            "E. A. Fox",
+            "W. Fan",
+            "B. Zhang",
+            "Z. Chen",
+            "J. Yan",
+            "D. Zhuang"
+        ],
+        "affiliations": [
+            "Beijing Institute of Technology",
+            "Virginia Tech",
+            "Microsoft Research Asia",
+            "Beijing University"
+        ]
+    },
+    {
+        "title": "An Application of Text Categorization Methods to Gene Ontology Annotation",
+        "authors": [
+            "K. Seki",
+            "J. Mostafa"
+        ],
+        "affiliations": [
+            "Indiana University of Bloomington"
+        ]
+    },
+    {
+        "title": "Combining Eye Movements and Collaborative Filtering  for Proactive Information Retrieval",
+        "authors": [
+            "K. Puolam\u00e4ki",
+            "J. Saloj\u00e4rvi",
+            "E. Savia",
+            "J. Simola",
+            "S. Kaski"
+        ],
+        "affiliations": [
+            "Helsinki University of Technology",
+            "Helsinki School of Economics and Business Administration",
+            "University of Helsinki"
+        ]
+    },
+    {
+        "title": "Accurately Interpreting Clickthrough Data as Implicit Feedback",
+        "authors": [
+            "T. Joachims",
+            "L. Granka",
+            "B. Pan",
+            "H. Hembrooke",
+            "G. Gay"
+        ],
+        "affiliations": [
+            "Cornell University",
+            "Stanford University"
+        ]
+    },
+    {
+        "title": "Information Retrieval System Evaluation: Effort, Sensitivity, and Reliability",
+        "authors": [
+            "M. Sanderson",
+            "J. Zobel"
+        ],
+        "affiliations": [
+            "University of Sheffield",
+            "RMIT"
+        ]
+    },
+    {
+        "title": "Detecting Phrase-Level Duplication on the World Wide Web",
+        "authors": [
+            "D. Fetterly",
+            "M. Manasse",
+            "M. Najork"
+        ],
+        "affiliations": [
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Using ODP Metadata to Personalize Search",
+        "authors": [
+            "A. Chirita",
+            "W. Nejdl",
+            "R. Paiu",
+            "C. Kohlsch\u00fctter"
+        ],
+        "affiliations": [
+            "L3S Research Center and University of Hannover"
+        ]
+    },
+    {
+        "title": "Exploiting the Hierarchical Structure for Link Analysis",
+        "authors": [
+            "R. Xue",
+            "Q. Yang",
+            "J. Zeng",
+            "Y. Yu",
+            "Z. Chen"
+        ],
+        "affiliations": [
+            "Shanghai Jiao-Tong University",
+            "Microsoft Research Asia",
+            "Hong Kong University of Science and Technology"
+        ]
+    },
+    {
+        "title": "Web-Page Summarization Using Clickthrough Data",
+        "authors": [
+            "T. Sun",
+            "D. Shen",
+            "J. Zeng",
+            "Q. Yang",
+            "Y. Lu",
+            "Z. Chen"
+        ],
+        "affiliations": [
+            "Microsoft Research Asia",
+            "TsingHua University",
+            "Hong Kong University of Science and Technology"
+        ]
+    },
+    {
+        "title": "Topic Themes for Multi-Document Summarization",
+        "authors": [
+            "S. Harabagiu",
+            "F. Lacatusu"
+        ],
+        "affiliations": [
+            "Language Computer Corporation"
+        ]
+    },
+    {
+        "title": "Do Summaries Help? A Task-Based Evaluation of Multi-Document Summarization",
+        "authors": [
+            "K. McKeown",
+            "R. J. Passonneau",
+            "D. K. Elson",
+            "A. Nenkova",
+            "J. Hirschberg"
+        ],
+        "affiliations": [
+            "Columbia University"
+        ]
+    },
+    {
+        "title": "Blogging: A New Computer Eyes, Innovation and Identities Projection",
+        "authors": [
+            "F. Flores"
+        ],
+        "affiliations": [
+            "Senator of the Republic of Chile"
+        ]
+    },
+    {
+        "title": "Optimization Strategies for Complex Queries",
+        "authors": [
+            "T. Strohman",
+            "H. Turtle",
+            "W. B. Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts",
+            "Cogitech"
+        ]
+    },
+    {
+        "title": "Simplified Similarity Scoring Using Term Ranks",
+        "authors": [
+            "V. N. Anh",
+            "A. Moffat"
+        ],
+        "affiliations": [
+            "The University of Melbourne"
+        ]
+    },
+    {
+        "title": "Efficiently Decodable and Searchable Natural Language Adaptive Compression",
+        "authors": [
+            "N. R. Brisaboa",
+            "A. Fari\u00f1a",
+            "G. Navarro",
+            "J. R. Param\u00e1"
+        ],
+        "affiliations": [
+            "Univ. da Coru\u00f1a",
+            "Univ. of Chile"
+        ]
+    },
+    {
+        "title": "Efficient and Self-tuning Incremental Query Expansion for Top-k Query Processing",
+        "authors": [
+            "M. Theobald",
+            "R. Schenkel",
+            "G. Weikum"
+        ],
+        "affiliations": [
+            "Max-Planck-Institut f\u00fcr Informatik"
+        ]
+    },
+    {
+        "title": "Title Extraction from Bodies of HTML Documents and its Application  to Web Page Retrieval",
+        "authors": [
+            "Y. Hu",
+            "G. Xin",
+            "R. Song",
+            "G. Hu",
+            "S. Shi",
+            "Y. Cao",
+            "H. Li"
+        ],
+        "affiliations": [
+            "University of Science and Technology of China",
+            "Xi\u2019an Jiaotong University",
+            "Peking University",
+            "Microsoft Research Asia"
+        ]
+    },
+    {
+        "title": "Multi-Label Informed Latent Semantic Indexing",
+        "authors": [
+            "K. Yu",
+            "S. Yu",
+            "V. Tresp"
+        ],
+        "affiliations": [
+            "Siemens AG",
+            "University of Munich"
+        ]
+    },
+    {
+        "title": "Text Classification with Kernels on the Multinomial Manifold",
+        "authors": [
+            "D. Zhang",
+            "X. Chen",
+            "W. S. Lee"
+        ],
+        "affiliations": [
+            "University of Alberta",
+            "National University of Singapore, MIT Alliance"
+        ]
+    },
+    {
+        "title": "Multi-labelled Classification Using Maximum Entropy Method",
+        "authors": [
+            "S. Zhu",
+            "X. Ji",
+            "W. Xu",
+            "Y. Gong"
+        ],
+        "affiliations": [
+            "NEC Laboratories America, Inc."
+        ]
+    },
+    {
+        "title": "Relevance Information: A Loss of Entropy but a Gain for IDF?",
+        "authors": [
+            "A. P. de Vries",
+            "T. Roelleke"
+        ],
+        "affiliations": [
+            "Queen Mary University of London",
+            "CWI"
+        ]
+    },
+    {
+        "title": "Linear Discriminant Model for Information Retrieval",
+        "authors": [
+            "J. Gao",
+            "H. Qi",
+            "X. Xia",
+            "Y. Nie"
+        ],
+        "affiliations": [
+            "Peking University",
+            "Microsoft Research Asia",
+            "Harbin Institute of Technology",
+            "Universit\u00e9 de Montr\u00e9al"
+        ]
+    },
+    {
+        "title": "Integrating Word Relationships into Language Models",
+        "authors": [
+            "Y. Nie",
+            "J. Bai"
+        ],
+        "affiliations": [
+            "Universit\u00e9 de Montr\u00e9al"
+        ]
+    },
+    {
+        "title": "PageRank without Hyperlinks: Structural Re-Ranking using Links Induced  by Language Models",
+        "authors": [
+            "O. Kurland",
+            "L. Lee"
+        ],
+        "affiliations": [
+            "Cornell University, Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Controlling Overlap in Content-Oriented XML Retrieval",
+        "authors": [
+            "C. L. A. Clarke"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ]
+    },
+    {
+        "title": "Publish/Subscribe Functionality in IR Environments  using Structured Overlay Networks",
+        "authors": [
+            "C. Tryfonopoulos",
+            "S. Idreos",
+            "M. Koubarakis"
+        ],
+        "affiliations": [
+            "Technical University of Crete"
+        ]
+    },
+    {
+        "title": "Learning to Extract Information from Semi-structured Text using  a Discriminative Context Free Grammar",
+        "authors": [
+            "P. Viola",
+            "M. Narasimhan"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "University of Washington"
+        ]
+    },
+    {
+        "title": "Web-based Acquisition of Japanese Katakana Variants",
+        "authors": [
+            "T. Masuyama",
+            "H. Nakagawa"
+        ],
+        "affiliations": [
+            "University of Tokyo"
+        ]
+    },
+    {
+        "title": "On The Collective Classification of Email \u201cSpeech Acts\u201d",
+        "authors": [
+            "V. R. Carvalho",
+            "W. W. Cohen"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Using Term Informativeness for Named Entity Detection",
+        "authors": [
+            "J. D. M. Rennie",
+            "T. Jaakkola"
+        ],
+        "affiliations": [
+            "Massachusetts Institute of Technology"
+        ]
+    },
+    {
+        "title": "Automatic Music Video Summarization Based on Audio-Visual-Text Analysis  and Alignment",
+        "authors": [
+            "C. Xu",
+            "X. Shao",
+            "N. C. Maddage",
+            "M. S. Kankanhalli"
+        ],
+        "affiliations": [
+            "Institute for Infocomm Research",
+            "National University of Singapore",
+            "Institute for Infocomm Research & National University of Singapore"
+        ]
+    },
+    {
+        "title": "A Phonotactic-Semantic Paradigm for Automatic Spoken Document Classification",
+        "authors": [
+            "B. Ma",
+            "H. Li"
+        ],
+        "affiliations": [
+            "Institute for Infocomm Research"
+        ]
+    },
+    {
+        "title": "Boosted Decision Trees for Word Recognition in Handwritten Document Retrieval",
+        "authors": [
+            "N. R. Howe",
+            "T. M. Rath",
+            "R. Manmatha"
+        ],
+        "affiliations": [
+            "University of Massachusetts",
+            "Smith College"
+        ]
+    },
+    {
+        "title": "Generic Soft Pattern Models for Definitional Question Answering",
+        "authors": [
+            "S. Chua"
+        ],
+        "affiliations": [
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "Evaluation of Resources for Question Answering Evaluation",
+        "authors": [
+            "J. Lin"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Question Answering Passage Retrieval Using Dependency Relations",
+        "authors": [
+            "S. Chua"
+        ],
+        "affiliations": [
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "A Study of Relevance Propagation for Web Search",
+        "authors": [
+            "T. Qin",
+            "Y. Liu",
+            "D. Zhang",
+            "Y. Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University, Microsoft Research Asia",
+            "Microsoft Research Asia",
+            "Tsinghua University"
+        ]
+    },
+    {
+        "title": "Relevance Weighting for Query Independent Evidence",
+        "authors": [
+            "N. Craswell",
+            "S. Robertson",
+            "H. Zaragoza",
+            "M. Taylor"
+        ],
+        "affiliations": [
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "Detecting Dominant Locations from Search Queries",
+        "authors": [
+            "L. Wang",
+            "C. Wang",
+            "X. Xie",
+            "J. Forman",
+            "Y. Lu",
+            "Y. Ma",
+            "Y. Li"
+        ],
+        "affiliations": [
+            "Harvard University",
+            "Huazhong University of Science & Technology",
+            "Microsoft Corporation",
+            "Microsoft Research Asia"
+        ]
+    },
+    {
+        "title": "Challenges in Running a Commercial Search Engine",
+        "authors": [
+            "A. Singhal"
+        ],
+        "affiliations": [
+            "Google"
+        ]
+    },
+    {
+        "title": "When Will Information Retrieval Be \u201cGood Enough\u201d?  User Effectiveness As a Function of Retrieval Accuracy",
+        "authors": [
+            "J. Allan",
+            "B. Carterette",
+            "J. Lewis"
+        ],
+        "affiliations": [
+            "University of Massachusetts Amherst"
+        ]
+    },
+    {
+        "title": "Modeling Task-Genre Relationships for IR in the Workplace",
+        "authors": [
+            "L. Freund",
+            "E. G. Toms",
+            "C. L. A. Clarke"
+        ],
+        "affiliations": [
+            "University of Waterloo",
+            "University of Toronto",
+            "Dalhousie University"
+        ]
+    },
+    {
+        "title": "Personalizing Search via Automated Analysis of Interests and Activities",
+        "authors": [
+            "J. Teevan",
+            "S. T. Dumais",
+            "E. Horvitz"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "Massachusetts Institute of Technology, CSAIL"
+        ]
+    },
+    {
+        "title": "The Loquacious User: A Document-Independent Source of Terms  for Query Expansion",
+        "authors": [
+            "D. Kelly",
+            "V. D. Dollu",
+            "X. Fu"
+        ],
+        "affiliations": [
+            "University of North Carolina at Chapel Hill"
+        ]
+    },
+    {
+        "title": "A Study of the Dirichlet Priors for Term Frequency Normalisation",
+        "authors": [
+            "B. He",
+            "I. Ounis"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "A Markov Random Field Model for Term Dependencies",
+        "authors": [
+            "D. Metzler",
+            "W. B. Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts"
+        ]
+    },
+    {
+        "title": "An Exploration of Axiomatic Approaches to Information Retrieval",
+        "authors": [
+            "H. Fang",
+            "CX. Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "Gravitation-Based Model for Information Retrieval",
+        "authors": [
+            "R. Wen",
+            "Q. Yu",
+            "Y. Ma"
+        ],
+        "affiliations": [
+            "Beijing Institute of Technology",
+            "Microsoft Research Asia"
+        ]
+    },
+    {
+        "title": "Impedance Coupling in Content-targeted Advertising",
+        "authors": [
+            "Neto",
+            "M. Cristo",
+            "P. B. Golgher",
+            "E. S. de Moura"
+        ],
+        "affiliations": [
+            "Akwan Information Technologies",
+            "Federal University of Amazonas",
+            "Federal University of Minas Gerais"
+        ]
+    },
+    {
+        "title": "Improving Web Search Results Using Affinity Graph",
+        "authors": [
+            "B. Zhang",
+            "H. Li",
+            "Y. Liu",
+            "L. Ji",
+            "W. Xi",
+            "W. Fan",
+            "Y. Ma"
+        ],
+        "affiliations": [
+            "Michigan State University",
+            "Beijing Institute of Technology",
+            "Microsoft Research Asia",
+            "Virginia Polytechnic Institute and State University",
+            "Peking University"
+        ]
+    },
+    {
+        "title": "Learning to Estimate Query Difficulty Including Applications  to Missing Content Detection and Distributed Information Retrieval",
+        "authors": [
+            "Tov",
+            "S. Fine",
+            "D. Carmel",
+            "A. Darlow"
+        ],
+        "affiliations": [
+            "IBM Haifa Research Labs"
+        ]
+    },
+    {
+        "title": "Iterative Translation Disambiguation for Cross-Language Information Retrieval",
+        "authors": [
+            "C. Monz",
+            "B. J. Dorr"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Bootstrapping Dictionaries for Cross-Language Information Retrieval",
+        "authors": [
+            "K. Mark\u00f3",
+            "S. Schulz",
+            "O. Medelyan",
+            "U. Hahn"
+        ],
+        "affiliations": [
+            "Jena University",
+            "Freiburg University Hospital"
+        ]
+    },
+    {
+        "title": "A Maximum Coherence Model for Dictionary-based Cross-language  Information Retrieval",
+        "authors": [
+            "Y. Liu",
+            "R. Jin",
+            "J. Y. Chai"
+        ],
+        "affiliations": [
+            "Michigan State University"
+        ]
+    },
+    {
+        "title": "Hidden Markov Models for Automatic Annotation and Content-Based Retrieval  of Images and Video",
+        "authors": [
+            "A. Ghoshal",
+            "P. Ircing",
+            "S. Khudanpur"
+        ],
+        "affiliations": [
+            "Johns Hopkins University",
+            "University of West Bohemia"
+        ]
+    },
+    {
+        "title": "Exploiting Ontologies for Automatic Image Annotation",
+        "authors": [
+            "M. Srikanth",
+            "J. Varner",
+            "M. Bowden",
+            "D. Moldovan"
+        ],
+        "affiliations": [
+            "Language Computer Corporation"
+        ]
+    },
+    {
+        "title": "A Database Centric View of Semantic Image Annotation and Retrieval",
+        "authors": [
+            "G. Carneiro",
+            "N. Vasconcelos"
+        ],
+        "affiliations": [
+            "University of California at San Diego",
+            "University of British Columbia, University of California at San Diego"
+        ]
+    },
+    {
+        "title": "Analysis of Factoid Questions for Effective Relation Extraction",
+        "authors": [
+            "E. Agichtein",
+            "S. Cucerzan",
+            "E. Brill"
+        ],
+        "affiliations": [
+            "Microsoft Research"
+        ]
+    },
+    {
+        "title": "A Testbed for People Searching Strategies in the WWW",
+        "authors": [
+            "J. Artiles",
+            "J. Gonzalo",
+            "F. Verdejo"
+        ],
+        "affiliations": [
+            "Dept. Lengualjes y Sistemas Inform\u00e1ticos"
+        ]
+    },
+    {
+        "title": "Measure-based Metasearch",
+        "authors": [
+            "J. A. Aslam",
+            "V. Pavlu",
+            "E. Yilmaz"
+        ],
+        "affiliations": [
+            "Northeastern University"
+        ]
+    },
+    {
+        "title": "A Geometric Interpretation of R-precision and Its Correlation with Average Precision",
+        "authors": [
+            "J. A. Aslam",
+            "E. Yilmaz",
+            "V. Pavlu"
+        ],
+        "affiliations": [
+            "Northeastern University"
+        ]
+    },
+    {
+        "title": "Probabilistic Hyperspace Analogue to Language",
+        "authors": [
+            "L. Azzopardi",
+            "M. Girolami",
+            "M. Crowe"
+        ],
+        "affiliations": [
+            "University of Paisley",
+            "University of Glasgow"
+        ]
+    },
+    {
+        "title": "Basic Issues on the Processing of Web Queries",
+        "authors": [
+            "C. Badue",
+            "R. Barbosa",
+            "P. Golgher",
+            "Neto",
+            "N. Ziviani"
+        ],
+        "affiliations": [
+            "Akwan Information Technologies",
+            "Federal University of Minas Gerais"
+        ]
+    },
+    {
+        "title": "An Interface to Search Human Movements Based on Geographic  and Chronological Metadata",
+        "authors": [
+            "W. Bainbridge",
+            "R. W. White",
+            "D. W. Oard"
+        ],
+        "affiliations": [
+            "University of Maryland",
+            "Montgomery Blair High School"
+        ]
+    },
+    {
+        "title": "Automatic Web Query Classification Using Labeled and Unlabeled Training Data",
+        "authors": [
+            "S. M. Beitzel",
+            "E. C. Jensen",
+            "O. Frieder",
+            "D. Grossman",
+            "D. D. Lewis",
+            "A. Chowdhury",
+            "A. Kolcz"
+        ],
+        "affiliations": [
+            "America Online, Inc.",
+            "Illinois Institute of Technology"
+        ]
+    },
+    {
+        "title": "Surrogate Scoring for Improved Metasearch Precision",
+        "authors": [
+            "S. M. Beitzel",
+            "E. C. Jensen",
+            "O. Frieder",
+            "A. Chowdhury",
+            "G. Pass"
+        ],
+        "affiliations": [
+            "America Online, Inc.",
+            "Illinois Institute of Technology"
+        ]
+    },
+    {
+        "title": "Detecting Action-Items in E-mail",
+        "authors": [
+            "P. N. Bennett",
+            "J. Carbonell"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Characterization of a Simple Case of the Reassignment of Document Identifiers  as a Pattern Sequencing Problem",
+        "authors": [
+            "R. Blanco",
+            "A. Barreiro"
+        ],
+        "affiliations": [
+            "University of a Coru\u00f1a"
+        ]
+    },
+    {
+        "title": "Testing Algorithms if like Testing Students",
+        "authors": [
+            "D. Bodoff",
+            "P. Li"
+        ],
+        "affiliations": [
+            "Hong Kong University of Science and Technology"
+        ]
+    },
+    {
+        "title": "Evaluating the Impact of Selection Noise in Community-Based Web Search",
+        "authors": [
+            "O. Boydell",
+            "B. Smyth",
+            "C. Gurrin",
+            "A. F. Smeaton"
+        ],
+        "affiliations": [
+            "Dublin City University",
+            "University College Dublin"
+        ]
+    },
+    {
+        "title": "Expectation of F-measures: Tractable Exact Computation  and Some Empirical Observations of its Properties",
+        "authors": [
+            "K. M. A. Chai"
+        ],
+        "affiliations": [
+            "DSO National Laboratories"
+        ]
+    },
+    {
+        "title": "Search Engines and How Students Think They Work",
+        "authors": [
+            "E. N. Efthimiadis",
+            "D. G. Hendry"
+        ],
+        "affiliations": [
+            "University of Washington"
+        ]
+    },
+    {
+        "title": "On Evaluation of Adaptive Topic Tracking Systems",
+        "authors": [
+            "T. Elsayed",
+            "D. W. Oard"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Top Subset Retrieval on Large Collections Using Sorted Indices",
+        "authors": [
+            "P. Ferguson",
+            "A. F. Smeaton",
+            "C. Gurrin",
+            "P. Wilkins"
+        ],
+        "affiliations": [
+            "Dublin City University"
+        ]
+    },
+    {
+        "title": "Relation between PLSA and NMF and Implications",
+        "authors": [
+            "E. Gaussier",
+            "C. Goutte"
+        ],
+        "affiliations": [
+            "Xerox Research Centre Europe"
+        ]
+    },
+    {
+        "title": "The Impact of Evaluation on Multilingual Text Retrieval",
+        "authors": [
+            "J. Gonzalo",
+            "C. Peters"
+        ],
+        "affiliations": [
+            "ISTI-CNR",
+            "UNED"
+        ]
+    },
+    {
+        "title": "Using Oracle\u00ae for Natural Language Document Retrieval: An Automatic  Query Reformulation Approach",
+        "authors": [
+            "J. Grivolla"
+        ],
+        "affiliations": [
+            "Laboratoire Informatique d\u2019Avignon (LIA"
+        ]
+    },
+    {
+        "title": "Customizing Information Access According to Domain and Task Knowledge:  The OntoExplo System",
+        "authors": [
+            "N. Hernandez",
+            "J. Mothe",
+            "S. Poulain"
+        ],
+        "affiliations": [
+            "IRIT"
+        ]
+    },
+    {
+        "title": "Evaluating Semantic Indexing Techniques through Cross-Language Fingerprinting",
+        "authors": [
+            "E. Hoenkamp",
+            "S. van Dijk"
+        ],
+        "affiliations": [
+            "Nijmegen Institute for Cognition and Information"
+        ]
+    },
+    {
+        "title": "Live Visual Relevance Feedback for Query Formulation",
+        "authors": [
+            "E. Hoenkamp",
+            "G. van Dinther"
+        ],
+        "affiliations": [
+            "Nijmegen Institute for Cognition and Information"
+        ]
+    },
+    {
+        "title": "A Dual Index Model for Contextual Information Retrieval",
+        "authors": [
+            "X. Huang",
+            "Y. R. Huang",
+            "M. Wen"
+        ],
+        "affiliations": [
+            "York University"
+        ]
+    },
+    {
+        "title": "Predicting Query Difficulty on the Web by Learning Visual Clues",
+        "authors": [
+            "E. C. Jensen",
+            "S. M. Beitzel",
+            "D. Grossman",
+            "O. Frieder",
+            "A. Chowdhury"
+        ],
+        "affiliations": [
+            "America Online, Inc.",
+            "Illinois Institute of Technology Information Retrieval Laboratory"
+        ]
+    },
+    {
+        "title": "Finding Semantically Similar Questions Based on Their Answers",
+        "authors": [
+            "J. Jeon",
+            "W. B. Croft",
+            "J. H. Lee"
+        ],
+        "affiliations": [
+            "University of Massachusetts"
+        ]
+    },
+    {
+        "title": "Study of Cross Lingual Information Retrieval Using On-line Translation Systems",
+        "authors": [
+            "R. Jin",
+            "J. Y. Chai"
+        ],
+        "affiliations": [
+            "Michigan State University"
+        ]
+    },
+    {
+        "title": "3D Viewpoint-based Photo Search and Information Browsing",
+        "authors": [
+            "R. Kadobayashi",
+            "K. Tanaka"
+        ],
+        "affiliations": [
+            "National Institute of Information and Communications Technology",
+            "Kyoto University"
+        ]
+    },
+    {
+        "title": "Examination and Enhancement of a Ring-Structured Graphical Search Interface Based  on Usability Testing",
+        "authors": [
+            "T. Kajiyama",
+            "N. Kando",
+            "S. Satoh"
+        ],
+        "affiliations": [
+            "National Institute of Informatics"
+        ]
+    },
+    {
+        "title": "Shortcomings of Latent Models in Supervised Settings",
+        "authors": [
+            "V. Krishnan"
+        ],
+        "affiliations": [
+            "IIT Bombay"
+        ]
+    },
+    {
+        "title": "Major Topic Detection and Its Application to Opinion Summarization",
+        "authors": [
+            "H. Chen"
+        ],
+        "affiliations": [
+            "National Taiwan University"
+        ]
+    },
+    {
+        "title": "Using Query Term Order for Result Summarisation",
+        "authors": [
+            "S. F. Liang",
+            "S. Devlin",
+            "J. Tait"
+        ],
+        "affiliations": [
+            "The University of Sunderland"
+        ]
+    },
+    {
+        "title": "Profile-based Event Tracking",
+        "authors": [
+            "B. Li",
+            "W. Li",
+            "Q. Lu",
+            "M. Wu"
+        ],
+        "affiliations": [
+            "The Hong Kong Polytechnic University"
+        ]
+    },
+    {
+        "title": "Analysis of Recursive Feature Elimination Methods",
+        "authors": [
+            "F. Li",
+            "Y. Yang"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "Assessing the Term Independence Assumption in Blind Relevance Feedback",
+        "authors": [
+            "J. Lin",
+            "G. C. Murray"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Revisiting the Effect of Topic Set Size on Retrieval Error",
+        "authors": [
+            "H. Lin",
+            "A. Hauptmann"
+        ],
+        "affiliations": [
+            "Language Technologies Institute School of Computer Science"
+        ]
+    },
+    {
+        "title": "Information Sharing through Rational Links and Viewpoint Retrieval",
+        "authors": [
+            "B. Liu",
+            "D. J. Harper",
+            "S. Watt"
+        ],
+        "affiliations": [
+            "The Robert Gordon University"
+        ]
+    },
+    {
+        "title": "Mining Multimedia Salient Concepts for Incremental Information Extraction",
+        "authors": [
+            "J. Magalh\u00e3es",
+            "S. R\u00fcger"
+        ],
+        "affiliations": [
+            "Imperial College London"
+        ]
+    },
+    {
+        "title": "Translating Pieces of Words",
+        "authors": [
+            "P. McNamee",
+            "J. Mayfield"
+        ],
+        "affiliations": [
+            "University of Maryland Baltimore County",
+            "Johns Hopkins University"
+        ]
+    },
+    {
+        "title": "Cross-Language Text Classification",
+        "authors": [
+            "J. S. Olsson",
+            "D. W. Oard",
+            ""
+        ],
+        "affiliations": [
+            "University of Maryland",
+            "Charles University"
+        ]
+    },
+    {
+        "title": "A Temporally Adaptive Content-Based Relevance Ranking Algorithm",
+        "authors": [
+            "J. Perki\u00f6",
+            "W. Buntine",
+            "H. Tirri"
+        ],
+        "affiliations": [
+            "Nokia Research Center",
+            "Helsinki Institute for Information Technology"
+        ]
+    },
+    {
+        "title": "Automated Evaluation of Search Engine Performance via Implicit User Feedback",
+        "authors": [
+            "H. Sharma",
+            "B. J. Jansen"
+        ],
+        "affiliations": [
+            "The Pennsylvania State University"
+        ]
+    },
+    {
+        "title": "Dependency Relation Matching for Answer Selection",
+        "authors": [
+            "S. Chua"
+        ],
+        "affiliations": [
+            "National University of Singapore"
+        ]
+    },
+    {
+        "title": "Using DragPushing to Refine Centroid Text Classifiers",
+        "authors": [
+            "S. Tan",
+            "X. Cheng",
+            "B. Wang",
+            "H. Xu",
+            "M. M. Ghanem",
+            "Y. Guo"
+        ],
+        "affiliations": [
+            "Imperial College London",
+            "ICT, CAS"
+        ]
+    },
+    {
+        "title": "Scalable Hierarchical Topic Detection: Exploring a Sample Based Approach",
+        "authors": [
+            "D. Trieschnigg",
+            "W. Kraaij"
+        ],
+        "affiliations": [
+            "TNO",
+            "University of Twente"
+        ]
+    },
+    {
+        "title": "Noun Sense Induction Using Web Search Results",
+        "authors": [
+            "G. Udani",
+            "S. Dave",
+            "A. Davis",
+            "T. Sibley"
+        ],
+        "affiliations": [
+            "StreamSage Inc."
+        ]
+    },
+    {
+        "title": "Self-Organizing Distributed Collaborative Filtering",
+        "authors": [
+            "J. Wang",
+            "M. J. T. Reinders",
+            "R. L. Lagendijk",
+            "J. Pouwelse"
+        ],
+        "affiliations": [
+            "Delft University of Technology"
+        ]
+    },
+    {
+        "title": "Dirichlet PageRank",
+        "authors": [
+            "X. Wang",
+            "A. Shakery",
+            "T. Tao"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana Champaign"
+        ]
+    },
+    {
+        "title": "A Retrospective Study of Probabilistic Context-Based Retrieval",
+        "authors": [
+            "H. C. Wu",
+            "R. W. P. Luk",
+            "K. F. Wong",
+            "K. L. Kwok",
+            "W. J. Li"
+        ],
+        "affiliations": [
+            "The Hong Kong Polytechnic University",
+            "Queens College, City University of New York",
+            "The Chinese University of Hong Kong"
+        ]
+    },
+    {
+        "title": "Indexing Emails and Email Threads for Retrieval",
+        "authors": [
+            "Y. Wu",
+            "D. W. Oard"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ]
+    },
+    {
+        "title": "Intelligent Fusion of Structural and Citation-Based Evidence for Text Classification",
+        "authors": [
+            "B. Zhang",
+            "Y. Chen",
+            "W. Fan",
+            "E. A. Fox",
+            "M. A. Gon\u00e7alves",
+            "M. Cristo",
+            "P. Calado"
+        ],
+        "affiliations": [
+            "Virginia Polytechnic Institute",
+            "IST/INESC-ID",
+            "Federal University of Minas Gerais"
+        ]
+    },
+    {
+        "title": "Mining Translations of OOV Terms from the Web through Cross-lingual  Query Expansion",
+        "authors": [
+            "Y. Zhang",
+            "F. Huang",
+            "S. Vogel"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ]
+    },
+    {
+        "title": "On Redundancy of Training Corpus for Text Categorization:  A Perspective of Geometry",
+        "authors": [
+            "S. Zhou",
+            "J. Guan"
+        ],
+        "affiliations": [
+            "Fudan University",
+            "Tongji University"
+        ]
+    },
+    {
+        "title": "An Industrial-Strength Content-based Music Recommendation System",
+        "authors": [
+            "P. Cano",
+            "M. Koppenberger",
+            "N. Wack"
+        ],
+        "affiliations": [
+            "IUA-Universitat Pompeu Fabra"
+        ]
+    },
+    {
+        "title": "SPIN: Searching Personal Information Networks",
+        "authors": [
+            "S. Chakrabarti",
+            "J. Mirchandani",
+            "A. Nandi"
+        ],
+        "affiliations": [
+            "IIT Bombay"
+        ]
+    },
+    {
+        "title": "A CLIR Interface to a Web Search Engine",
+        "authors": [
+            "P. Daumke",
+            "S. Schulz",
+            "K. Mark\u00f3"
+        ],
+        "affiliations": [
+            "Freiburg University Hospital"
+        ]
+    },
+    {
+        "title": "Music-to-Knowledge (M2K): A Prototyping and Evaluation Environment  for Music Information Retrieval Research",
+        "authors": [
+            "J. S. Downie",
+            "A. F. Ehmann",
+            "D. Tcheng"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "A Wireless Natural Language Search Engine",
+        "authors": [
+            "J. L. Leidner"
+        ],
+        "affiliations": [
+            "Linguit GmbH"
+        ]
+    },
+    {
+        "title": "The Recap System for Identifying Information Flow",
+        "authors": [
+            "D. Metzler",
+            "Y. Bernstein",
+            "W. B. Croft",
+            "A. Moffat",
+            "J. Zobel"
+        ],
+        "affiliations": [
+            "University of Massachusetts",
+            "University of Melbourne",
+            "Royal Melbourne Institute of Technology University",
+            "University of Massachusetts at Amherst"
+        ]
+    },
+    {
+        "title": "Hierarchical Text Summarization for WAP-Enabled Mobile Devices",
+        "authors": [
+            "D. Radev",
+            "O. Kareem",
+            "J. Otterbacher"
+        ],
+        "affiliations": [
+            "University of Michigan"
+        ]
+    },
+    {
+        "title": "Manjal - A Text Mining System for MEDLINE",
+        "authors": [
+            "A. K. Sehgal",
+            "P. Srinivasan"
+        ],
+        "affiliations": [
+            "The University of Iowa"
+        ]
+    },
+    {
+        "title": "UCAIR: A Personalized Search Toolbar",
+        "authors": [
+            "X. Shen",
+            "B. Tan",
+            "CX. Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ]
+    },
+    {
+        "title": "A Web Mining Research Platform",
+        "authors": [
+            "Driscoll"
+        ],
+        "affiliations": [
+            "Alexa Internet"
+        ]
+    },
+    {
+        "title": "Multi-Faceted Information Retrieval System for Large Scale Email Archives",
+        "authors": [
+            "V. H. Tuulos",
+            "J. Perki\u00f6",
+            "H. Tirri"
+        ],
+        "affiliations": [
+            "Nokia Research Center",
+            "Helsinki Institute for Information Technology"
+        ]
+    }
+]

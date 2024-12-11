@@ -1,0 +1,4439 @@
+[
+    {
+        "title": "Salton Award Keynote: Information Interaction in Context",
+        "authors": [
+            "Kalervo J\u00e4rvelin"
+        ],
+        "affiliations": [
+            "University of Tampere"
+        ],
+        "paperId": "4120021239b8732da932ddf42d7cf0c401603402",
+        "url": "https://www.semanticscholar.org/paper/4120021239b8732da932ddf42d7cf0c401603402",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 215.62283
+    },
+    {
+        "title": "Data Science for Social Good and Public Policy: Examples, Opportunities, and Challenges",
+        "authors": [
+            "Rayid Ghani",
+            "Debora Donato"
+        ],
+        "affiliations": [
+            "Mix Tech",
+            "University of Chicago"
+        ],
+        "paperId": "587eeb7bdd95a6b28af0122ef5b177dac8031157",
+        "url": "https://www.semanticscholar.org/paper/587eeb7bdd95a6b28af0122ef5b177dac8031157",
+        "year": 2018,
+        "citationCount": 9,
+        "influentialCitationCount": 0,
+        "matchScore": 222.71832
+    },
+    {
+        "title": "Neural Compatibility Modeling with Attentive Knowledge Distillation",
+        "authors": [
+            "Xuemeng Song",
+            "Fuli Feng",
+            "Xianjing Han",
+            "Xin Yang",
+            "Wei Liu",
+            "Liqiang Nie"
+        ],
+        "affiliations": [
+            "Tencent AI Lab",
+            "National Unversity of Singapore",
+            "Shandong University"
+        ],
+        "paperId": "41132ebe016fbe953e607831c4f688ef63f657b4",
+        "url": "https://www.semanticscholar.org/paper/41132ebe016fbe953e607831c4f688ef63f657b4",
+        "year": 2018,
+        "citationCount": 139,
+        "influentialCitationCount": 10,
+        "matchScore": 209.95535
+    },
+    {
+        "title": "Attentive Moment Retrieval in Videos",
+        "authors": [
+            "Meng Liu",
+            "Xiang Wang",
+            "Liqiang Nie",
+            "Xiangnan He",
+            "Baoquan Chen",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "National University of Singapore",
+            "Shandong University"
+        ],
+        "paperId": "519da94369c1d87e09c592f239b55cc9486b5b7c",
+        "url": "https://www.semanticscholar.org/paper/519da94369c1d87e09c592f239b55cc9486b5b7c",
+        "year": 2018,
+        "citationCount": 262,
+        "influentialCitationCount": 46,
+        "matchScore": 159.39119
+    },
+    {
+        "title": "Enhancing Person-Job Fit for Talent Recruitment: An Ability-aware Neural Network Approach",
+        "authors": [
+            "Chuan Qin",
+            "Hengshu Zhu",
+            "Tong Xu",
+            "Chen Zhu",
+            "Liang Jiang",
+            "Enhong Chen",
+            "Hui Xiong"
+        ],
+        "affiliations": [
+            "University of Science and Technology of China & Baidu Talent Intelligence Center, Baidu Inc.",
+            "Baidu Talent Intelligence Center, Baidu Inc.",
+            "University of Science and Technology of China"
+        ],
+        "paperId": "76526929ad6fba8dd6af2fedeb811b25b82c805e",
+        "url": "https://www.semanticscholar.org/paper/76526929ad6fba8dd6af2fedeb811b25b82c805e",
+        "year": 2018,
+        "citationCount": 148,
+        "influentialCitationCount": 16,
+        "matchScore": 219.11432
+    },
+    {
+        "title": "Cross-Modal Retrieval in the Cooking Context: Learning Semantic Text-Image Embeddings",
+        "authors": [
+            "Micael Carvalho",
+            "R\u00e9mi Cad\u00e8ne",
+            "David Picard",
+            "Laure Soulier",
+            "Nicolas Thome",
+            "Matthieu Cord",
+            "Paul Bennett"
+        ],
+        "affiliations": [
+            "Conservatoire National des Arts et M\u00e9tiers",
+            "Microsoft Research",
+            "Sorbonne Universit\u00e9, CNRS, LIP6"
+        ],
+        "paperId": "a9b291a22aa3e53bc610d99429fc52ba2311e110",
+        "url": "https://www.semanticscholar.org/paper/a9b291a22aa3e53bc610d99429fc52ba2311e110",
+        "year": 2018,
+        "citationCount": 173,
+        "influentialCitationCount": 22,
+        "matchScore": 312.13727
+    },
+    {
+        "title": "A Click Sequence Model for Web Search",
+        "authors": [
+            "Alexey Borisov",
+            "Martijn Wardenaar",
+            "Ilya Markov",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "Yandex & University of Amsterdam",
+            "University of Amsterdam"
+        ],
+        "paperId": "dc6730020c09c806ebb85df4f5352cb232abe576",
+        "url": "https://www.semanticscholar.org/paper/dc6730020c09c806ebb85df4f5352cb232abe576",
+        "year": 2018,
+        "citationCount": 59,
+        "influentialCitationCount": 3,
+        "matchScore": 174.58954
+    },
+    {
+        "title": "Understanding and Evaluating User Satisfaction with Music Discovery",
+        "authors": [
+            "Gathright",
+            "Brian St. Thomas",
+            "Christine Hosey",
+            "Zahra Nazari",
+            "Fernando Diaz"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "Spotify"
+        ],
+        "paperId": "a102c48fd4c6336e9deb826402d411e30fe72595",
+        "url": "https://www.semanticscholar.org/paper/a102c48fd4c6336e9deb826402d411e30fe72595",
+        "year": 2018,
+        "citationCount": 57,
+        "influentialCitationCount": 2,
+        "matchScore": 193.23306
+    },
+    {
+        "title": "Predicting User Knowledge Gain in Informational Search Sessions",
+        "authors": [
+            "Ran Yu",
+            "Ujwal Gadiraju",
+            "Peter Holtz",
+            "Markus Rokicki",
+            "Philipp Kemkes",
+            "Stefan Dietze"
+        ],
+        "affiliations": [
+            "Leibniz Universit\u00e4t Hannover"
+        ],
+        "paperId": "dfdfcdb7ee0f280a139ad353bffd903161f03a5a",
+        "url": "https://www.semanticscholar.org/paper/dfdfcdb7ee0f280a139ad353bffd903161f03a5a",
+        "year": 2018,
+        "citationCount": 81,
+        "influentialCitationCount": 15,
+        "matchScore": 235.16158
+    },
+    {
+        "title": "Dynamic Shard Cutoff Prediction for Selective Search",
+        "authors": [
+            "Hafeezul Rahman Mohammad",
+            "Keyang Xu",
+            "Jamie Callan",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "Petuum Inc.",
+            "RMIT University",
+            "Carnegie Mellon University"
+        ],
+        "paperId": "45f1b4c975e0a5c1b622c434628846ad4553fe39",
+        "url": "https://www.semanticscholar.org/paper/45f1b4c975e0a5c1b622c434628846ad4553fe39",
+        "year": 2018,
+        "citationCount": 20,
+        "influentialCitationCount": 2,
+        "matchScore": 213.32388
+    },
+    {
+        "title": "Modeling Long- and Short-Term Temporal Patterns with Deep Neural Networks",
+        "authors": [
+            "Cheng Chang",
+            "Yiming Yang",
+            "Hanxiao Liu"
+        ],
+        "affiliations": [
+            "Carnegie Mellon University"
+        ],
+        "paperId": "5f6c1b0a780cbaae92f6169312b7441decc9d6ef",
+        "url": "https://www.semanticscholar.org/paper/5f6c1b0a780cbaae92f6169312b7441decc9d6ef",
+        "year": 2017,
+        "citationCount": 1697,
+        "influentialCitationCount": 171,
+        "matchScore": 222.06305
+    },
+    {
+        "title": "Neural Query Performance Prediction using Weak Supervision from Multiple Signals",
+        "authors": [
+            "Hamed Zamani",
+            "W. Bruce Croft",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "RMIT University"
+        ],
+        "paperId": "51bf901f64239ede59f6cef4609c21a318f7d479",
+        "url": "https://www.semanticscholar.org/paper/51bf901f64239ede59f6cef4609c21a318f7d479",
+        "year": 2018,
+        "citationCount": 92,
+        "influentialCitationCount": 16,
+        "matchScore": 263.04755
+    },
+    {
+        "title": "Combined Regression and Tripletwise Learning for Conversion Rate Prediction in Real-Time Bidding Advertising",
+        "authors": [
+            "Lili Shan",
+            "Lei Lin",
+            "Chengjie Sun",
+            "Hang Li"
+        ],
+        "affiliations": [
+            "Harbin Institute of Technology",
+            "Bytedance Technologies"
+        ],
+        "paperId": "520dd9ea6dd9d79992b8a4802228f9f40388067d",
+        "url": "https://www.semanticscholar.org/paper/520dd9ea6dd9d79992b8a4802228f9f40388067d",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 0,
+        "matchScore": 248.684
+    },
+    {
+        "title": "From Greedy Selection to Exploratory Decision-Making: Diverse Ranking with Policy-Value Networks",
+        "authors": [
+            "Yue Feng",
+            "Jun Xu",
+            "Yanyan Lan",
+            "Jiafeng Guo",
+            "Wei Zeng",
+            "Xueqi Cheng"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences"
+        ],
+        "paperId": "ef5cb5d49716bcd754b971a9a7303d7da2cd1036",
+        "url": "https://www.semanticscholar.org/paper/ef5cb5d49716bcd754b971a9a7303d7da2cd1036",
+        "year": 2018,
+        "citationCount": 46,
+        "influentialCitationCount": 6,
+        "matchScore": 225.02512
+    },
+    {
+        "title": "Learning a Deep Listwise Context Model for Ranking Refinement",
+        "authors": [
+            "Qingyao Ai",
+            "Keping Bi",
+            "Jiafeng Guo",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Chinese Academy of Sciences"
+        ],
+        "paperId": "e01afd8b7c12894fbe0d48fd87045d9b2ad4c5e3",
+        "url": "https://www.semanticscholar.org/paper/e01afd8b7c12894fbe0d48fd87045d9b2ad4c5e3",
+        "year": 2018,
+        "citationCount": 193,
+        "influentialCitationCount": 32,
+        "matchScore": 224.95026
+    },
+    {
+        "title": "Efficient Exploration of Gradient Space for Online Learning to Rank",
+        "authors": [
+            "Snook",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia"
+        ],
+        "paperId": "b02ac88a092dc5fcfb80504ae6cce8e655a179a0",
+        "url": "https://www.semanticscholar.org/paper/b02ac88a092dc5fcfb80504ae6cce8e655a179a0",
+        "year": 2018,
+        "citationCount": 37,
+        "influentialCitationCount": 7,
+        "matchScore": 219.82909
+    },
+    {
+        "title": "Selective Gradient Boosting for Effective Learning to Rank",
+        "authors": [
+            "Claudio Lucchese",
+            "Franco Maria Nardini",
+            "Raffaele Perego",
+            "Salvatore Orlando",
+            "Salvatore Trani",
+            "Min Zhang"
+        ],
+        "affiliations": [
+            "ISTI-CNR",
+            "Tsinghua University",
+            "Ca\u2019 Foscari University of Venice"
+        ],
+        "paperId": "b8ffe63b058dcd072deb9bf442352dd351e3e5d3",
+        "url": "https://www.semanticscholar.org/paper/b8ffe63b058dcd072deb9bf442352dd351e3e5d3",
+        "year": 2018,
+        "citationCount": 16,
+        "influentialCitationCount": 1,
+        "matchScore": 204.83078
+    },
+    {
+        "title": "Explainable Recommendation via Multi-Task Learning in Opinionated Text Data",
+        "authors": [
+            "Nan Wang",
+            "Hongning Wang",
+            "Yiling Jia",
+            "Yue Yin"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "Shanghai Jiao Tong University"
+        ],
+        "paperId": "8b0791892bd7ae6004fc7afa0a78289c5f1dc995",
+        "url": "https://www.semanticscholar.org/paper/8b0791892bd7ae6004fc7afa0a78289c5f1dc995",
+        "year": 2018,
+        "citationCount": 187,
+        "influentialCitationCount": 10,
+        "matchScore": 268.95264
+    },
+    {
+        "title": "Sentiment Analysis of Peer Review Texts for Scholarly Papers",
+        "authors": [
+            "Ke Wang",
+            "Xiaojun Wan",
+            "Vanessa Murdock"
+        ],
+        "affiliations": [
+            "Peking University",
+            "Amazon"
+        ],
+        "paperId": "ce113a5628f723fb94ed213512cc448d3892894a",
+        "url": "https://www.semanticscholar.org/paper/ce113a5628f723fb94ed213512cc448d3892894a",
+        "year": 2018,
+        "citationCount": 71,
+        "influentialCitationCount": 5,
+        "matchScore": 203.08588
+    },
+    {
+        "title": "Attentive Recurrent Social Recommendation",
+        "authors": [
+            "Peijie Sun",
+            "Le Wu",
+            "Meng Wang"
+        ],
+        "affiliations": [
+            "Hefei University of Technology"
+        ],
+        "paperId": "7c720ab3a223306097de769d63f4f6d87ca7f402",
+        "url": "https://www.semanticscholar.org/paper/7c720ab3a223306097de769d63f4f6d87ca7f402",
+        "year": 2018,
+        "citationCount": 110,
+        "influentialCitationCount": 6,
+        "matchScore": 147.3992
+    },
+    {
+        "title": "Learning Geo-Social User Topical Profiles with Bayesian Hierarchical User Factorization",
+        "authors": [
+            "Haokai Lu",
+            "Wei Niu",
+            "James Caverlee",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "Texas A&M University",
+            "National University of Singapore"
+        ],
+        "paperId": "fbfe1fab9976db45a47ef1c7e4c95db25331d7db",
+        "url": "https://www.semanticscholar.org/paper/fbfe1fab9976db45a47ef1c7e4c95db25331d7db",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 336.77173
+    },
+    {
+        "title": "Target Apps Selection: Towards a Unified Search Framework for Mobile Devices",
+        "authors": [
+            "Mohammad Aliannejadi",
+            "Hamed Zamani",
+            "Fabio Crestani",
+            "W. Bruce Croft",
+            "Yun Nie"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "University of Montreal",
+            "Universit\u00e0 della Svizzera italiana (USI"
+        ],
+        "paperId": "4323a97845917859c5d56d318ddc33da6ceacaa1",
+        "url": "https://www.semanticscholar.org/paper/4323a97845917859c5d56d318ddc33da6ceacaa1",
+        "year": 2018,
+        "citationCount": 25,
+        "influentialCitationCount": 2,
+        "matchScore": 275.9619
+    },
+    {
+        "title": "Dialogue Act Recognition via CRF-Attentive Structured Network",
+        "authors": [
+            "Zheqian Chen",
+            "Rongqin Yang",
+            "Zhou Zhao",
+            "Deng Cai",
+            "Xiaofei He"
+        ],
+        "affiliations": [
+            "Fabu Inc.",
+            "Zhejiang University",
+            "Alibaba-Zhejiang University Joint Institute of Frontier Technologies"
+        ],
+        "paperId": "5dc4020a77d7524ded55ac972951c1ac401f2d87",
+        "url": "https://www.semanticscholar.org/paper/5dc4020a77d7524ded55ac972951c1ac401f2d87",
+        "year": 2017,
+        "citationCount": 89,
+        "influentialCitationCount": 14,
+        "matchScore": 276.4039
+    },
+    {
+        "title": "Conversational Recommender System",
+        "authors": [
+            "Yueming Sun",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "University of California, Santa Cruz"
+        ],
+        "paperId": "255149101465960b3968ee00dd3f647ea4cf309a",
+        "url": "https://www.semanticscholar.org/paper/255149101465960b3968ee00dd3f647ea4cf309a",
+        "year": 2018,
+        "citationCount": 413,
+        "influentialCitationCount": 67,
+        "matchScore": 94.10481
+    },
+    {
+        "title": "Response Ranking with Deep Matching Networks and External Knowledge in Information-seeking Conversation Systems",
+        "authors": [
+            "Liu Yang",
+            "Minghui Qiu",
+            "Chen Qu",
+            "Jiafeng Guo",
+            "Yongfeng Zhang",
+            "W. Bruce Croft",
+            "Jun Huang",
+            "Haiqing Chen"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Rutgers University",
+            "Institute of Computing Technology, Chinese Academy of Sciences",
+            "Alibaba Group"
+        ],
+        "paperId": "3a835cc957139f9caf0b9ec93b0d1889f4ac2857",
+        "url": "https://www.semanticscholar.org/paper/3a835cc957139f9caf0b9ec93b0d1889f4ac2857",
+        "year": 2018,
+        "citationCount": 141,
+        "influentialCitationCount": 10,
+        "matchScore": 280.79675
+    },
+    {
+        "title": "Chat More: Deepening and Widening the Chatting Topic via A Deep Model",
+        "authors": [
+            "Wenjie Wang",
+            "Minlie Huang",
+            "Shun Xu",
+            "Fumin Shen",
+            "Liqiang Nie",
+            "David Carmel"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Electronic Science and Technology of China",
+            "Amazon Research",
+            "Shandong University"
+        ],
+        "paperId": "8a9ffa66aeae0f7596cce9db8f42919d863cff26",
+        "url": "https://www.semanticscholar.org/paper/8a9ffa66aeae0f7596cce9db8f42919d863cff26",
+        "year": 2018,
+        "citationCount": 60,
+        "influentialCitationCount": 2,
+        "matchScore": 290.24966
+    },
+    {
+        "title": "Identifying Sub-events and Summarizing Disaster-Related Information from Microblogs",
+        "authors": [
+            "Koustav Rudra",
+            "Pawan Goyal",
+            "Niloy Ganguly",
+            "Prasenjit Mitra",
+            "Muhammad Imran"
+        ],
+        "affiliations": [
+            "Qatar Computing Research Institute (HBKU",
+            "Pennsylvania State University",
+            "Indian Institute of Technology Kharagpur"
+        ],
+        "paperId": "16517843b520b76ca8d8057ca5d42ecfebfe816d",
+        "url": "https://www.semanticscholar.org/paper/16517843b520b76ca8d8057ca5d42ecfebfe816d",
+        "year": 2018,
+        "citationCount": 78,
+        "influentialCitationCount": 11,
+        "matchScore": 277.602
+    },
+    {
+        "title": "The Rise of Guardians: Fact-checking URL Recommendation to Combat Fake News",
+        "authors": [
+            "Nguyen Vo",
+            "Kyumin Lee",
+            "Grace Hui Yang"
+        ],
+        "affiliations": [
+            "Worcester Polytechnic Institute",
+            "Georgetown University"
+        ],
+        "paperId": "d8ca06e03b5d7093ce759a857919ee3a8b9e42d7",
+        "url": "https://www.semanticscholar.org/paper/d8ca06e03b5d7093ce759a857919ee3a8b9e42d7",
+        "year": 2018,
+        "citationCount": 141,
+        "influentialCitationCount": 3,
+        "matchScore": 281.17847
+    },
+    {
+        "title": "Intent-aware Query Obfuscation for Privacy Protection in Personalized Web Search",
+        "authors": [
+            "Wei Chang",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "University of California, Los Angeles"
+        ],
+        "paperId": "26af964b752e8349216fbad9b4216cbd9781ecb7",
+        "url": "https://www.semanticscholar.org/paper/26af964b752e8349216fbad9b4216cbd9781ecb7",
+        "year": 2018,
+        "citationCount": 21,
+        "influentialCitationCount": 4,
+        "matchScore": 297.17688
+    },
+    {
+        "title": "A Personal Privacy Preserving Framework: I Let You Know Who Can See What",
+        "authors": [
+            "Xuemeng Song",
+            "Xiang Wang",
+            "Liqiang Nie",
+            "Xiangnan He",
+            "Zhumin Chen",
+            "Wei Liu"
+        ],
+        "affiliations": [
+            "National University of Singapore",
+            "Tencent AI Lab",
+            "National Unversity of Singapore",
+            "Shandong University"
+        ],
+        "paperId": "bab8b0a4cc9b8654a8b6e75f27871a069a6fdf67",
+        "url": "https://www.semanticscholar.org/paper/bab8b0a4cc9b8654a8b6e75f27871a069a6fdf67",
+        "year": 2018,
+        "citationCount": 21,
+        "influentialCitationCount": 2,
+        "matchScore": 309.5528
+    },
+    {
+        "title": "SynTF: Synthetic and Differentially Private Term Frequency Vectors for Privacy-Preserving Text Mining",
+        "authors": [
+            "Benjamin Weggenmann",
+            "Florian Kerschbaum"
+        ],
+        "affiliations": [
+            "SAP Security Research",
+            "University of Waterloo"
+        ],
+        "paperId": "e6ae7fe4c4c5658a8551ef2eccfcb1e9ac3cdc46",
+        "url": "https://www.semanticscholar.org/paper/e6ae7fe4c4c5658a8551ef2eccfcb1e9ac3cdc46",
+        "year": 2018,
+        "citationCount": 46,
+        "influentialCitationCount": 3,
+        "matchScore": 288.54593
+    },
+    {
+        "title": "Privacy-aware Ranking with Tree Ensembles on the Cloud",
+        "authors": [
+            "Shiyu Ji",
+            "Jinjin Shao",
+            "Daniel Agun",
+            "Tao Yang",
+            "Jianfeng Gao"
+        ],
+        "affiliations": [
+            "University of California, Santa Barbara",
+            "Microsoft Research"
+        ],
+        "paperId": "cd5a8a900f86c674305b871ba88f108a5fa5b727",
+        "url": "https://www.semanticscholar.org/paper/cd5a8a900f86c674305b871ba88f108a5fa5b727",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 218.04886
+    },
+    {
+        "title": "Multihop Attention Networks for Question Answer Matching",
+        "authors": [
+            "Nam Khanh Tran",
+            "Claudia Nieder\u00e9e"
+        ],
+        "affiliations": [
+            "L3S Research Center, Leibniz Universit\u00e4t Hannover"
+        ],
+        "paperId": "45d4338309f9aa2e18fefcb686fb313067139729",
+        "url": "https://www.semanticscholar.org/paper/45d4338309f9aa2e18fefcb686fb313067139729",
+        "year": 2018,
+        "citationCount": 55,
+        "influentialCitationCount": 6,
+        "matchScore": 195.80917
+    },
+    {
+        "title": "Ranking Documents by Answer-Passage Quality",
+        "authors": [
+            "Evi Yulianti",
+            "Cheng Chen",
+            "Falk Scholer",
+            "W. Bruce Croft",
+            "Mark Sanderson"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "SEEK Ltd."
+        ],
+        "paperId": "5074271ffd9e34e0451994fcce18edfd7a032a7a",
+        "url": "https://www.semanticscholar.org/paper/5074271ffd9e34e0451994fcce18edfd7a032a7a",
+        "year": 2018,
+        "citationCount": 13,
+        "influentialCitationCount": 1,
+        "matchScore": 204.24008
+    },
+    {
+        "title": "Characterizing and Supporting Question Answering in Human-to-Human Communication",
+        "authors": [
+            "Xiao Yang",
+            "Ahmed Hassan Awadallah",
+            "Madian Khabsa",
+            "Wei Wang",
+            "Miaosen Wang",
+            "Rong Wen"
+        ],
+        "affiliations": [
+            "Renmin University of China",
+            "Apple",
+            "Pennsylvania State University",
+            "Microsoft Research",
+            "Google"
+        ],
+        "paperId": "66ce3bad19bee64b2b7590f79a7367039a5b3ba1",
+        "url": "https://www.semanticscholar.org/paper/66ce3bad19bee64b2b7590f79a7367039a5b3ba1",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 215.04326
+    },
+    {
+        "title": "Adversarial Personalized Ranking for Recommendation",
+        "authors": [
+            "Xiangnan He",
+            "Zhankui He",
+            "Xiaoyu Du",
+            "Seng Chua"
+        ],
+        "affiliations": [
+            "Fudan University",
+            "Chengdu University of Information Technology",
+            "National University of Singapore"
+        ],
+        "paperId": "97cefa2f54d30bf40b2bf71a9297949ed5a327ee",
+        "url": "https://www.semanticscholar.org/paper/97cefa2f54d30bf40b2bf71a9297949ed5a327ee",
+        "year": 2018,
+        "citationCount": 372,
+        "influentialCitationCount": 58,
+        "matchScore": 165.51938
+    },
+    {
+        "title": "Turning Clicks into Purchases: Revenue Optimization for Product Search in E-Commerce",
+        "authors": [
+            "Liang Wu",
+            "Diane Hu",
+            "Liangjie Hong",
+            "Huan Liu"
+        ],
+        "affiliations": [
+            "Etsy Inc.",
+            "Arizona State University"
+        ],
+        "paperId": "305f4f38d74aeb96f7c4b3822f0dba110e8f2bc3",
+        "url": "https://www.semanticscholar.org/paper/305f4f38d74aeb96f7c4b3822f0dba110e8f2bc3",
+        "year": 2018,
+        "citationCount": 96,
+        "influentialCitationCount": 3,
+        "matchScore": 251.40768
+    },
+    {
+        "title": "Modeling Diverse Relevance Patterns in Ad-hoc Retrieval",
+        "authors": [
+            "Yixing Fan",
+            "Jiafeng Guo",
+            "Yanyan Lan",
+            "Jun Xu",
+            "Chengxiang Zhai",
+            "Xueqi Cheng",
+            "Fernando Diaz"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign",
+            "Spotify",
+            "Institute of Computing Technology, CAS"
+        ],
+        "paperId": "1272e219612184aa64b61d1d5c714f1811fcd407",
+        "url": "https://www.semanticscholar.org/paper/1272e219612184aa64b61d1d5c714f1811fcd407",
+        "year": 2018,
+        "citationCount": 92,
+        "influentialCitationCount": 13,
+        "matchScore": 238.99692
+    },
+    {
+        "title": "Unbiased Learning to Rank with Unbiased Propensity Estimation",
+        "authors": [
+            "Qingyao Ai",
+            "Keping Bi",
+            "Cheng Luo",
+            "Jiafeng Guo",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Tsinghua University",
+            "Chinese Academy of Sciences"
+        ],
+        "paperId": "f45cfe62446fc2d1b5ad9c351a2438faaa9c6553",
+        "url": "https://www.semanticscholar.org/paper/f45cfe62446fc2d1b5ad9c351a2438faaa9c6553",
+        "year": 2018,
+        "citationCount": 217,
+        "influentialCitationCount": 41,
+        "matchScore": 239.91924
+    },
+    {
+        "title": "Ranking Robustness Under Adversarial Document Manipulations",
+        "authors": [
+            "Gregory Goren",
+            "Oren Kurland",
+            "Moshe Tennenholtz",
+            "Fiana Raiber"
+        ],
+        "affiliations": [
+            "Technion - Israel Institute of Technology",
+            "Yahoo Research"
+        ],
+        "paperId": "97de783cfd015a88454ed343f0aed53ba10fc155",
+        "url": "https://www.semanticscholar.org/paper/97de783cfd015a88454ed343f0aed53ba10fc155",
+        "year": 2018,
+        "citationCount": 32,
+        "influentialCitationCount": 5,
+        "matchScore": 223.27583
+    },
+    {
+        "title": "Equity of Attention: Amortizing Individual Fairness in Rankings",
+        "authors": [
+            "Asia J. Biega",
+            "Krishna P. Gummadi",
+            "Gerhard Weikum"
+        ],
+        "affiliations": [
+            "MPI-SWS",
+            "Max Planck Institute for Informatics"
+        ],
+        "paperId": "630a718bead9ca7cee03bf9f1c7bd1db655d0ff7",
+        "url": "https://www.semanticscholar.org/paper/630a718bead9ca7cee03bf9f1c7bd1db655d0ff7",
+        "year": 2018,
+        "citationCount": 446,
+        "influentialCitationCount": 52,
+        "matchScore": 235.06155
+    },
+    {
+        "title": "Should I Follow the Crowd?: A Probabilistic Analysis of the Effectiveness of Popularity in Recommender Systems",
+        "authors": [
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells",
+            "Diane Kelly"
+        ],
+        "affiliations": [
+            "University of Tennessee",
+            "Universidad Aut\u00f3noma de Madrid"
+        ],
+        "paperId": "dc6f76cb0036c26560de4e8512042d2576f84b38",
+        "url": "https://www.semanticscholar.org/paper/dc6f76cb0036c26560de4e8512042d2576f84b38",
+        "year": 2018,
+        "citationCount": 126,
+        "influentialCitationCount": 8,
+        "matchScore": 221.99922
+    },
+    {
+        "title": "Constructing an Interaction Behavior Model for Web Image Search",
+        "authors": [
+            "Xiaohui Xie",
+            "Jiaxin Mao",
+            "Maarten de Rijke",
+            "Ruizhe Zhang",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Amsterdam"
+        ],
+        "paperId": "b21999ed0fa901eb79bd1bfc42dd8e3e1e69112f",
+        "url": "https://www.semanticscholar.org/paper/b21999ed0fa901eb79bd1bfc42dd8e3e1e69112f",
+        "year": 2018,
+        "citationCount": 24,
+        "influentialCitationCount": 0,
+        "matchScore": 192.88315
+    },
+    {
+        "title": "Between Clicks and Satisfaction: Study on Multi-Phase User Preferences and Satisfaction for Online News Reading",
+        "authors": [
+            "Hongyu Lu",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ],
+        "paperId": "c350852bc3cdf37449f25cdbd1c4842408a0834b",
+        "url": "https://www.semanticscholar.org/paper/c350852bc3cdf37449f25cdbd1c4842408a0834b",
+        "year": 2018,
+        "citationCount": 65,
+        "influentialCitationCount": 7,
+        "matchScore": 268.87363
+    },
+    {
+        "title": "The Effects of Manipulating Task Determinability on Search Behaviors and Outcomes",
+        "authors": [
+            "Robert Capra",
+            "Jaime Arguello",
+            "Brien",
+            "Yuan Li",
+            "Bogeum Choi",
+            "Isabelle Moulinier"
+        ],
+        "affiliations": [
+            "Capital One",
+            "University of British Columbia",
+            "University of North Carolina at Chapel Hill"
+        ],
+        "paperId": "69695016f7f8b0003430a98ab6db38606ae8d4dd",
+        "url": "https://www.semanticscholar.org/paper/69695016f7f8b0003430a98ab6db38606ae8d4dd",
+        "year": 2018,
+        "citationCount": 25,
+        "influentialCitationCount": 0,
+        "matchScore": 224.07037
+    },
+    {
+        "title": "Seed-driven Document Ranking for Systematic Reviews in Evidence-Based Medicine",
+        "authors": [
+            "Grace E. Lee",
+            "Aixin Sun"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ],
+        "paperId": "fc78ba8cd79026b9a9b189deae4693a668406b69",
+        "url": "https://www.semanticscholar.org/paper/fc78ba8cd79026b9a9b189deae4693a668406b69",
+        "year": 2018,
+        "citationCount": 42,
+        "influentialCitationCount": 5,
+        "matchScore": 242.36472
+    },
+    {
+        "title": "A Dataset and an Examination of Identifying Passages for Due Diligence",
+        "authors": [
+            "Adam Roegiest",
+            "Alexander K. Hudek",
+            "Anne McNulty"
+        ],
+        "affiliations": [
+            "Kira Systems"
+        ],
+        "paperId": "c6305955e02515cd97d37b15337513b725d0aab4",
+        "url": "https://www.semanticscholar.org/paper/c6305955e02515cd97d37b15337513b725d0aab4",
+        "year": 2018,
+        "citationCount": 15,
+        "influentialCitationCount": 1,
+        "matchScore": 230.63943
+    },
+    {
+        "title": "Generating Better Queries for Systematic Reviews",
+        "authors": [
+            "Harrisen Scells",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ],
+        "paperId": "3f15ca90565a61930c4222941fbc8a84f6b405b8",
+        "url": "https://www.semanticscholar.org/paper/3f15ca90565a61930c4222941fbc8a84f6b405b8",
+        "year": 2018,
+        "citationCount": 34,
+        "influentialCitationCount": 1,
+        "matchScore": 165.49246
+    },
+    {
+        "title": "Modeling Dynamic Pairwise Attention for Crime Classification over Legal Articles",
+        "authors": [
+            "Pengfei Wang",
+            "Ze Yang",
+            "Shuzi Niu",
+            "Yongfeng Zhang",
+            "Lei Zhang",
+            "ShaoZhang Niu",
+            "Jun Xu"
+        ],
+        "affiliations": [
+            "Rutgers Univeristy",
+            "Chinese Academy of Sciences",
+            "Beijing University of Posts and Telecommunications"
+        ],
+        "paperId": "a06c4a8a954d3dd593311df7b3dc0c3a5ab02997",
+        "url": "https://www.semanticscholar.org/paper/a06c4a8a954d3dd593311df7b3dc0c3a5ab02997",
+        "year": 2018,
+        "citationCount": 57,
+        "influentialCitationCount": 3,
+        "matchScore": 289.72418
+    },
+    {
+        "title": "Learning Contextual Bandits in a Non-stationary Environment",
+        "authors": [
+            "Qingyun Wu",
+            "Naveen Iyer",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia"
+        ],
+        "paperId": "2ac1373744bec77a2e2a6f98753ff94be1cf9dd6",
+        "url": "https://www.semanticscholar.org/paper/2ac1373744bec77a2e2a6f98753ff94be1cf9dd6",
+        "year": 2018,
+        "citationCount": 81,
+        "influentialCitationCount": 9,
+        "matchScore": 197.51233
+    },
+    {
+        "title": "Collaborative Memory Network for Recommendation Systems",
+        "authors": [
+            "Travis Ebesu",
+            "Bin Shen",
+            "Yi Fang"
+        ],
+        "affiliations": [
+            "Santa Clara University",
+            "Google"
+        ],
+        "paperId": "b4bd65c7bd51f4a1b70a74d952fe1bf98e465cc9",
+        "url": "https://www.semanticscholar.org/paper/b4bd65c7bd51f4a1b70a74d952fe1bf98e465cc9",
+        "year": 2018,
+        "citationCount": 263,
+        "influentialCitationCount": 31,
+        "matchScore": 157.68352
+    },
+    {
+        "title": "Streaming Ranking Based Recommender Systems",
+        "authors": [
+            "Weiqing Wang",
+            "Hongzhi Yin",
+            "Zi Huang",
+            "Qinyong Wang",
+            "Xingzhong Du",
+            "Quoc Viet Hung Nguyen",
+            "Dawei Yin"
+        ],
+        "affiliations": [
+            "Griffith University",
+            "University of Queensland",
+            "JD.com"
+        ],
+        "paperId": "f41ec703f4857a3c7c861972dd9277a89655c016",
+        "url": "https://www.semanticscholar.org/paper/f41ec703f4857a3c7c861972dd9277a89655c016",
+        "year": 2018,
+        "citationCount": 90,
+        "influentialCitationCount": 12,
+        "matchScore": 165.22604
+    },
+    {
+        "title": "Torch: A Search Engine for Trajectory Data",
+        "authors": [
+            "Sheng Wang",
+            "Zhifeng Bao",
+            "J. Shane Culpepper",
+            "Zizhe Xie",
+            "Qizhi Liu",
+            "Xiaolin Qin"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "Nanjing University",
+            "Nanjing University of Aeronautics and Astronautics"
+        ],
+        "paperId": "db8b167ac73a6b985f580fc1cec37a8eef5eba0f",
+        "url": "https://www.semanticscholar.org/paper/db8b167ac73a6b985f580fc1cec37a8eef5eba0f",
+        "year": 2018,
+        "citationCount": 64,
+        "influentialCitationCount": 7,
+        "matchScore": 180.27382
+    },
+    {
+        "title": "Top-k Route Search through Submodularity Modeling of Recurrent POI Features",
+        "authors": [
+            "Hongwei Liang",
+            "Ke Wang"
+        ],
+        "affiliations": [
+            "Simon Fraser University"
+        ],
+        "paperId": "609b8ddcfab4e6eba801634b630fe404163d3ac2",
+        "url": "https://www.semanticscholar.org/paper/609b8ddcfab4e6eba801634b630fe404163d3ac2",
+        "year": 2017,
+        "citationCount": 18,
+        "influentialCitationCount": 3,
+        "matchScore": 320.57782
+    },
+    {
+        "title": "Entity Set Search of Scientific Literature: An Unsupervised Ranking Approach",
+        "authors": [
+            "Jiaming Shen",
+            "Jinfeng Xiao",
+            "Xinwei He",
+            "Jingbo Shang",
+            "Saurabh SinhaJiawei Han"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "paperId": "dcc3ec32edf9b78b1318a029f59ae380562cee5c",
+        "url": "https://www.semanticscholar.org/paper/dcc3ec32edf9b78b1318a029f59ae380562cee5c",
+        "year": 2018,
+        "citationCount": 27,
+        "influentialCitationCount": 3,
+        "matchScore": 258.34424
+    },
+    {
+        "title": "Towards Better Text Understanding and Retrieval through Kernel Entity Salience Modeling",
+        "authors": [
+            "Chenyan Xiong",
+            "Zhengzhong Liu",
+            "Jamie Callan",
+            "Yan Liu"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "Carnegie Mellon University"
+        ],
+        "paperId": "dfe44a8efb1ae6021a52abf4f75faeb447923377",
+        "url": "https://www.semanticscholar.org/paper/dfe44a8efb1ae6021a52abf4f75faeb447923377",
+        "year": 2018,
+        "citationCount": 42,
+        "influentialCitationCount": 3,
+        "matchScore": 215.14645
+    },
+    {
+        "title": "Automated Comparative Table Generation for Facilitating Human Intervention in Multi-Entity Resolution",
+        "authors": [
+            "Jiacheng Huang",
+            "Wei Hu",
+            "Haoxuan Li",
+            "Yuzhong Qu"
+        ],
+        "affiliations": [
+            "Nanjing University"
+        ],
+        "paperId": "d21af1362ec7cabb5a9a15c00b5f66304a3cd56d",
+        "url": "https://www.semanticscholar.org/paper/d21af1362ec7cabb5a9a15c00b5f66304a3cd56d",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 218.65668
+    },
+    {
+        "title": "On-the-fly Table Generation",
+        "authors": [
+            "Shuo Zhang",
+            "Krisztian Balog",
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University",
+            "University of Stavanger"
+        ],
+        "paperId": "84d1df97278581e784f91fe756bc9f5340bbbb30",
+        "url": "https://www.semanticscholar.org/paper/84d1df97278581e784f91fe756bc9f5340bbbb30",
+        "year": 2018,
+        "citationCount": 24,
+        "influentialCitationCount": 3,
+        "matchScore": 126.943634
+    },
+    {
+        "title": "Measuring the Utility of Search Engine Result Pages: An Information Foraging Based Measure",
+        "authors": [
+            "Leif Azzopardi",
+            "Paul Thomas",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "University of Strathclyde"
+        ],
+        "paperId": "a1b7d0c1617ed7ce2469ede926e91f742d282b40",
+        "url": "https://www.semanticscholar.org/paper/a1b7d0c1617ed7ce2469ede926e91f742d282b40",
+        "year": 2018,
+        "citationCount": 77,
+        "influentialCitationCount": 6,
+        "matchScore": 193.04979
+    },
+    {
+        "title": "How Well do Offline and Online Evaluation Metrics Measure User Satisfaction in Web Image Search?",
+        "authors": [
+            "Fan Zhang",
+            "Ke Zhou",
+            "Yunqiu Shao",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of Nottingham"
+        ],
+        "paperId": "f8c64245541a6a8a2befd94a148ac17f12170652",
+        "url": "https://www.semanticscholar.org/paper/f8c64245541a6a8a2befd94a148ac17f12170652",
+        "year": 2018,
+        "citationCount": 21,
+        "influentialCitationCount": 0,
+        "matchScore": 271.80173
+    },
+    {
+        "title": "An Axiomatic Analysis of Diversity Evaluation Metrics: Introducing the Rank-Biased Utility Metric",
+        "authors": [
+            "Enrique Amig\u00f3",
+            "Damiano Spina",
+            "Albornoz",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "NLP & IR Group at UNED",
+            "RMIT University",
+            "University of California, Santa Cruz"
+        ],
+        "paperId": "0a8ffd4d7be09eb38b5434b9ce8297009e8ee2c3",
+        "url": "https://www.semanticscholar.org/paper/0a8ffd4d7be09eb38b5434b9ce8297009e8ee2c3",
+        "year": 2018,
+        "citationCount": 53,
+        "influentialCitationCount": 4,
+        "matchScore": 220.23242
+    },
+    {
+        "title": "Cross-language Citation Recommendation via Hierarchical Representation Learning on Heterogeneous Graph",
+        "authors": [
+            "Zhuoren Jiang",
+            "Yue Yin",
+            "Liangcai Gao",
+            "Yao Lu",
+            "Xiaozhong Liu"
+        ],
+        "affiliations": [
+            "Sun Yat-sen University",
+            "Peking University",
+            "Beijing Normal University",
+            "Alibaba Group"
+        ],
+        "paperId": "9aa0326aa245d79e7bb4125817399e8c26d3e7a4",
+        "url": "https://www.semanticscholar.org/paper/9aa0326aa245d79e7bb4125817399e8c26d3e7a4",
+        "year": 2018,
+        "citationCount": 49,
+        "influentialCitationCount": 5,
+        "matchScore": 244.4285
+    },
+    {
+        "title": "Attentive Group Recommendation",
+        "authors": [
+            "Da Cao",
+            "Xiangnan He",
+            "Lianhai Miao",
+            "Yahui An",
+            "Chao Yang",
+            "Richang Hong"
+        ],
+        "affiliations": [
+            "University of Electronic Science and Technology of China",
+            "Hunan University",
+            "National University of Singapore",
+            "Hefei University of Technology"
+        ],
+        "paperId": "3613f86d0e0424e02d4eabc250735ad73a273a20",
+        "url": "https://www.semanticscholar.org/paper/3613f86d0e0424e02d4eabc250735ad73a273a20",
+        "year": 2018,
+        "citationCount": 218,
+        "influentialCitationCount": 49,
+        "matchScore": 107.20025
+    },
+    {
+        "title": "Calendar-Aware Proactive Email Recommendation",
+        "authors": [
+            "Qian Zhao",
+            "Paul N. Bennett",
+            "Adam Fourney",
+            "Anne Loomis Thompson",
+            "Shane WilliamsAdam D. Troy",
+            "Susan T. Dumais"
+        ],
+        "affiliations": [
+            "University of Minnesota",
+            "Microsoft"
+        ],
+        "paperId": "d697fd8b43b34a98f790d3e43e10e6cdac6b1622",
+        "url": "https://www.semanticscholar.org/paper/d697fd8b43b34a98f790d3e43e10e6cdac6b1622",
+        "year": 2018,
+        "citationCount": 14,
+        "influentialCitationCount": 4,
+        "matchScore": 204.52823
+    },
+    {
+        "title": "Structuring Wikipedia Articles with Section Recommendations",
+        "authors": [
+            "Tiziano Piccardi",
+            "Michele Catasta",
+            "Leila Zia",
+            "Robert West",
+            "Mark Sanderson"
+        ],
+        "affiliations": [
+            "Ecole Polytechnique F\u00e9d\u00e9rale de Lausanne",
+            "Stanford University",
+            "RMIT University",
+            "Wikimedia Foundation"
+        ],
+        "paperId": "68a25d4ecfdfa42de7b2d3d1f9a015cb36f54e52",
+        "url": "https://www.semanticscholar.org/paper/68a25d4ecfdfa42de7b2d3d1f9a015cb36f54e52",
+        "year": 2018,
+        "citationCount": 22,
+        "influentialCitationCount": 1,
+        "matchScore": 199.21297
+    },
+    {
+        "title": "On Fine-Grained Relevance Scales",
+        "authors": [
+            "Kevin Roitero",
+            "Eddy Maddalena",
+            "Gianluca Demartini",
+            "Stefano Mizzaro"
+        ],
+        "affiliations": [
+            "University of Southampton",
+            "University of Udine",
+            "University of Queensland"
+        ],
+        "paperId": "c0ed318ac5afd2096411d531f1ad1dfcd86b3517",
+        "url": "https://www.semanticscholar.org/paper/c0ed318ac5afd2096411d531f1ad1dfcd86b3517",
+        "year": 2018,
+        "citationCount": 28,
+        "influentialCitationCount": 2,
+        "matchScore": 156.76306
+    },
+    {
+        "title": "Automatic Ground Truth Expansion for Timeline Evaluation",
+        "authors": [
+            "Richard McCreadie",
+            "Craig Macdonald",
+            "Iadh Ounis"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ],
+        "paperId": "ee3b36953e5c6a47c42490d1fe6da4242bda5091",
+        "url": "https://www.semanticscholar.org/paper/ee3b36953e5c6a47c42490d1fe6da4242bda5091",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 220.29933
+    },
+    {
+        "title": "Stochastic Simulation of Test Collections: Evaluation Scores",
+        "authors": [
+            "Juli\u00e1n Urbano",
+            "Thomas Nagler"
+        ],
+        "affiliations": [
+            "Technical University of Munich",
+            "Delft University of Technology"
+        ],
+        "paperId": "f7bcb3f218d667811978dfb54d5eebe450865652",
+        "url": "https://www.semanticscholar.org/paper/f7bcb3f218d667811978dfb54d5eebe450865652",
+        "year": 2018,
+        "citationCount": 14,
+        "influentialCitationCount": 0,
+        "matchScore": 188.59798
+    },
+    {
+        "title": "Offline Comparative Evaluation with Incremental, Minimally-Invasive Online Feedback",
+        "authors": [
+            "Ben Carterette",
+            "Praveen Chandar",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "University of Delaware",
+            "Spotify"
+        ],
+        "paperId": "e800bd54d4141295be32b7871132dcf5c147ddc6",
+        "url": "https://www.semanticscholar.org/paper/e800bd54d4141295be32b7871132dcf5c147ddc6",
+        "year": 2018,
+        "citationCount": 15,
+        "influentialCitationCount": 3,
+        "matchScore": 228.73969
+    },
+    {
+        "title": "BiNE: Bipartite Network Embedding",
+        "authors": [
+            "Ming Gao",
+            "Leihui Chen",
+            "Xiangnan He",
+            "Aoying Zhou"
+        ],
+        "affiliations": [
+            "East China Normal University",
+            "National University of Singapore"
+        ],
+        "paperId": "97f1d08c306040401112ff0564f37e6c6a312522",
+        "url": "https://www.semanticscholar.org/paper/97f1d08c306040401112ff0564f37e6c6a312522",
+        "year": 2018,
+        "citationCount": 185,
+        "influentialCitationCount": 26,
+        "matchScore": 148.24503
+    },
+    {
+        "title": "Deep Domain Adaptation Hashing with Adversarial Learning",
+        "authors": [
+            "Fuchen Long",
+            "Ting Yao",
+            "Qi Dai",
+            "Xinmei Tian",
+            "Jiebo Luo",
+            "Tao Mei"
+        ],
+        "affiliations": [
+            "University of Rochester",
+            "Microsoft Research",
+            "University of Science and Technology of China"
+        ],
+        "paperId": "f27fd21273e3c31f166fad08c53f1fe27caf2490",
+        "url": "https://www.semanticscholar.org/paper/f27fd21273e3c31f166fad08c53f1fe27caf2490",
+        "year": 2018,
+        "citationCount": 20,
+        "influentialCitationCount": 2,
+        "matchScore": 208.13637
+    },
+    {
+        "title": "Fast Scalable Supervised Hashing",
+        "authors": [
+            "Xin Luo",
+            "Liqiang Nie",
+            "Xiangnan He",
+            "Shun Xu",
+            "Krisztian Balog"
+        ],
+        "affiliations": [
+            "University of Stavanger",
+            "National University of Singapore",
+            "Shandong University"
+        ],
+        "paperId": "2998ecb90eead72760ec43067f31d07955fe731a",
+        "url": "https://www.semanticscholar.org/paper/2998ecb90eead72760ec43067f31d07955fe731a",
+        "year": 2018,
+        "citationCount": 76,
+        "influentialCitationCount": 5,
+        "matchScore": 145.97871
+    },
+    {
+        "title": "Enriching Taxonomies With Functional Domain Knowledge",
+        "authors": [
+            "Nikhita Vedula",
+            "Patrick K. Nicholson",
+            "Deepak Ajwani",
+            "Sourav Dutta",
+            "Alessandra Sala",
+            "Srinivasan Parthasarathy"
+        ],
+        "affiliations": [
+            "The Ohio State University",
+            "Nokia Bell Labs, Ireland"
+        ],
+        "paperId": "4c730dfa31064a8b13043a3fae6ce26f5e1b2709",
+        "url": "https://www.semanticscholar.org/paper/4c730dfa31064a8b13043a3fae6ce26f5e1b2709",
+        "year": 2018,
+        "citationCount": 40,
+        "influentialCitationCount": 2,
+        "matchScore": 171.50851
+    },
+    {
+        "title": "On Link Prediction in Knowledge Bases: Max-K Criterion and Prediction Protocols",
+        "authors": [
+            "Jiajie Mei",
+            "Richong Zhang",
+            "Yongyi Mao",
+            "Ting Deng"
+        ],
+        "affiliations": [
+            "Beihang University",
+            "University of Ottawa"
+        ],
+        "paperId": "e8553bedc596d815ca084cdc97465c546fb57808",
+        "url": "https://www.semanticscholar.org/paper/e8553bedc596d815ca084cdc97465c546fb57808",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 1,
+        "matchScore": 262.3844
+    },
+    {
+        "title": "Weakly-supervised Contextualization of Knowledge Graph Facts",
+        "authors": [
+            "Nikos Voskarides",
+            "Edgar Meij",
+            "Ridho Reinanda",
+            "Abhinav Khaitan",
+            "Miles OsborneGiorgio Stefanoni",
+            "Prabhanjan Kambadur",
+            "Maarten de Rijke",
+            "Makoto P. Kato"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "Kyoto University",
+            "University of Amsterdam"
+        ],
+        "paperId": "9b9ddb87a7a3522dcd74ede538b0c1dd0db6024e",
+        "url": "https://www.semanticscholar.org/paper/9b9ddb87a7a3522dcd74ede538b0c1dd0db6024e",
+        "year": 2018,
+        "citationCount": 22,
+        "influentialCitationCount": 1,
+        "matchScore": 200.61179
+    },
+    {
+        "title": "Constructing Click Models for Mobile Search",
+        "authors": [
+            "Jiaxin Mao",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ],
+        "paperId": "275ef2391cf4a0e4a02420a2f22c38efbad9479e",
+        "url": "https://www.semanticscholar.org/paper/275ef2391cf4a0e4a02420a2f22c38efbad9479e",
+        "year": 2018,
+        "citationCount": 44,
+        "influentialCitationCount": 1,
+        "matchScore": 171.04893
+    },
+    {
+        "title": "Update Delivery Mechanisms for Prospective Information Needs: An Analysis of Attention in Mobile Users",
+        "authors": [
+            "Jimmy Lin",
+            "Salman Mohammed",
+            "Royal Sequiera",
+            "Luchen Tan",
+            "Mark Smucker"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ],
+        "paperId": "71a6c7e16f9461bba32d9b90fb7ec67664a7426c",
+        "url": "https://www.semanticscholar.org/paper/71a6c7e16f9461bba32d9b90fb7ec67664a7426c",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 255.79526
+    },
+    {
+        "title": "Item Retrieval as Utility Estimation",
+        "authors": [
+            "Shawn R. Wolfe",
+            "Yi Zhang"
+        ],
+        "affiliations": [
+            "University of California, Santa Cruz",
+            "National Aeronautics and Space Administration"
+        ],
+        "paperId": "c9fcb513220ed6de51f3c6b87f7f4c4184088b8e",
+        "url": "https://www.semanticscholar.org/paper/c9fcb513220ed6de51f3c6b87f7f4c4184088b8e",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 157.16315
+    },
+    {
+        "title": "Crowd vs. Expert: What Can Relevance Judgment Rationales Teach Us About Assessor Disagreement?",
+        "authors": [
+            "Mucahid Kutlu",
+            "Tyler McDonnell",
+            "Yassmine Barkallah",
+            "Tamer Elsayed",
+            "Matthew Lease",
+            "James Allan"
+        ],
+        "affiliations": [
+            "Qatar University",
+            "University of Texas at Austin",
+            "University of Massachusetts \u2012 Amherst"
+        ],
+        "paperId": "4b55974e80961b75e88ba254355bdafdd7a699ff",
+        "url": "https://www.semanticscholar.org/paper/4b55974e80961b75e88ba254355bdafdd7a699ff",
+        "year": 2018,
+        "citationCount": 23,
+        "influentialCitationCount": 2,
+        "matchScore": 268.23074
+    },
+    {
+        "title": "CAN: Enhancing Sentence Similarity Modeling with Collaborative and Adversarial Network",
+        "authors": [
+            "Qin Chen",
+            "Qinmin Hu",
+            "Jimmy Xiangji Huang",
+            "Liang He"
+        ],
+        "affiliations": [
+            "York University",
+            "East China Normal University",
+            "East China Normal University & Ryerson University",
+            "East China Normal University & Shanghai Engineering Research Center of Intelligent Service Robot"
+        ],
+        "paperId": "edafa08d896f073f49ed9302a2b843b488143c23",
+        "url": "https://www.semanticscholar.org/paper/edafa08d896f073f49ed9302a2b843b488143c23",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 1,
+        "matchScore": 178.72243
+    },
+    {
+        "title": "Identify Shifts of Word Semantics through Bayesian Surprise",
+        "authors": [
+            "Zhuofeng Wu",
+            "Cheng Li",
+            "Zhe Zhao",
+            "Fei Wu",
+            "Qiaozhu Mei"
+        ],
+        "affiliations": [
+            "University of Michigan",
+            "Zhejiang University"
+        ],
+        "paperId": "bb5cf40668beeca9bb029b97b5275e1e4b56abbc",
+        "url": "https://www.semanticscholar.org/paper/bb5cf40668beeca9bb029b97b5275e1e4b56abbc",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 261.16727
+    },
+    {
+        "title": "From Royals to Vegans: Characterizing Question Trolling on a Community Question Answering Website",
+        "authors": [
+            "Ido Guy",
+            "Bracha Shapira",
+            "Rob Capra"
+        ],
+        "affiliations": [
+            "The University of North Carolina at Chapel Hill",
+            "Ben-Gurion University of the Negev",
+            "Ben-Gurion University of the Negev & eBay Research"
+        ],
+        "paperId": "855224dd483598221128441157e85672dc8886f5",
+        "url": "https://www.semanticscholar.org/paper/855224dd483598221128441157e85672dc8886f5",
+        "year": 2018,
+        "citationCount": 15,
+        "influentialCitationCount": 2,
+        "matchScore": 249.72485
+    },
+    {
+        "title": "Ranking for Relevance and Display Preferences in Complex Presentation Layouts",
+        "authors": [
+            "Harrie Oosterhuis",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ],
+        "paperId": "6b0ebbaea9e91d904b1923b470fbf9a49314f620",
+        "url": "https://www.semanticscholar.org/paper/6b0ebbaea9e91d904b1923b470fbf9a49314f620",
+        "year": 2018,
+        "citationCount": 27,
+        "influentialCitationCount": 4,
+        "matchScore": 246.34624
+    },
+    {
+        "title": "Natural Language Interfaces with Fine-Grained User Interaction: A Case Study on Web APIs",
+        "authors": [
+            "Yu Su",
+            "Ahmed Hassan Awadallah",
+            "Miaosen Wang",
+            "Ryen W. White"
+        ],
+        "affiliations": [
+            "Microsoft Cortana",
+            "University of California, Santa Barbara",
+            "Microsoft Research"
+        ],
+        "paperId": "3ea850ab5761fe7cb1e3c9c2599e1e5cd2fb2112",
+        "url": "https://www.semanticscholar.org/paper/3ea850ab5761fe7cb1e3c9c2599e1e5cd2fb2112",
+        "year": 2018,
+        "citationCount": 30,
+        "influentialCitationCount": 5,
+        "matchScore": 236.86441
+    },
+    {
+        "title": "Pytrec_eval: An Extremely Fast Python Interface to trec_eval",
+        "authors": [
+            "Christophe Van Gysel",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ],
+        "paperId": "751b923c050dd7802d9493962b4b04ecbad89d80",
+        "url": "https://www.semanticscholar.org/paper/751b923c050dd7802d9493962b4b04ecbad89d80",
+        "year": 2018,
+        "citationCount": 81,
+        "influentialCitationCount": 1,
+        "matchScore": 272.92487
+    },
+    {
+        "title": "Split-Lists and Initial Thresholds for WAND-based Search",
+        "authors": [
+            "Andrew Kane",
+            "Frank Wm. Tompa"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ],
+        "paperId": "d314c50dc9af56c723268263ccefd67fd0824574",
+        "url": "https://www.semanticscholar.org/paper/d314c50dc9af56c723268263ccefd67fd0824574",
+        "year": 2018,
+        "citationCount": 19,
+        "influentialCitationCount": 2,
+        "matchScore": 256.2138
+    },
+    {
+        "title": "Ontology Evaluation with Path-based Text-aware Entropy Computation",
+        "authors": [
+            "Ying Shen",
+            "Daoyuan Chen",
+            "Min Yang",
+            "Yaliang Li",
+            "Nan Du",
+            "Kai Lei"
+        ],
+        "affiliations": [
+            "Tencent Medical AI Lab",
+            "Chinese Academy of Sciences",
+            "Peking University Shenzhen Graduate School"
+        ],
+        "paperId": "8432f34d2f01ce040731541edd114231e4bde8a7",
+        "url": "https://www.semanticscholar.org/paper/8432f34d2f01ce040731541edd114231e4bde8a7",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 239.5856
+    },
+    {
+        "title": "Reducing Variance in Gradient Bandit Algorithm using Antithetic Variates Method",
+        "authors": [
+            "Sihao Yu",
+            "Jun Xu",
+            "Yanyan Lan",
+            "Jiafeng GuoXueqi Cheng"
+        ],
+        "affiliations": [
+            "Institute of Computing Technology, Chinese Academy of Sciences"
+        ],
+        "paperId": "f5d1060a6f9db644f8094a6bc9f3d9f908671f79",
+        "url": "https://www.semanticscholar.org/paper/f5d1060a6f9db644f8094a6bc9f3d9f908671f79",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 294.4202
+    },
+    {
+        "title": "A Flexible Forecasting Framework for Hierarchical Time Series with Seasonal Patterns: A Case Study of Web Traffic",
+        "authors": [
+            "Zitao Liu",
+            "Yan Yan",
+            "Milos Hauskrecht"
+        ],
+        "affiliations": [
+            "Intelligent Advertising Lab, JD.COM",
+            "TAL AI Lab",
+            "University of Pittsburgh"
+        ],
+        "paperId": "1f44f112acad9ae4573fdd555107f01783ef3ed2",
+        "url": "https://www.semanticscholar.org/paper/1f44f112acad9ae4573fdd555107f01783ef3ed2",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 0,
+        "matchScore": 287.14667
+    },
+    {
+        "title": "Query Performance Prediction using Passage Information",
+        "authors": [
+            "Haggai Roitman"
+        ],
+        "affiliations": [
+            "IBM Research AI"
+        ],
+        "paperId": "c3c8e3c8a16492ec597857f700ef0f39991c50e3",
+        "url": "https://www.semanticscholar.org/paper/c3c8e3c8a16492ec597857f700ef0f39991c50e3",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 0,
+        "matchScore": 196.87827
+    },
+    {
+        "title": "Users, Adaptivity, and Bad Abandonment",
+        "authors": [
+            "Alistair Moffat",
+            "Alfan Farizki Wicaksono"
+        ],
+        "affiliations": [
+            "University of Melbourne"
+        ],
+        "paperId": "da0912c65b9696776c12612a56f1f1056f6f2c5e",
+        "url": "https://www.semanticscholar.org/paper/da0912c65b9696776c12612a56f1f1056f6f2c5e",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 160.21823
+    },
+    {
+        "title": "Knowledge-aware Attentive Neural Network for Ranking Question Answer Pairs",
+        "authors": [
+            "Ying Shen",
+            "Yang Deng",
+            "Min Yang",
+            "Yaliang Li",
+            "Nan Du",
+            "Wei Fan",
+            "Kai Lei"
+        ],
+        "affiliations": [
+            "Tencent Medical AI Lab",
+            "Chinese Academy of Sciences",
+            "Peking University Shenzhen Graduate School"
+        ],
+        "paperId": "acb19932620452deab36b24a24b139f17224f469",
+        "url": "https://www.semanticscholar.org/paper/acb19932620452deab36b24a24b139f17224f469",
+        "year": 2018,
+        "citationCount": 65,
+        "influentialCitationCount": 6,
+        "matchScore": 267.27936
+    },
+    {
+        "title": "A Living Lab Study of Query Amendment in Job Search",
+        "authors": [
+            "Bahar Salehi",
+            "Damiano Spina",
+            "Alistair Moffat",
+            "Sargol Sadeghi",
+            "Falk Scholer",
+            "Timothy Baldwin",
+            "Lawrence Cavedon",
+            "Mark Sanderson",
+            "Wilson Wong",
+            "Justin Zobel"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "SEEK Ltd.",
+            "University of Melbourne"
+        ],
+        "paperId": "21f713860c794e15aeb3e596412215dfff28d9b9",
+        "url": "https://www.semanticscholar.org/paper/21f713860c794e15aeb3e596412215dfff28d9b9",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 236.45338
+    },
+    {
+        "title": "Attention-driven Factor Model for Explainable Personalized Recommendation",
+        "authors": [
+            "Jingwu Chen",
+            "Fuzhen Zhuang",
+            "Xin Hong",
+            "Xiang Ao",
+            "Xing Xie",
+            "Qing He"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences",
+            "Microsoft Research Asia"
+        ],
+        "paperId": "fadd924d1c5379dc3fe6c3989da17cc97d9a2119",
+        "url": "https://www.semanticscholar.org/paper/fadd924d1c5379dc3fe6c3989da17cc97d9a2119",
+        "year": 2018,
+        "citationCount": 52,
+        "influentialCitationCount": 6,
+        "matchScore": 226.66577
+    },
+    {
+        "title": "Translating Representations of Knowledge Graphs with Neighbors",
+        "authors": [
+            "Jen Cheng"
+        ],
+        "affiliations": [
+            "National Taiwan University"
+        ],
+        "paperId": "82586178fa6b6d16c6f7820a98b17721f214537b",
+        "url": "https://www.semanticscholar.org/paper/82586178fa6b6d16c6f7820a98b17721f214537b",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 0,
+        "matchScore": 178.83075
+    },
+    {
+        "title": "Large-Scale Image Retrieval with Elasticsearch",
+        "authors": [
+            "Giuseppe Amato",
+            "Paolo Bolettieri",
+            "Fabio Carrara",
+            "Fabrizio Falchi",
+            "Claudio Gennaro"
+        ],
+        "affiliations": [
+            "ISTI-CNR"
+        ],
+        "paperId": "16f83d698893e80d303d0df60c72c9827371915f",
+        "url": "https://www.semanticscholar.org/paper/16f83d698893e80d303d0df60c72c9827371915f",
+        "year": 2018,
+        "citationCount": 23,
+        "influentialCitationCount": 1,
+        "matchScore": 172.99593
+    },
+    {
+        "title": "A Co-Memory Network for Multimodal Sentiment Analysis",
+        "authors": [
+            "Nan Xu",
+            "Wenji Mao",
+            "Guandan Chen"
+        ],
+        "affiliations": [
+            "Institute of Automation, Chinese Academy of Sciences & University of Chinese Academy of Sciences"
+        ],
+        "paperId": "0b80a8a54437ce1d9c17249b6f6de14d9a6604b0",
+        "url": "https://www.semanticscholar.org/paper/0b80a8a54437ce1d9c17249b6f6de14d9a6604b0",
+        "year": 2018,
+        "citationCount": 126,
+        "influentialCitationCount": 6,
+        "matchScore": 198.64922
+    },
+    {
+        "title": "Killing Two Birds With One Stone: Concurrent Ranking of Tags and Comments of Social Images",
+        "authors": [
+            "Siew Seah",
+            "Aixin Sun",
+            "Sourav S Bhowmick"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ],
+        "paperId": "3117db773bd6e3fe33d343c314dafdc0f434fb8f",
+        "url": "https://www.semanticscholar.org/paper/3117db773bd6e3fe33d343c314dafdc0f434fb8f",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 257.47864
+    },
+    {
+        "title": "Imagination Based Sample Construction for Zero-Shot Learning",
+        "authors": [
+            "Gang Yang",
+            "Jinlu Liu",
+            "Xirong Li"
+        ],
+        "affiliations": [
+            "Renmin University of China"
+        ],
+        "paperId": "715ff773e194bd510dfdf077a9e333ee11a9d5ae",
+        "url": "https://www.semanticscholar.org/paper/715ff773e194bd510dfdf077a9e333ee11a9d5ae",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 225.34349
+    },
+    {
+        "title": "Parameterizing Kterm Hashing",
+        "authors": [
+            "Dominik Wurzer",
+            "Yumeng Qin"
+        ],
+        "affiliations": [
+            "Wuhan University"
+        ],
+        "paperId": "5758befca8168f5b9c2ef3ff7c731226d60f2cc7",
+        "url": "https://www.semanticscholar.org/paper/5758befca8168f5b9c2ef3ff7c731226d60f2cc7",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 125.98879
+    },
+    {
+        "title": "UvA-DARE (Digital Academic Repository) Technology assisted reviews: Finding the last few relevant documents by asking yes/no questions to reviewers",
+        "authors": [
+            "Jie Zou",
+            "Dan Li",
+            "Evangelos Kanoulas"
+        ],
+        "affiliations": [
+            "University of Amsterdam"
+        ],
+        "paperId": "e0dc31e1beae7b4e0a1fcda48c0eb06e2e5d7919",
+        "url": "https://www.semanticscholar.org/paper/e0dc31e1beae7b4e0a1fcda48c0eb06e2e5d7919",
+        "year": null,
+        "citationCount": 21,
+        "influentialCitationCount": 0,
+        "matchScore": 240.80544
+    },
+    {
+        "title": "An Information Retrieval Framework for Contextual Suggestion Based on Heterogeneous Information Network Embeddings",
+        "authors": [
+            "Dominic Seyler",
+            "Praveen Chandar",
+            "Matthew Davis"
+        ],
+        "affiliations": [
+            "IBM Research & Spotify Research",
+            "IBM Research & Invitae",
+            "IBM Research & University of Illinois at Urbana-Champaign"
+        ],
+        "paperId": "9e226ec1b1b577b109ac272f5f79c87f5097861a",
+        "url": "https://www.semanticscholar.org/paper/9e226ec1b1b577b109ac272f5f79c87f5097861a",
+        "year": 2018,
+        "citationCount": 21,
+        "influentialCitationCount": 0,
+        "matchScore": 195.70361
+    },
+    {
+        "title": "Toward an Interactive Patent Retrieval Framework based on Distributed Representations",
+        "authors": [
+            "Walid Shalaby",
+            "Wlodek Zadrozny"
+        ],
+        "affiliations": [
+            "University of North Carolina at Charlotte"
+        ],
+        "paperId": "62300855c24fcd001c1c0a3ce979a441bfeff7cd",
+        "url": "https://www.semanticscholar.org/paper/62300855c24fcd001c1c0a3ce979a441bfeff7cd",
+        "year": 2018,
+        "citationCount": 20,
+        "influentialCitationCount": 2,
+        "matchScore": 232.58752
+    },
+    {
+        "title": "Consistency and Variation in Kernel Neural Ranking Model",
+        "authors": [
+            "Mary Arpita Pyreddy",
+            "Varshini Ramaseshan",
+            "Narendra Nath Joshi",
+            "Zhuyun Dai",
+            "Chenyan XiongJamie Callan",
+            "Zhiyuan Liu"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Carnegie Mellon University"
+        ],
+        "paperId": "84d17c02bb92acf39f81e319886f6bfe57756c92",
+        "url": "https://www.semanticscholar.org/paper/84d17c02bb92acf39f81e319886f6bfe57756c92",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 214.51067
+    },
+    {
+        "title": "Review Sentiment-Guided Scalable Deep Recommender System",
+        "authors": [
+            "Dongmin Hyun",
+            "Chanyoung Park",
+            "Tae Lee",
+            "Hwanjo Yu"
+        ],
+        "affiliations": [
+            "POSTECH",
+            "NAVER Corporation"
+        ],
+        "paperId": "b081ea403baf0b2344f3ba578f18e63282c623ff",
+        "url": "https://www.semanticscholar.org/paper/b081ea403baf0b2344f3ba578f18e63282c623ff",
+        "year": 2018,
+        "citationCount": 35,
+        "influentialCitationCount": 4,
+        "matchScore": 225.33414
+    },
+    {
+        "title": "Learning to Detect Pathogenic Microorganism of Community-acquired Pneumonia",
+        "authors": [
+            "Wenwei Liang",
+            "Wei Zhang",
+            "Bo Jin",
+            "Jiangjiang Xu",
+            "Linhua Shu",
+            "Hongyuan Zha"
+        ],
+        "affiliations": [
+            "Georgia Institute of Technology",
+            "East China Normal University",
+            "Shanghai Children\u2019s Hospital"
+        ],
+        "paperId": "9eccd331943755a6de21ba92304aedb3775f8e9b",
+        "url": "https://www.semanticscholar.org/paper/9eccd331943755a6de21ba92304aedb3775f8e9b",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 1,
+        "matchScore": 205.45769
+    },
+    {
+        "title": "Towards Distributed Pairwise Ranking using Implicit Feedback",
+        "authors": [
+            "Thieme"
+        ],
+        "affiliations": [
+            "University of Hildesheim"
+        ],
+        "paperId": "902cd8395cdef5e7257d84a368dafbeb7189d271",
+        "url": "https://www.semanticscholar.org/paper/902cd8395cdef5e7257d84a368dafbeb7189d271",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 240.48602
+    },
+    {
+        "title": "Semantic Location in Email Query Suggestion",
+        "authors": [
+            "John Foley",
+            "Mingyang Zhang",
+            "Michael Bendersky",
+            "Marc Najork"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Google, Inc."
+        ],
+        "paperId": "1f8b5b8a58bd58c2c094dfdcafa97dbf87eec77e",
+        "url": "https://www.semanticscholar.org/paper/1f8b5b8a58bd58c2c094dfdcafa97dbf87eec77e",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 206.16293
+    },
+    {
+        "title": "GraphCAR: Content-aware Multimedia Recommendation with Graph Autoencoder",
+        "authors": [
+            "Qidi Xu",
+            "Fumin Shen",
+            "Li Liu",
+            "Heng Tao Shen"
+        ],
+        "affiliations": [
+            "University of Electronic Science and Technology of China",
+            "University of East Anglia"
+        ],
+        "paperId": "1d26e4157881144bfcd0cddeac721ae8db72d961",
+        "url": "https://www.semanticscholar.org/paper/1d26e4157881144bfcd0cddeac721ae8db72d961",
+        "year": 2018,
+        "citationCount": 33,
+        "influentialCitationCount": 2,
+        "matchScore": 254.81277
+    },
+    {
+        "title": "Multi-level Abstraction Convolutional Model with Weak Supervision for Information Retrieval",
+        "authors": [
+            "Yifan Nie",
+            "Alessandro Sordoni",
+            "Yun Nie"
+        ],
+        "affiliations": [
+            "Universit\u00e9 de Montr\u00e9al",
+            "Microsoft Research"
+        ],
+        "paperId": "da036a105189563b2f6e8f559a774e301d4dc2c5",
+        "url": "https://www.semanticscholar.org/paper/da036a105189563b2f6e8f559a774e301d4dc2c5",
+        "year": 2018,
+        "citationCount": 26,
+        "influentialCitationCount": 0,
+        "matchScore": 196.8353
+    },
+    {
+        "title": "Analyzing and Characterizing User Intent in Information-seeking Conversations",
+        "authors": [
+            "Chen Qu",
+            "Liu Yang",
+            "W. Bruce Croft",
+            "Johanne R. Trippas",
+            "Yongfeng Zhang",
+            "Minghui Qiu"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "RMIT University",
+            "Rutgers University",
+            "Alibaba Group"
+        ],
+        "paperId": "d3a1d705a8cb3c49f3554420604ade8d0a8606d4",
+        "url": "https://www.semanticscholar.org/paper/d3a1d705a8cb3c49f3554420604ade8d0a8606d4",
+        "year": 2018,
+        "citationCount": 111,
+        "influentialCitationCount": 11,
+        "matchScore": 232.14896
+    },
+    {
+        "title": "Modeling Multidimensional User Relevance in IR using Vector Spaces",
+        "authors": [
+            "Sagar Uprety",
+            "Yi Su",
+            "Dawei Song",
+            "Jingfei Li"
+        ],
+        "affiliations": [
+            "The Open University",
+            "Tianjin University",
+            "National Computer Network Emergency Response Technical Team/Coordination Center of China"
+        ],
+        "paperId": "e71f2655e7dd4d17e28b04d1aeb5c908894fa868",
+        "url": "https://www.semanticscholar.org/paper/e71f2655e7dd4d17e28b04d1aeb5c908894fa868",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "matchScore": 239.63399
+    },
+    {
+        "title": "Are we on the Right Track?: An Examination of Information Retrieval Methodologies",
+        "authors": [
+            "Enrique Amig\u00f3",
+            "Hui Fang",
+            "Stefano Mizzaro",
+            "ChengXiang Zhai"
+        ],
+        "affiliations": [
+            "National Distance Education University",
+            "University of Illinois at Urbana-Champaign",
+            "University of Delaware",
+            "University of Udine"
+        ],
+        "paperId": "f969e66533e5bca59fc861c9ac7372c9340b81a8",
+        "url": "https://www.semanticscholar.org/paper/f969e66533e5bca59fc861c9ac7372c9340b81a8",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "matchScore": 230.91393
+    },
+    {
+        "title": "Fine-Grained Information Identification in Health Related Posts",
+        "authors": [
+            "Hamed Khanpour",
+            "Cornelia Caragea"
+        ],
+        "affiliations": [
+            "Kansas State University",
+            "University of North Texas"
+        ],
+        "paperId": "24d2f387d187c95d0863064c419cfdc5ea003d16",
+        "url": "https://www.semanticscholar.org/paper/24d2f387d187c95d0863064c419cfdc5ea003d16",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 205.43039
+    },
+    {
+        "title": "Quantitative Information Extraction From Social Data",
+        "authors": [
+            "Omar Alonso",
+            "Thibault Sellam"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "Columbia University"
+        ],
+        "paperId": "7a628a7e61904f7dca8757ca9205c08a325adf74",
+        "url": "https://www.semanticscholar.org/paper/7a628a7e61904f7dca8757ca9205c08a325adf74",
+        "year": 2018,
+        "citationCount": 16,
+        "influentialCitationCount": 1,
+        "matchScore": 171.30545
+    },
+    {
+        "title": "Measuring Influence on Instagram: A Network-Oblivious Approach",
+        "authors": [
+            "Noam Segev",
+            "Noam Avigdor",
+            "Eytan Avigdor"
+        ],
+        "affiliations": [
+            "Klear"
+        ],
+        "paperId": "e78236d29c3c89fcd4748001f112b2455470e116",
+        "url": "https://www.semanticscholar.org/paper/e78236d29c3c89fcd4748001f112b2455470e116",
+        "year": 2018,
+        "citationCount": 29,
+        "influentialCitationCount": 3,
+        "matchScore": 222.43869
+    },
+    {
+        "title": "Event2Vec: Neural Embeddings for News Events",
+        "authors": [
+            "Vinay Setty",
+            "Katja Hose"
+        ],
+        "affiliations": [
+            "University of Stavanger & Aalborg University",
+            "Aalborg University"
+        ],
+        "paperId": "2bf6cd490ef0eaa3e7e45b91db02b62c825602e2",
+        "url": "https://www.semanticscholar.org/paper/2bf6cd490ef0eaa3e7e45b91db02b62c825602e2",
+        "year": 2018,
+        "citationCount": 16,
+        "influentialCitationCount": 1,
+        "matchScore": 195.53107
+    },
+    {
+        "title": "Universal Approximation Functions for Fast Learning to Rank: Replacing Expensive Regression Forests with Simple Feed-Forward Networks",
+        "authors": [
+            "Daniel Cohen",
+            "John Foley",
+            "Hamed Zamani",
+            "James Allan",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ],
+        "paperId": "ec90406cefe54a6488616ebf5bf0bc7363956497",
+        "url": "https://www.semanticscholar.org/paper/ec90406cefe54a6488616ebf5bf0bc7363956497",
+        "year": 2018,
+        "citationCount": 19,
+        "influentialCitationCount": 1,
+        "matchScore": 288.471
+    },
+    {
+        "title": "Modeling Mobile User Actions for Purchase Recommendation using Deep Memory Networks",
+        "authors": [
+            "Djordje Gligorijevic",
+            "Jelena Gligorijevic",
+            "Aravindan Raghuveer",
+            "Mihajlo Grbovic",
+            "Zoran Obradovic"
+        ],
+        "affiliations": [
+            "Airbnb",
+            "Temple University",
+            "Facebook Inc."
+        ],
+        "paperId": "84f6a3697865f890f72beb6cdb110d7971ec8b6b",
+        "url": "https://www.semanticscholar.org/paper/84f6a3697865f890f72beb6cdb110d7971ec8b6b",
+        "year": 2018,
+        "citationCount": 18,
+        "influentialCitationCount": 0,
+        "matchScore": 208.02802
+    },
+    {
+        "title": "Cross Domain Regularization for Neural Ranking Models using Adversarial Learning",
+        "authors": [
+            "Daniel Cohen",
+            "Bhaskar Mitra",
+            "Katja Hofmann",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "Microsoft AI & Research"
+        ],
+        "paperId": "5ae5971d000b2be9c4cd883ca59a2f26af07887a",
+        "url": "https://www.semanticscholar.org/paper/5ae5971d000b2be9c4cd883ca59a2f26af07887a",
+        "year": 2018,
+        "citationCount": 43,
+        "influentialCitationCount": 6,
+        "matchScore": 256.9869
+    },
+    {
+        "title": "Affective Representations for Sarcasm Detection",
+        "authors": [
+            "Ameeta Agrawal",
+            "Aijun An"
+        ],
+        "affiliations": [
+            "York University"
+        ],
+        "paperId": "0684ddfeeca84c4af3287e96de96eee90197fba1",
+        "url": "https://www.semanticscholar.org/paper/0684ddfeeca84c4af3287e96de96eee90197fba1",
+        "year": 2018,
+        "citationCount": 27,
+        "influentialCitationCount": 0,
+        "matchScore": 164.9966
+    },
+    {
+        "title": "A User Study on Snippet Generation: Text Reuse vs. Paraphrases",
+        "authors": [
+            "Fan Chen",
+            "Matthias Hagen",
+            "Benno Stein",
+            "Martin Potthast"
+        ],
+        "affiliations": [
+            "Martin Luther University Halle-Wittenberg",
+            "Leipzig University",
+            "Bauhaus-Universit\u00e4t Weimar"
+        ],
+        "paperId": "f168cfbd8cd0ecf27d49862a9eb1b3268c2b579f",
+        "url": "https://www.semanticscholar.org/paper/f168cfbd8cd0ecf27d49862a9eb1b3268c2b579f",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 0,
+        "matchScore": 283.50717
+    },
+    {
+        "title": "Taxi or Hitchhiking: Predicting Passenger's Preferred Service on Ride Sharing Platforms",
+        "authors": [
+            "Lingyu Zhang",
+            "Wei Ai",
+            "Chuan Yuan",
+            "Yuhui Zhang",
+            "Jieping Ye"
+        ],
+        "affiliations": [
+            "University of Michigan",
+            "Didi Chuxing",
+            "Huazhong University of Science and Technology",
+            "Beijing Jiaotong University"
+        ],
+        "paperId": "ea224c9edf3d5c001e33bdd2be0d03d52a29e44e",
+        "url": "https://www.semanticscholar.org/paper/ea224c9edf3d5c001e33bdd2be0d03d52a29e44e",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 327.70715
+    },
+    {
+        "title": "Towards Intent-Aware Contextual Music Recommendation: Initial Experiments",
+        "authors": [
+            "Sergey Volokhin",
+            "Eugene Agichtein"
+        ],
+        "affiliations": [
+            "Emory University"
+        ],
+        "paperId": "9ee10d0ba53318ab52fa7679802070d101577d6f",
+        "url": "https://www.semanticscholar.org/paper/9ee10d0ba53318ab52fa7679802070d101577d6f",
+        "year": 2018,
+        "citationCount": 13,
+        "influentialCitationCount": 1,
+        "matchScore": 278.1803
+    },
+    {
+        "title": "Deep Domain Adaptation Based on Multi-layer Joint Kernelized Distance",
+        "authors": [
+            "lai Chung"
+        ],
+        "affiliations": [
+            "Hong Kong Polytechnic University"
+        ],
+        "paperId": "d6ee1d09acd3f2647622220fea567e330a2216b0",
+        "url": "https://www.semanticscholar.org/paper/d6ee1d09acd3f2647622220fea567e330a2216b0",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "matchScore": 252.87906
+    },
+    {
+        "title": "Do Not Pull My Data for Resale: Protecting Data Providers Using Data Retrieval Pattern Analysis",
+        "authors": [
+            "Guosai Wang",
+            "Shiyang Xiang",
+            "Yitao Duan",
+            "Ling Huang",
+            "Wei Xu"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Netease Youdao Inc.",
+            "AHI Fin-tech Inc."
+        ],
+        "paperId": "37a76a01d91dc9026a738357b7d79276ef8855d0",
+        "url": "https://www.semanticscholar.org/paper/37a76a01d91dc9026a738357b7d79276ef8855d0",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 271.7829
+    },
+    {
+        "title": "K-plet Recurrent Neural Networks for Sequential Recommendation",
+        "authors": [
+            "Xiang Lin",
+            "Shuzi Niu",
+            "Yiqiao Wang",
+            "Yucheng Li"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences",
+            "University of Chinese Academy of Sciences"
+        ],
+        "paperId": "3744479f47e74f728f5fb8ed57418e12608e87a0",
+        "url": "https://www.semanticscholar.org/paper/3744479f47e74f728f5fb8ed57418e12608e87a0",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 221.78499
+    },
+    {
+        "title": "Citation Worthiness of Sentences in Scientific Reports",
+        "authors": [
+            "Miller",
+            "James Allan"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ],
+        "paperId": "0769b6a23792fca2dd790a1c953d6c03998f1b4b",
+        "url": "https://www.semanticscholar.org/paper/0769b6a23792fca2dd790a1c953d6c03998f1b4b",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 2,
+        "matchScore": 198.39047
+    },
+    {
+        "title": "Ad Click Prediction in Sequence with Long Short-Term Memory Networks: an Externality-aware Model",
+        "authors": [
+            "Weiwei Deng",
+            "Xiaoliang Ling",
+            "Yang Qi",
+            "Tunzi Tan",
+            "Eren Manavoglu",
+            "Qi Zhang"
+        ],
+        "affiliations": [
+            "Microsoft Bing",
+            "University of Chinese Academy of Sciences & Microsoft Bing"
+        ],
+        "paperId": "d7fa8d7222dbaefd6643d0d51e913c7767023087",
+        "url": "https://www.semanticscholar.org/paper/d7fa8d7222dbaefd6643d0d51e913c7767023087",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 3,
+        "matchScore": 283.7336
+    },
+    {
+        "title": "Assessing the Readability of Web Search Results for Searchers with Dyslexia",
+        "authors": [
+            "Adam Fourney",
+            "Meredith Ringel Morris",
+            "Abdullah Ali",
+            "Laura Vonessen"
+        ],
+        "affiliations": [
+            "Microsoft Research",
+            "University of Washington"
+        ],
+        "paperId": "884a4217c6e21c694b4574091307de75654b36de",
+        "url": "https://www.semanticscholar.org/paper/884a4217c6e21c694b4574091307de75654b36de",
+        "year": 2018,
+        "citationCount": 28,
+        "influentialCitationCount": 1,
+        "matchScore": 240.5607
+    },
+    {
+        "title": "Comparing Two Binned Probability Distributions for Information Access Evaluation",
+        "authors": [
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University"
+        ],
+        "paperId": "138f092368127064ddec14764579d506ebb8097b",
+        "url": "https://www.semanticscholar.org/paper/138f092368127064ddec14764579d506ebb8097b",
+        "year": 2018,
+        "citationCount": 21,
+        "influentialCitationCount": 3,
+        "matchScore": 229.65686
+    },
+    {
+        "title": "Robust Asymmetric Recommendation via Min-Max Optimization",
+        "authors": [
+            "Peng Yang",
+            "Peilin Zhao",
+            "Vincent W. Zheng",
+            "Lizhong Ding",
+            "Xin Gao"
+        ],
+        "affiliations": [
+            "SCUT",
+            "Advanced Digital Sciences Center",
+            "KAUST"
+        ],
+        "paperId": "5df0e4c9045f437d5cf30747660ffa014b3bbbd1",
+        "url": "https://www.semanticscholar.org/paper/5df0e4c9045f437d5cf30747660ffa014b3bbbd1",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 244.64563
+    },
+    {
+        "title": "From the PRP to the Low Prior Discovery Recall Principle for Recommender Systems",
+        "authors": [
+            "Roc\u00edo Ca\u00f1amares",
+            "Pablo Castells"
+        ],
+        "affiliations": [
+            "Universidad Aut\u00f3noma de Madrid"
+        ],
+        "paperId": "6a9323bc0d835bfdb2a5adc348c05f45bbe5bec8",
+        "url": "https://www.semanticscholar.org/paper/6a9323bc0d835bfdb2a5adc348c05f45bbe5bec8",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 1,
+        "matchScore": 263.0476
+    },
+    {
+        "title": "Deep Learning for Epidemiological Predictions",
+        "authors": [
+            "Yuexin Wu",
+            "Yiming Yang",
+            "Hiroshi Nishiura",
+            "Masaya Saitoh"
+        ],
+        "affiliations": [
+            "The Institute of Statistical Mathematics",
+            "Carnegie Mellon University",
+            "Hokkaido University"
+        ],
+        "paperId": "a7965b6feaf00516175b6a30e8171e07b3c2b9b2",
+        "url": "https://www.semanticscholar.org/paper/a7965b6feaf00516175b6a30e8171e07b3c2b9b2",
+        "year": 2018,
+        "citationCount": 100,
+        "influentialCitationCount": 14,
+        "matchScore": 126.10435
+    },
+    {
+        "title": "Query Variation Performance Prediction for Systematic Reviews",
+        "authors": [
+            "Harrisen Scells",
+            "Leif Azzopardi",
+            "Guido Zuccon",
+            "Bevan Koopman"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "CSIRO",
+            "Strathclyde University"
+        ],
+        "paperId": "688a1a4d81ea17ef23a31b14294e3fdba4f9fac1",
+        "url": "https://www.semanticscholar.org/paper/688a1a4d81ea17ef23a31b14294e3fdba4f9fac1",
+        "year": 2018,
+        "citationCount": 25,
+        "influentialCitationCount": 2,
+        "matchScore": 171.68076
+    },
+    {
+        "title": "Attention-based Hierarchical Neural Query Suggestion",
+        "authors": [
+            "Wanyu Chen",
+            "Fei Cai",
+            "Honghui Chen",
+            "Maarten de Rijke"
+        ],
+        "affiliations": [
+            "National University of Defense Technology",
+            "University of Amsterdam"
+        ],
+        "paperId": "daec1b6926aebecc006f2ae4041b571bf6ca16de",
+        "url": "https://www.semanticscholar.org/paper/daec1b6926aebecc006f2ae4041b571bf6ca16de",
+        "year": 2018,
+        "citationCount": 41,
+        "influentialCitationCount": 0,
+        "matchScore": 199.59662
+    },
+    {
+        "title": "Texygen: A Benchmarking Platform for Text Generation Models",
+        "authors": [
+            "Yaoming Zhu",
+            "Sidi Lu",
+            "Lei Zheng",
+            "Jiaxian Guo",
+            "Weinan Zhang",
+            "Jun Wang",
+            "Yong Yu"
+        ],
+        "affiliations": [
+            "University College London",
+            "Shanghai Jiao Tong University"
+        ],
+        "paperId": "86be5c90c4128ec59b1c320a16996bb5de68624e",
+        "url": "https://www.semanticscholar.org/paper/86be5c90c4128ec59b1c320a16996bb5de68624e",
+        "year": 2018,
+        "citationCount": 612,
+        "influentialCitationCount": 114,
+        "matchScore": 226.08575
+    },
+    {
+        "title": "CA-LSTM: Search Task Identification with Context Attention based LSTM",
+        "authors": [
+            "Cong Du",
+            "Peng Shu",
+            "Yong Li"
+        ],
+        "affiliations": [
+            "Sogou Inc."
+        ],
+        "paperId": "a51ba1ff82d0da55c2284458f8ef3c1b59e6678e",
+        "url": "https://www.semanticscholar.org/paper/a51ba1ff82d0da55c2284458f8ef3c1b59e6678e",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 2,
+        "matchScore": 277.09372
+    },
+    {
+        "title": "On the Volatility of Commercial Search Engines and its Impact on Information Retrieval Research",
+        "authors": [
+            "Jimmy",
+            "Guido Zuccon",
+            "Gianluca Demartini"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "University of Queensland",
+            "Queensland University of Technology & University of Surabaya (UBAYA"
+        ],
+        "paperId": "997f8ff229ab0e91cf1487d9b16911a345b3782c",
+        "url": "https://www.semanticscholar.org/paper/997f8ff229ab0e91cf1487d9b16911a345b3782c",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 0,
+        "matchScore": 167.02435
+    },
+    {
+        "title": "Deep Semantic Text Hashing with Weak Supervision",
+        "authors": [
+            "Suthee Chaidaroon",
+            "Travis Ebesu",
+            "Yi Fang"
+        ],
+        "affiliations": [
+            "Santa Clara University"
+        ],
+        "paperId": "0a1d7d955fe01206c71e393444c1a9b4cea09c0d",
+        "url": "https://www.semanticscholar.org/paper/0a1d7d955fe01206c71e393444c1a9b4cea09c0d",
+        "year": 2018,
+        "citationCount": 27,
+        "influentialCitationCount": 8,
+        "matchScore": 210.27054
+    },
+    {
+        "title": "Who is the Mr. Right for Your Brand?: -- Discovering Brand Key Assets via Multi-modal Asset-aware Projection",
+        "authors": [
+            "Yang Liu",
+            "Tobey H. Ko",
+            "Zhonglei Gu"
+        ],
+        "affiliations": [
+            "Hong Kong Baptist University",
+            "University of Hong Kong"
+        ],
+        "paperId": "94c359b11d1664af9ac912e0140377af9a73e918",
+        "url": "https://www.semanticscholar.org/paper/94c359b11d1664af9ac912e0140377af9a73e918",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 354.38397
+    },
+    {
+        "title": "Sogou-QCL: A New Dataset with Click Relevance Label",
+        "authors": [
+            "Yukun Zheng",
+            "Zhen Fan",
+            "Yiqun Liu",
+            "Cheng Luo",
+            "Min Zhang",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ],
+        "paperId": "613cd84894ee61e51bca03a1e4feae8624617399",
+        "url": "https://www.semanticscholar.org/paper/613cd84894ee61e51bca03a1e4feae8624617399",
+        "year": 2018,
+        "citationCount": 35,
+        "influentialCitationCount": 3,
+        "matchScore": 260.23376
+    },
+    {
+        "title": "Towards Designing Better Session Search Evaluation Metrics",
+        "authors": [
+            "Mengyang Liu",
+            "Yiqun Liu",
+            "Jiaxin Mao",
+            "Cheng Luo",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University"
+        ],
+        "paperId": "99ab87dc7c80fbebb7e43b33e63b992e147b59fe",
+        "url": "https://www.semanticscholar.org/paper/99ab87dc7c80fbebb7e43b33e63b992e147b59fe",
+        "year": 2018,
+        "citationCount": 19,
+        "influentialCitationCount": 3,
+        "matchScore": 241.15965
+    },
+    {
+        "title": "Predicting Contradiction Intensity: Low, Strong or Very Strong?",
+        "authors": [
+            "Gabriel Chifu"
+        ],
+        "affiliations": [
+            "LIS UMR 7020 CNRS, University Aix-Marseille"
+        ],
+        "paperId": "32a59e2e1e9bb0245c5021e458e0f0c15a124d2f",
+        "url": "https://www.semanticscholar.org/paper/32a59e2e1e9bb0245c5021e458e0f0c15a124d2f",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "matchScore": 266.30746
+    },
+    {
+        "title": "A Large-Scale Study of Mobile Search Examination Behavior",
+        "authors": [
+            "Xiaochuan Wang",
+            "Ning Su",
+            "Zexue He",
+            "Yiqun Liu",
+            "Shaoping Ma"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Beijing Normal University"
+        ],
+        "paperId": "0977eda274fc22e1eb1e4b792c65b6921a76f0f4",
+        "url": "https://www.semanticscholar.org/paper/0977eda274fc22e1eb1e4b792c65b6921a76f0f4",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 0,
+        "matchScore": 194.14029
+    },
+    {
+        "title": "Ranking Without Learning: Towards Historical Relevance-based Ranking of Social Images",
+        "authors": [
+            "Min Min Chew",
+            "Sourav S. Bhowmick",
+            "Adam Jatowt"
+        ],
+        "affiliations": [
+            "Kyoto University",
+            "Nanyang Technological University"
+        ],
+        "paperId": "b55aac18a72639d6544a66874602d2c5e63aa47f",
+        "url": "https://www.semanticscholar.org/paper/b55aac18a72639d6544a66874602d2c5e63aa47f",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 252.3261
+    },
+    {
+        "title": "Entire Space Multi-Task Model: An Effective Approach for Estimating Post-Click Conversion Rate",
+        "authors": [
+            "Xiao Ma",
+            "Liqin Zhao",
+            "Guan Huang",
+            "Zhi Wang",
+            "Zelin Hu",
+            "Xiaoqiang Zhu",
+            "Kun Gai"
+        ],
+        "affiliations": [
+            "Alibaba Inc."
+        ],
+        "paperId": "28e73fe5a3ca2891fa04dbf9fcc6ab4965a68182",
+        "url": "https://www.semanticscholar.org/paper/28e73fe5a3ca2891fa04dbf9fcc6ab4965a68182",
+        "year": 2018,
+        "citationCount": 365,
+        "influentialCitationCount": 76,
+        "matchScore": 208.06686
+    },
+    {
+        "title": "How Much is Too Much?: Whole Session vs. First Query Behaviors in Task Type Prediction",
+        "authors": [
+            "Matthew Mitsui",
+            "Jiqun Liu",
+            "Chirag Shah"
+        ],
+        "affiliations": [
+            "Rutgers University"
+        ],
+        "paperId": "d57c739e73952b93b439a88e215c72637c9078d5",
+        "url": "https://www.semanticscholar.org/paper/d57c739e73952b93b439a88e215c72637c9078d5",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 0,
+        "matchScore": 353.9533
+    },
+    {
+        "title": "Effectiveness Evaluation with a Subset of Topics: A Practical Approach",
+        "authors": [
+            "Kevin Roitero",
+            "Michael Soprano",
+            "Stefano Mizzaro"
+        ],
+        "affiliations": [
+            "University of Udine"
+        ],
+        "paperId": "cd04caead3c2de6b43d21240e70e968afe7ac295",
+        "url": "https://www.semanticscholar.org/paper/cd04caead3c2de6b43d21240e70e968afe7ac295",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 185.40176
+    },
+    {
+        "title": "Locality-adapted Kernel Densities for Tweet Localization",
+        "authors": [
+            "Ozer Ozdikis",
+            "Heri Ramampiaro",
+            "Kjetil N\u00f8rv\u00e5g"
+        ],
+        "affiliations": [
+            "NTNU"
+        ],
+        "paperId": "1912161183dbf365c800f57fe96bce93f77e021c",
+        "url": "https://www.semanticscholar.org/paper/1912161183dbf365c800f57fe96bce93f77e021c",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 1,
+        "matchScore": 215.41132
+    },
+    {
+        "title": "Related or Duplicate: Distinguishing Similar CQA Questions via Convolutional Neural Networks",
+        "authors": [
+            "Wei Emma Zhang",
+            "Quan Z. Sheng",
+            "Zhejun Tang",
+            "Wenjie Ruan"
+        ],
+        "affiliations": [
+            "Macquarie University",
+            "Ningxia University",
+            "Oxford University"
+        ],
+        "paperId": "bc644dbd9f0dca18fc87f068796186a72f136f87",
+        "url": "https://www.semanticscholar.org/paper/bc644dbd9f0dca18fc87f068796186a72f136f87",
+        "year": 2018,
+        "citationCount": 9,
+        "influentialCitationCount": 1,
+        "matchScore": 246.68561
+    },
+    {
+        "title": "Convolution-based Memory Network for Aspect-based Sentiment Analysis",
+        "authors": [
+            "Chuang Fan",
+            "Qinghong Gao",
+            "Jiachen Du",
+            "Lin Gui",
+            "Ruifeng Xu",
+            "Fai Wong"
+        ],
+        "affiliations": [
+            "Chinese University of Hong Kong",
+            "Harbin Institute of Technology",
+            "Aston University"
+        ],
+        "paperId": "7c595b2c81ad4f05eb5c659de4d856e0d317dd0b",
+        "url": "https://www.semanticscholar.org/paper/7c595b2c81ad4f05eb5c659de4d856e0d317dd0b",
+        "year": 2018,
+        "citationCount": 53,
+        "influentialCitationCount": 1,
+        "matchScore": 214.34729
+    },
+    {
+        "title": "WikiPassageQA: A Benchmark Collection for Research on Non-factoid Answer Passage Retrieval",
+        "authors": [
+            "Daniel Cohen",
+            "Liu Yang",
+            "W. Bruce Croft"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ],
+        "paperId": "c10a3659fca5c5be8bb8f124c2417e74caefe16d",
+        "url": "https://www.semanticscholar.org/paper/c10a3659fca5c5be8bb8f124c2417e74caefe16d",
+        "year": 2018,
+        "citationCount": 63,
+        "influentialCitationCount": 9,
+        "matchScore": 188.15714
+    },
+    {
+        "title": "Beyond Pooling",
+        "authors": [
+            "Gordon V. Cormack",
+            "Maura R. Grossman"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ],
+        "paperId": "2ed6ddc81762c27f21c17237dd7f6cef3064ae78",
+        "url": "https://www.semanticscholar.org/paper/2ed6ddc81762c27f21c17237dd7f6cef3064ae78",
+        "year": 2018,
+        "citationCount": 20,
+        "influentialCitationCount": 1,
+        "matchScore": 67.10889
+    },
+    {
+        "title": "Testing the Cluster Hypothesis with Focused and Graded Relevance Judgments",
+        "authors": [
+            "Eilon Sheetrit",
+            "Anna Shtok",
+            "Oren Kurland",
+            "Igal Shprincis"
+        ],
+        "affiliations": [
+            "Technion - Israel Institute of Technology",
+            "Microsoft"
+        ],
+        "paperId": "bd0c9f673a6311ee55cff945ae71fd2b0ad290c4",
+        "url": "https://www.semanticscholar.org/paper/bd0c9f673a6311ee55cff945ae71fd2b0ad290c4",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 2,
+        "matchScore": 232.74606
+    },
+    {
+        "title": "Query Performance Prediction Focused on Summarized Letor Features",
+        "authors": [
+            "Gabriel Chifu",
+            "L\u00e9a Laporte",
+            "Josiane Mothe",
+            "Md Zia Ullah"
+        ],
+        "affiliations": [
+            "Aix Marseille Univ, Universit\u00e9 de Toulon, CNRS, LIS",
+            "UPS, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS",
+            "INSA Lyon, LIRIS, UMR 5205 CNRS",
+            "ESPE, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS"
+        ],
+        "paperId": "c6cd6c05a43156c014c573e4b5e4b3ad737fe0f1",
+        "url": "https://www.semanticscholar.org/paper/c6cd6c05a43156c014c573e4b5e4b3ad737fe0f1",
+        "year": 2018,
+        "citationCount": 23,
+        "influentialCitationCount": 1,
+        "matchScore": 250.55229
+    },
+    {
+        "title": "A Study of Per-Topic Variance on System Comparison",
+        "authors": [
+            "Meng Yang",
+            "Peng Zhang",
+            "Dawei Song"
+        ],
+        "affiliations": [
+            "Tianjin University",
+            "Beijing Institute of Technology"
+        ],
+        "paperId": "6b51b21621451220fbf52611231cc0f3a23f4159",
+        "url": "https://www.semanticscholar.org/paper/6b51b21621451220fbf52611231cc0f3a23f4159",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 195.8104
+    },
+    {
+        "title": "Online Job Search: Study of Users' Search Behavior using Search Engine Query Logs",
+        "authors": [
+            "Behrooz Mansouri",
+            "Mohammad Sadegh Zahedi",
+            "Ricardo Campos",
+            "Mojgan Farhoodi"
+        ],
+        "affiliations": [
+            "Iran Telecommunication Research Center",
+            "Polytechnic Institute of Tomar, Smart Cities Research Center, LIAAD - INESC TEC"
+        ],
+        "paperId": "ec4fd62218f290ec13d14b850a8deadb1e8f5df3",
+        "url": "https://www.semanticscholar.org/paper/ec4fd62218f290ec13d14b850a8deadb1e8f5df3",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 1,
+        "matchScore": 292.2138
+    },
+    {
+        "title": "Optimizing Query Evaluations Using Reinforcement Learning for Web Search",
+        "authors": [
+            "Corby Rosset",
+            "Damien Jose",
+            "Gargi Ghosh",
+            "Bhaskar Mitra",
+            "Saurabh Tiwary"
+        ],
+        "affiliations": [
+            "Microsoft AI & Research"
+        ],
+        "paperId": "4110b96ce5cf31042c56479eeddc4bd8d07c4e93",
+        "url": "https://www.semanticscholar.org/paper/4110b96ce5cf31042c56479eeddc4bd8d07c4e93",
+        "year": 2018,
+        "citationCount": 31,
+        "influentialCitationCount": 2,
+        "matchScore": 203.21442
+    },
+    {
+        "title": "SAAN: A Sentiment-Aware Attention Network for Sentiment Analysis",
+        "authors": [
+            "Zeyang Lei",
+            "Yujiu Yang",
+            "Min Yang"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "Chinese Academy of Sciences"
+        ],
+        "paperId": "a3797b1940c8560bc6a81a855a2835f14f3455e1",
+        "url": "https://www.semanticscholar.org/paper/a3797b1940c8560bc6a81a855a2835f14f3455e1",
+        "year": 2018,
+        "citationCount": 23,
+        "influentialCitationCount": 2,
+        "matchScore": 255.06622
+    },
+    {
+        "title": "An Attribute-aware Neural Attentive Model for Next Basket Recommendation",
+        "authors": [
+            "Ting Bai",
+            "Yun Nie",
+            "Wayne Xin Zhao",
+            "Yutao Zhu",
+            "Pan Du",
+            "Rong Wen"
+        ],
+        "affiliations": [
+            "University of Montreal",
+            "Renmin University of China & Beijing Key Laboratory of Big Data Management  and Analysis Methods",
+            "Renmin University of China & Beijing Key Laboratory of Big Data Management and Analysis Methods"
+        ],
+        "paperId": "ed61f1ae043764e78627fff0af93b9425fd608f4",
+        "url": "https://www.semanticscholar.org/paper/ed61f1ae043764e78627fff0af93b9425fd608f4",
+        "year": 2018,
+        "citationCount": 75,
+        "influentialCitationCount": 7,
+        "matchScore": 265.86325
+    },
+    {
+        "title": "Characterizing Question Facets for Complex Answer Retrieval",
+        "authors": [
+            "Sean MacAvaney",
+            "Andrew Yates",
+            "Arman Cohan",
+            "Luca Soldaini",
+            "Kai Hui",
+            "Nazli Goharian",
+            "Ophir Frieder"
+        ],
+        "affiliations": [
+            "SAP SE",
+            "Georgetown University",
+            "Max Planck Institute for Informatics"
+        ],
+        "paperId": "6addf7afa7f26204df05638b60ff1f5905d0fe88",
+        "url": "https://www.semanticscholar.org/paper/6addf7afa7f26204df05638b60ff1f5905d0fe88",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 2,
+        "matchScore": 222.61952
+    },
+    {
+        "title": "A Test Collection for Coreferent Mention Retrieval",
+        "authors": [
+            "Rashmi Sankepally",
+            "Tongfei Chen",
+            "Benjamin Van Durme",
+            "Douglas W. Oard"
+        ],
+        "affiliations": [
+            "University of Maryland - College Park and Human Language Technology Center of Excellence",
+            "Johns Hopkins University",
+            "Johns Hopkins University and Human Language Technology Center of Excellence"
+        ],
+        "paperId": "e5b0c46bfb1e48c6da2b12256eeac7c49ad9cd85",
+        "url": "https://www.semanticscholar.org/paper/e5b0c46bfb1e48c6da2b12256eeac7c49ad9cd85",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 1,
+        "matchScore": 228.46133
+    },
+    {
+        "title": "What Do Viewers Say to Their TVs?: An Analysis of Voice Queries to Entertainment Systems",
+        "authors": [
+            "Jinfeng Rao",
+            "Ferhan Ture",
+            "Jimmy Lin"
+        ],
+        "affiliations": [
+            "Comcast Applied AI Research Lab",
+            "University of Maryland & Comcast Applied AI Research Lab",
+            "University of Waterloo"
+        ],
+        "paperId": "836ca0698fca9bd9064db242273fd03714782eb8",
+        "url": "https://www.semanticscholar.org/paper/836ca0698fca9bd9064db242273fd03714782eb8",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 245.92963
+    },
+    {
+        "title": "Sanity Check: A Strong Alignment and Information Retrieval Baseline for Question Answering",
+        "authors": [
+            "Vikas Yadav",
+            "Rebecca Sharp",
+            "Mihai Surdeanu"
+        ],
+        "affiliations": [
+            "University of Arizona"
+        ],
+        "paperId": "55cf323fa5effdd6626d4ed6f39cc1c126399f20",
+        "url": "https://www.semanticscholar.org/paper/55cf323fa5effdd6626d4ed6f39cc1c126399f20",
+        "year": 2018,
+        "citationCount": 15,
+        "influentialCitationCount": 0,
+        "matchScore": 194.90231
+    },
+    {
+        "title": "Explaining Controversy on Social Media via Stance Summarization",
+        "authors": [
+            "Myungha Jang",
+            "James Allan"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst"
+        ],
+        "paperId": "f590794973c2f843a02177ddf888e133fb57d256",
+        "url": "https://www.semanticscholar.org/paper/f590794973c2f843a02177ddf888e133fb57d256",
+        "year": 2018,
+        "citationCount": 28,
+        "influentialCitationCount": 2,
+        "matchScore": 240.91383
+    },
+    {
+        "title": "Multi-Target Stance Detection via a Dynamic Memory-Augmented Network",
+        "authors": [
+            "Penghui Wei",
+            "Junjie Lin",
+            "Wenji Mao"
+        ],
+        "affiliations": [
+            "Chinese Academy of Sciences"
+        ],
+        "paperId": "30b3aaebda73d934cea368249b73f8a0ae21f742",
+        "url": "https://www.semanticscholar.org/paper/30b3aaebda73d934cea368249b73f8a0ae21f742",
+        "year": 2018,
+        "citationCount": 41,
+        "influentialCitationCount": 5,
+        "matchScore": 259.0271
+    },
+    {
+        "title": "Query Performance Prediction and Effectiveness Evaluation Without Relevance Judgments: Two Sides of the Same Coin",
+        "authors": [
+            "Stefano Mizzaro",
+            "Josiane Mothe",
+            "Kevin Roitero",
+            "Md Zia Ullah"
+        ],
+        "affiliations": [
+            "University of Udine",
+            "UPS, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS",
+            "ESPE, Universit\u00e9 de Toulouse, IRIT, UMR5505 CNRS"
+        ],
+        "paperId": "39e8508ddc7d231e6b88f39c35286c21dbbd173e",
+        "url": "https://www.semanticscholar.org/paper/39e8508ddc7d231e6b88f39c35286c21dbbd173e",
+        "year": 2018,
+        "citationCount": 15,
+        "influentialCitationCount": 1,
+        "matchScore": 215.63576
+    },
+    {
+        "title": "A New Term Frequency Normalization Model for Probabilistic Information Retrieval",
+        "authors": [
+            "Fanghong Jian",
+            "Jimmy Xiangji Huang",
+            "Jiashu Zhao",
+            "Tingting He"
+        ],
+        "affiliations": [
+            "York University",
+            "Central China Normal University"
+        ],
+        "paperId": "c192c74d67fe95186b57c55824fcbdfaf5fb093e",
+        "url": "https://www.semanticscholar.org/paper/c192c74d67fe95186b57c55824fcbdfaf5fb093e",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 1,
+        "matchScore": 240.10022
+    },
+    {
+        "title": "Transparent Tree Ensembles",
+        "authors": [
+            "Alexander Moore",
+            "Vanessa Murdock",
+            "Yaxiong Cai",
+            "Kristine Jones"
+        ],
+        "affiliations": [
+            "Microsoft",
+            "Amazon Research",
+            "eBay, Inc."
+        ],
+        "paperId": "49c02dc7a382e20e3f6952034d1af0ab06edd50c",
+        "url": "https://www.semanticscholar.org/paper/49c02dc7a382e20e3f6952034d1af0ab06edd50c",
+        "year": 2018,
+        "citationCount": 16,
+        "influentialCitationCount": 2,
+        "matchScore": 106.67042
+    },
+    {
+        "title": "A Taxonomy of Queries for E-commerce Search",
+        "authors": [
+            "Parikshit Sondhi",
+            "Mohit Sharma",
+            "Pranam Kolari",
+            "ChengXiang Zhai"
+        ],
+        "affiliations": [
+            "University of Illinois Urbana Champaign",
+            "WalmartLabs"
+        ],
+        "paperId": "2767c29f74f3724c1165d35def808fd038620311",
+        "url": "https://www.semanticscholar.org/paper/2767c29f74f3724c1165d35def808fd038620311",
+        "year": 2018,
+        "citationCount": 54,
+        "influentialCitationCount": 1,
+        "matchScore": 193.27972
+    },
+    {
+        "title": "Theoretical Analysis of Interdependent Constraints in Pseudo-Relevance Feedback",
+        "authors": [
+            "Ali Montazeralghaem",
+            "Hamed Zamani",
+            "Azadeh Shakery"
+        ],
+        "affiliations": [
+            "University of Massachusetts, Amherst",
+            "University of Tehran & Institute for Research in Fundamental Sciences (IPM"
+        ],
+        "paperId": "65cdce9211fdc76fe4ef236f8f8bb6ed5459a288",
+        "url": "https://www.semanticscholar.org/paper/65cdce9211fdc76fe4ef236f8f8bb6ed5459a288",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 2,
+        "matchScore": 221.69434
+    },
+    {
+        "title": "Unsupervised Cross-Lingual Information Retrieval Using Monolingual Data Only",
+        "authors": [
+            "Simone Paolo Ponzetto",
+            ""
+        ],
+        "affiliations": [
+            "University of Cambridge",
+            "University of Mannheim"
+        ],
+        "paperId": "1e1ea705cfe5ea1573961746b8cf81397764a28c",
+        "url": "https://www.semanticscholar.org/paper/1e1ea705cfe5ea1573961746b8cf81397764a28c",
+        "year": 2018,
+        "citationCount": 63,
+        "influentialCitationCount": 8,
+        "matchScore": 260.6211
+    },
+    {
+        "title": "Toward Voice Query Clarification",
+        "authors": [
+            "Johannes Kiesel",
+            "Arefeh Bahrami",
+            "Benno Stein",
+            "Avishek Anand",
+            "Matthias Hagen"
+        ],
+        "affiliations": [
+            "L3S Research Center",
+            "Bauhaus-Universit\u00e4t Weimar",
+            "Martin-Luther-Universit\u00e4t Halle-Wittenberg"
+        ],
+        "paperId": "e36d78b7090fae1cf1fb2d9ba18988963f854a1e",
+        "url": "https://www.semanticscholar.org/paper/e36d78b7090fae1cf1fb2d9ba18988963f854a1e",
+        "year": 2018,
+        "citationCount": 60,
+        "influentialCitationCount": 3,
+        "matchScore": 157.12373
+    },
+    {
+        "title": "A Test Collection for Evaluating Legal Case Law Search",
+        "authors": [
+            "Daniel Locke",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ],
+        "paperId": "e330e4cebb949244aa6d082cad876e63442dbcc0",
+        "url": "https://www.semanticscholar.org/paper/e330e4cebb949244aa6d082cad876e63442dbcc0",
+        "year": 2018,
+        "citationCount": 40,
+        "influentialCitationCount": 1,
+        "matchScore": 212.69278
+    },
+    {
+        "title": "SearchX: Empowering Collaborative Search Research",
+        "authors": [
+            "Sindunuraga Rikarno Putra",
+            "Felipe Moraes",
+            "Claudia Hauff"
+        ],
+        "affiliations": [
+            "Delft University of Technology"
+        ],
+        "paperId": "d5000679af212671d8212ac2c4948bdcedd33206",
+        "url": "https://www.semanticscholar.org/paper/d5000679af212671d8212ac2c4948bdcedd33206",
+        "year": 2018,
+        "citationCount": 26,
+        "influentialCitationCount": 0,
+        "matchScore": 198.8065
+    },
+    {
+        "title": "A/B Testing with APONE",
+        "authors": [
+            "M\u00f3nica Marrero",
+            "Claudia Hauff"
+        ],
+        "affiliations": [
+            "Delft University of Technology"
+        ],
+        "paperId": "322a866500b8bb7f1a4762a007e4aef8a7556fa0",
+        "url": "https://www.semanticscholar.org/paper/322a866500b8bb7f1a4762a007e4aef8a7556fa0",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 138.97794
+    },
+    {
+        "title": "CoNEREL: Collective Information Extraction in News Articles",
+        "authors": [
+            "Minh C. Phan",
+            "Aixin Sun"
+        ],
+        "affiliations": [
+            "Nanyang Technological University"
+        ],
+        "paperId": "3d050e1f70fbe67ccb7a34146200e85d9a456387",
+        "url": "https://www.semanticscholar.org/paper/3d050e1f70fbe67ccb7a34146200e85d9a456387",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 208.1836
+    },
+    {
+        "title": "A2A: Benchmark Your Clinical Decision Support Search",
+        "authors": [
+            "Sarvnaz Karimi",
+            "Vincent Nguyen",
+            "Falk Scholer",
+            "Brian Jin",
+            "Sara Falamaki"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "CSIRO Data61",
+            "Sydney University"
+        ],
+        "paperId": "378025536c09601086312cde8ae062335b2f22df",
+        "url": "https://www.semanticscholar.org/paper/378025536c09601086312cde8ae062335b2f22df",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 225.81996
+    },
+    {
+        "title": "An Information Retrieval Experiment Framework for Domain Specific Applications",
+        "authors": [
+            "Harrisen Scells",
+            "Daniel Locke",
+            "Guido Zuccon"
+        ],
+        "affiliations": [
+            "Queensland University of Technology"
+        ],
+        "paperId": "bbe938bb8fff561727a825d33b8ede4c89348dbf",
+        "url": "https://www.semanticscholar.org/paper/bbe938bb8fff561727a825d33b8ede4c89348dbf",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 0,
+        "matchScore": 210.64673
+    },
+    {
+        "title": "Vote Goat: Conversational Movie Recommendation",
+        "authors": [
+            "Jeffrey Dalton",
+            "Victor Ajayi",
+            "Richard Main"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ],
+        "paperId": "5b85988c59cd0ac2ed841bf16efc4e12d41a1121",
+        "url": "https://www.semanticscholar.org/paper/5b85988c59cd0ac2ed841bf16efc4e12d41a1121",
+        "year": 2018,
+        "citationCount": 30,
+        "influentialCitationCount": 2,
+        "matchScore": 207.23158
+    },
+    {
+        "title": "LogCanvas: Visualizing Search History Using Knowledge Graphs",
+        "authors": [
+            "Luyan Xu",
+            "Zeon Trevor Fernando",
+            "Xuan Zhou",
+            "Wolfgang Nejdl"
+        ],
+        "affiliations": [
+            "Renmin University of China",
+            "Leibniz Universit\u00e4t Hannover",
+            "East China Normal University"
+        ],
+        "paperId": "5a1208ba5c9506eeae994f163988fe97b3eca170",
+        "url": "https://www.semanticscholar.org/paper/5a1208ba5c9506eeae994f163988fe97b3eca170",
+        "year": 2018,
+        "citationCount": 14,
+        "influentialCitationCount": 0,
+        "matchScore": 232.74487
+    },
+    {
+        "title": "API Caveat Explorer -- Surfacing Negative Usages from Practice: An API-oriented Interactive Exploratory Search System for Programmers",
+        "authors": [
+            "Jing Li",
+            "Aixin Sun",
+            "Zhenchang Xing",
+            "Lei Han"
+        ],
+        "affiliations": [
+            "Nanyang Technological University",
+            "Australian National University"
+        ],
+        "paperId": "da9b47ea0a086125f4df274f60b8eb7bdcb6f323",
+        "url": "https://www.semanticscholar.org/paper/da9b47ea0a086125f4df274f60b8eb7bdcb6f323",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 0,
+        "matchScore": 337.36182
+    },
+    {
+        "title": "SmartTable: A Spreadsheet Program with Intelligent Assistance",
+        "authors": [
+            "Shuo Zhang",
+            "Vugar Abdul Zada",
+            "Krisztian Balog"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ],
+        "paperId": "434d2b9c218297e72037864cfee1cccb6a1ba102",
+        "url": "https://www.semanticscholar.org/paper/434d2b9c218297e72037864cfee1cccb6a1ba102",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 191.24808
+    },
+    {
+        "title": "Interactive Symptom Elicitation for Diagnostic Information Retrieval",
+        "authors": [
+            "Tuukka Ruotsalo",
+            "Antti Lipsanen"
+        ],
+        "affiliations": [
+            "University of Helsinki"
+        ],
+        "paperId": "bb792359405e54ed5a5b8fdfe7989004f3c75fc6",
+        "url": "https://www.semanticscholar.org/paper/bb792359405e54ed5a5b8fdfe7989004f3c75fc6",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 206.29504
+    },
+    {
+        "title": "Sover! Social Media Observer",
+        "authors": [
+            "Asmelash Teka Hadgu",
+            "Sallam Abualhaija",
+            "Claudia Nieder\u00e9e"
+        ],
+        "affiliations": [
+            "L3S Research Center",
+            "Interdisciplinary Centre for Security, Reliability and Trust"
+        ],
+        "paperId": "6fa3d522099848a353148e58fe6956f2675046b5",
+        "url": "https://www.semanticscholar.org/paper/6fa3d522099848a353148e58fe6956f2675046b5",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 144.74968
+    },
+    {
+        "title": "Combining Terrier with Apache Spark to create Agile Experimental Information Retrieval Pipelines",
+        "authors": [
+            "Craig Macdonald"
+        ],
+        "affiliations": [
+            "University of Glasgow"
+        ],
+        "paperId": "4465bac55bdd2f53bcad11ae84d4e8b67626fd63",
+        "url": "https://www.semanticscholar.org/paper/4465bac55bdd2f53bcad11ae84d4e8b67626fd63",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 233.28017
+    },
+    {
+        "title": "Dynamic Composition of Question Answering Pipelines with FRANKENSTEIN",
+        "authors": [
+            "Kuldeep Singh",
+            "Ioanna Lytra",
+            "Arun Sethupat Radhakrishna",
+            "Akhilesh Vyas",
+            "Esther Vidal"
+        ],
+        "affiliations": [
+            "University of Minnesota",
+            "TIB",
+            "Fraunhofer IAIS",
+            "University of Bonn & Fraunhofer IAIS"
+        ],
+        "paperId": "2cd9393564e0000fad3da55e43959b6e758fbc7d",
+        "url": "https://www.semanticscholar.org/paper/2cd9393564e0000fad3da55e43959b6e758fbc7d",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 221.52509
+    },
+    {
+        "title": "A System for Efficient High-Recall Retrieval",
+        "authors": [
+            "Mustafa Abualsaud",
+            "Nimesh Ghelani",
+            "Haotian Zhang",
+            "Mark D. Smucker",
+            "Gordon V. CormackMaura R. Grossman"
+        ],
+        "affiliations": [
+            "University of Waterloo"
+        ],
+        "paperId": "55ba0516e63f4ec5410e95b770e56cbfa291b528",
+        "url": "https://www.semanticscholar.org/paper/55ba0516e63f4ec5410e95b770e56cbfa291b528",
+        "year": 2018,
+        "citationCount": 41,
+        "influentialCitationCount": 2,
+        "matchScore": 170.14713
+    },
+    {
+        "title": "HyPlag: A Hybrid Approach to Academic Plagiarism Detection",
+        "authors": [
+            "Norman Meuschke",
+            "Vincent Stange",
+            "Moritz Schubotz",
+            "Bela Gipp"
+        ],
+        "affiliations": [
+            "University of Konstanz"
+        ],
+        "paperId": "98fd145df864d79d52fb2b10bdb80b7948920e14",
+        "url": "https://www.semanticscholar.org/paper/98fd145df864d79d52fb2b10bdb80b7948920e14",
+        "year": 2018,
+        "citationCount": 31,
+        "influentialCitationCount": 0,
+        "matchScore": 211.53036
+    },
+    {
+        "title": "RecAdvisor: Criteria-based Ph.D. Supervisor Recommendation",
+        "authors": [
+            "Mir Anamul Hasan",
+            "Daniel G. Schwartz"
+        ],
+        "affiliations": [
+            "Florida State University"
+        ],
+        "paperId": "767ffcfb5e7c8dd251d20408c6bde555a6d8ff70",
+        "url": "https://www.semanticscholar.org/paper/767ffcfb5e7c8dd251d20408c6bde555a6d8ff70",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 232.25983
+    },
+    {
+        "title": "Minority Report by Lemur: Supporting Search Engine with Virtual Reality",
+        "authors": [
+            "Andrew Jie Zhou",
+            "Grace Hui Yang"
+        ],
+        "affiliations": [
+            "Georgetown University"
+        ],
+        "paperId": "997ec6ab2cc8ff2131119d6d01a6a08636d3af18",
+        "url": "https://www.semanticscholar.org/paper/997ec6ab2cc8ff2131119d6d01a6a08636d3af18",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 245.47061
+    },
+    {
+        "title": "Hide-n-Seek: An Intent-aware Privacy Protection Plugin for Personalized Web Search",
+        "authors": [
+            "Puxuan Yu",
+            "Wasi Uddin Ahmad",
+            "Hongning Wang"
+        ],
+        "affiliations": [
+            "University of Virginia",
+            "University of California, Los Angeles",
+            "Wuhan University"
+        ],
+        "paperId": "d8069d81a3bfae4fbbc1f08a983d7d2f19c77c7b",
+        "url": "https://www.semanticscholar.org/paper/d8069d81a3bfae4fbbc1f08a983d7d2f19c77c7b",
+        "year": 2018,
+        "citationCount": 10,
+        "influentialCitationCount": 0,
+        "matchScore": 310.56912
+    },
+    {
+        "title": "ENHANCING THE ACCEPTABILITY OF VR PRODUCTS THROUGH MACHINE LEARNING: AMAZON'S HELPFUL REVIEW ACCEPTABILITY PREDICTION MODEL",
+        "authors": [
+            "Rajeev Rastogi"
+        ],
+        "affiliations": [
+            "Amazon"
+        ],
+        "paperId": "1a6317270a9097c7c5ba6d0c9793358010a7f4c6",
+        "url": "https://www.semanticscholar.org/paper/1a6317270a9097c7c5ba6d0c9793358010a7f4c6",
+        "year": 2023,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 87.762405
+    },
+    {
+        "title": "Extracting Real-Time Insights from Graphs and Social Streams",
+        "authors": [
+            "Charu C. Aggarwal"
+        ],
+        "affiliations": [
+            "IBM T. J. Watson Research Center"
+        ],
+        "paperId": "46b544b0aa08fc046b4282222b38fa86b59008c8",
+        "url": "https://www.semanticscholar.org/paper/46b544b0aa08fc046b4282222b38fa86b59008c8",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 213.8841
+    },
+    {
+        "title": "Big Data at Didi Chuxing",
+        "authors": [
+            "Jieping Ye"
+        ],
+        "affiliations": [
+            "DiDi Chuxing & University of Michigan"
+        ],
+        "paperId": "2f6c7a40d6af964c1808b8edf57f201c67a908ba",
+        "url": "https://www.semanticscholar.org/paper/2f6c7a40d6af964c1808b8edf57f201c67a908ba",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 159.65251
+    },
+    {
+        "title": "The City Brain: Towards Real-Time Search for the Real-World",
+        "authors": [
+            "Sheng Hua"
+        ],
+        "affiliations": [
+            "Alibaba Group"
+        ],
+        "paperId": "154b396d440b2b4088cd909cc282475552f972f7",
+        "url": "https://www.semanticscholar.org/paper/154b396d440b2b4088cd909cc282475552f972f7",
+        "year": 2018,
+        "citationCount": 12,
+        "influentialCitationCount": 0,
+        "matchScore": 229.6318
+    },
+    {
+        "title": "Causal Inference over Longitudinal Data to Support Expectation Exploration",
+        "authors": [
+            "man"
+        ],
+        "affiliations": [
+            "Microsoft Research"
+        ],
+        "paperId": "1396cd3de563b286ba3784c5066a226f771987ac",
+        "url": "https://www.semanticscholar.org/paper/1396cd3de563b286ba3784c5066a226f771987ac",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 243.63687
+    },
+    {
+        "title": "Merchandise Recommendation for Retail Events with Word Embedding Weighted Tf-idf and Dynamic Query Expansion",
+        "authors": [
+            "Ted Tao Yuan",
+            "Zezhong Zhang"
+        ],
+        "affiliations": [
+            "eBay Inc."
+        ],
+        "paperId": "351af5bdba2b76c964628d82a43c3e60842da5f7",
+        "url": "https://www.semanticscholar.org/paper/351af5bdba2b76c964628d82a43c3e60842da5f7",
+        "year": 2018,
+        "citationCount": 7,
+        "influentialCitationCount": 0,
+        "matchScore": 255.46094
+    },
+    {
+        "title": "Product Question Answering Using Customer Generated Content - Research Challenges",
+        "authors": [
+            "Eytan",
+            "Yoelle Maarek"
+        ],
+        "affiliations": [
+            "Amazon Research"
+        ],
+        "paperId": "da51725c7b53c97cb0201a430cfcb3a883bca264",
+        "url": "https://www.semanticscholar.org/paper/da51725c7b53c97cb0201a430cfcb3a883bca264",
+        "year": 2018,
+        "citationCount": 22,
+        "influentialCitationCount": 2,
+        "matchScore": 258.28473
+    },
+    {
+        "title": "Auto-completion for Question Answering Systems at Bloomberg",
+        "authors": [
+            "Konstantine Arkoudas",
+            "Mohamed Yahya"
+        ],
+        "affiliations": [
+            "Bloomberg"
+        ],
+        "paperId": "6a3dcecb1f96319f040ac8df892fe11bb66f3b14",
+        "url": "https://www.semanticscholar.org/paper/6a3dcecb1f96319f040ac8df892fe11bb66f3b14",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 215.8187
+    },
+    {
+        "title": "Talent Search and Recommendation Systems at LinkedIn: Practical Challenges and Lessons Learned",
+        "authors": [
+            "Sahin Cem Geyik",
+            "Qi Guo",
+            "Bo Hu",
+            "Cagri Ozcaglar",
+            "Ketan Thakkar",
+            "Xianren Wu",
+            "Krishnaram Kenthapadi"
+        ],
+        "affiliations": [
+            "LinkedIn"
+        ],
+        "paperId": "58f31441e3f9c3c0a7003f31562e3c57d7a28f67",
+        "url": "https://www.semanticscholar.org/paper/58f31441e3f9c3c0a7003f31562e3c57d7a28f67",
+        "year": 2018,
+        "citationCount": 37,
+        "influentialCitationCount": 2,
+        "matchScore": 189.93121
+    },
+    {
+        "title": "The Evolution of Content Analysis for Personalized Recommendations at Twitter",
+        "authors": [
+            "Ajeet Grewal",
+            "Jimmy Lin"
+        ],
+        "affiliations": [
+            "University of Waterloo",
+            "Twitter, Inc."
+        ],
+        "paperId": "c4f64976777c94b04291a305b8e5a573605d04fa",
+        "url": "https://www.semanticscholar.org/paper/c4f64976777c94b04291a305b8e5a573605d04fa",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 187.21167
+    },
+    {
+        "title": "Large Scale Search Engine Marketing (SEM) at Airbnb",
+        "authors": [
+            "James Wong",
+            "Brendan Collins",
+            "Ganesh Venkataraman"
+        ],
+        "affiliations": [
+            "Airbnb Inc"
+        ],
+        "paperId": "184fb9222ae22d0e0d8ebcfb4ac5043bb39208ef",
+        "url": "https://www.semanticscholar.org/paper/184fb9222ae22d0e0d8ebcfb4ac5043bb39208ef",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 247.3949
+    },
+    {
+        "title": "Clova: Services and Devices Powered by AI",
+        "authors": [
+            "Inho Kang"
+        ],
+        "affiliations": [
+            "Naver Search"
+        ],
+        "paperId": "1f0f11ac4bd5d5a91d8617d71860062f1e75bb40",
+        "url": "https://www.semanticscholar.org/paper/1f0f11ac4bd5d5a91d8617d71860062f1e75bb40",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 1,
+        "matchScore": 178.34253
+    },
+    {
+        "title": "Lessons from Building a Large-scale Commercial IR-based Chatbot for an Emerging Market",
+        "authors": [
+            "Manoj Kumar Chinnakotla",
+            "Puneet Agrawal"
+        ],
+        "affiliations": [
+            "Microsoft"
+        ],
+        "paperId": "d2569cb658b681bc969f1229c87a2f20e2f51e92",
+        "url": "https://www.semanticscholar.org/paper/d2569cb658b681bc969f1229c87a2f20e2f51e92",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 226.7135
+    },
+    {
+        "title": "LessonWare: Mining Student Notes to Provide Personalized Feedback",
+        "authors": [
+            "Perry Samson",
+            "Charles Bassam"
+        ],
+        "affiliations": [
+            "Echo360 Inc. & University of Michigan",
+            "Echo360 Inc."
+        ],
+        "paperId": "b9fb1fbec5fd45df552ce8b32a36fbfc87c9c4b0",
+        "url": "https://www.semanticscholar.org/paper/b9fb1fbec5fd45df552ce8b32a36fbfc87c9c4b0",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 258.21527
+    },
+    {
+        "title": "Deep Learning for Matching in Search and Recommendation",
+        "authors": [
+            "Jun Xu",
+            "Xiangnan He",
+            "Hang Li"
+        ],
+        "affiliations": [
+            "Institute of Computing Technology, Chinese Academy of Sciences",
+            "Toutiao AI Lab",
+            "School of Computing, National University of Singapore"
+        ],
+        "paperId": "a01b81eb04b150f39ef102ac11ebdc2de1916946",
+        "url": "https://www.semanticscholar.org/paper/a01b81eb04b150f39ef102ac11ebdc2de1916946",
+        "year": 2018,
+        "citationCount": 91,
+        "influentialCitationCount": 2,
+        "matchScore": 162.24994
+    },
+    {
+        "title": "Conducting Laboratory Experiments Properly with Statistical Tools: An Easy Hands-on Tutorial",
+        "authors": [
+            "Tetsuya Sakai"
+        ],
+        "affiliations": [
+            "Waseda University"
+        ],
+        "paperId": "70408d4048685b03d2cbf0ec3f177ccaab5be051",
+        "url": "https://www.semanticscholar.org/paper/70408d4048685b03d2cbf0ec3f177ccaab5be051",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 271.1809
+    },
+    {
+        "title": "Neural Approaches to Conversational AI",
+        "authors": [
+            "Jianfeng Gao",
+            "Michel Galley",
+            "Lihong Li"
+        ],
+        "affiliations": [
+            "Google Inc.",
+            "Microsoft Research"
+        ],
+        "paperId": "83e567c2822aeda91006096a5d7ac0b34721d2a5",
+        "url": "https://www.semanticscholar.org/paper/83e567c2822aeda91006096a5d7ac0b34721d2a5",
+        "year": 2018,
+        "citationCount": 648,
+        "influentialCitationCount": 36,
+        "matchScore": 143.97285
+    },
+    {
+        "title": "Generative Adversarial Nets for Information Retrieval: Fundamentals and Advances",
+        "authors": [
+            "Weinan Zhang"
+        ],
+        "affiliations": [
+            "Shanghai Jiao Tong University"
+        ],
+        "paperId": "1efd2e940c19a2f9fb263be8880a4bb732cbed1a",
+        "url": "https://www.semanticscholar.org/paper/1efd2e940c19a2f9fb263be8880a4bb732cbed1a",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 0,
+        "matchScore": 224.31766
+    },
+    {
+        "title": "Fusion in Information Retrieval: SIGIR 2018 Half-Day Tutorial",
+        "authors": [
+            "Oren Kurland",
+            "J. Shane Culpepper"
+        ],
+        "affiliations": [
+            "Technion",
+            "RMIT University"
+        ],
+        "paperId": "61a9d991413e112ee95ccdac177ec684738103bd",
+        "url": "https://www.semanticscholar.org/paper/61a9d991413e112ee95ccdac177ec684738103bd",
+        "year": 2018,
+        "citationCount": 27,
+        "influentialCitationCount": 3,
+        "matchScore": 261.1151
+    },
+    {
+        "title": "Utilizing Knowledge Graphs for Text-Centric Information Retrieval",
+        "authors": [
+            "Laura Dietz",
+            "Alexander Kotov",
+            "Edgar Meij"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "Wayne State University",
+            "University of New Hampshire"
+        ],
+        "paperId": "c3e0fd442f43501a4761c880ef8a79335a7028b7",
+        "url": "https://www.semanticscholar.org/paper/c3e0fd442f43501a4761c880ef8a79335a7028b7",
+        "year": 2018,
+        "citationCount": 52,
+        "influentialCitationCount": 0,
+        "matchScore": 232.84732
+    },
+    {
+        "title": "SIGIR 2018 Tutorial on Health Search (HS2018): A Full-day from Consumers to Clinicians",
+        "authors": [
+            "Guido Zuccon",
+            "Bevan Koopman"
+        ],
+        "affiliations": [
+            "Queensland University of Technology",
+            "Australian e-Health Research Centre, CSIRO"
+        ],
+        "paperId": "b5c1f970f500625f4a0d8fac5f5235d1506d2c70",
+        "url": "https://www.semanticscholar.org/paper/b5c1f970f500625f4a0d8fac5f5235d1506d2c70",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 0,
+        "matchScore": 326.69556
+    },
+    {
+        "title": "A Tutorial on Probabilistic Topic Models for Text Data Retrieval and Analysis",
+        "authors": [
+            "ChengXiang Zhai",
+            "Chase Geigle"
+        ],
+        "affiliations": [
+            "University of Illinois at Urbana-Champaign"
+        ],
+        "paperId": "bedad77e64a18f4224f5e81595bcc180e87714a9",
+        "url": "https://www.semanticscholar.org/paper/bedad77e64a18f4224f5e81595bcc180e87714a9",
+        "year": 2018,
+        "citationCount": 17,
+        "influentialCitationCount": 0,
+        "matchScore": 218.96068
+    },
+    {
+        "title": "Knowledge Extraction and Inference from Text: Shallow, Deep, and Everything in Between",
+        "authors": [
+            "Soumen Chakrabarti"
+        ],
+        "affiliations": [
+            "IIT Bombay"
+        ],
+        "paperId": "e5b95c50756ed9b259523b4b436313d36681b660",
+        "url": "https://www.semanticscholar.org/paper/e5b95c50756ed9b259523b4b436313d36681b660",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 196.04321
+    },
+    {
+        "title": "Efficient Query Processing Infrastructures: A half-day tutorial at SIGIR 2018",
+        "authors": [
+            "Nicola Tonellotto",
+            "Craig Macdonald"
+        ],
+        "affiliations": [
+            "ISTI-CNR",
+            "University of Glasgow"
+        ],
+        "paperId": "6dcab868c9fbc8d34ffceab1912aa359906930c7",
+        "url": "https://www.semanticscholar.org/paper/6dcab868c9fbc8d34ffceab1912aa359906930c7",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 318.58896
+    },
+    {
+        "title": "SIGIR 2018 Workshop on eCommerce (ECOM18)",
+        "authors": [
+            "Jon Degenhardt",
+            "Pino Di Fabbrizio",
+            "Surya Kallumadi",
+            "Mohit Kumar",
+            "Chang Lin",
+            "Andrew Trotman",
+            "Huasha Zhao"
+        ],
+        "affiliations": [
+            "Rakuten Institute of Technology",
+            "Flipkart",
+            "eBay Inc.",
+            "University of Otago",
+            "Alibaba Group",
+            "Kansas State University"
+        ],
+        "paperId": "a0b9d295c5da2a890e3e435be0588b93ab313c33",
+        "url": "https://www.semanticscholar.org/paper/a0b9d295c5da2a890e3e435be0588b93ab313c33",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 221.86845
+    },
+    {
+        "title": "SIGIR 2018 Workshop on ExplainAble Recommendation and Search (EARS 2018)",
+        "authors": [
+            "Yongfeng Zhang",
+            "Yi Zhang",
+            "Min Zhang"
+        ],
+        "affiliations": [
+            "Tsinghua University",
+            "University of California Santa Cruz",
+            "Rutgers University"
+        ],
+        "paperId": "9135ae5f1515b0ad2ea416659672a91f5f469472",
+        "url": "https://www.semanticscholar.org/paper/9135ae5f1515b0ad2ea416659672a91f5f469472",
+        "year": 2018,
+        "citationCount": 14,
+        "influentialCitationCount": 0,
+        "matchScore": 278.42908
+    },
+    {
+        "title": "Report on the 2nd Joint Workshop on Bibliometric-enhanced Information Retrieval and Natural Language Processing for Digital Libraries (BIRNDL 2017)",
+        "authors": [
+            "Muthu Kumar Chandrasekaran",
+            "Kokil Jaidka",
+            "Philipp Mayr"
+        ],
+        "affiliations": [
+            "GESIS - Leibniz Institute for the Social Sciences",
+            "University of Pennsylvania",
+            "National University of Singapore"
+        ],
+        "paperId": "77da0ef71f838d93753535848c1d6cf2d08ba5ff",
+        "url": "https://www.semanticscholar.org/paper/77da0ef71f838d93753535848c1d6cf2d08ba5ff",
+        "year": 2018,
+        "citationCount": 11,
+        "influentialCitationCount": 0,
+        "matchScore": 274.37717
+    },
+    {
+        "title": "DATA: SEARCH'18 - Searching Data on the Web",
+        "authors": [
+            "Paul Groth",
+            "Laura Koesten",
+            "Philipp Mayr",
+            "Maarten de Rijke",
+            "Elena Simperl"
+        ],
+        "affiliations": [
+            "Elsevier Labs",
+            "University of Amsterdam",
+            "University of Southampton",
+            "Open Data Institute & University of Southampton",
+            "GESIS Leibniz - Institute for the Social Sciences"
+        ],
+        "paperId": "7bca9e4e6635cb0d700f59192be79aeed07136ac",
+        "url": "https://www.semanticscholar.org/paper/7bca9e4e6635cb0d700f59192be79aeed07136ac",
+        "year": 2018,
+        "citationCount": 3,
+        "influentialCitationCount": 1,
+        "matchScore": 205.07411
+    },
+    {
+        "title": "The Second Workshop on Knowledge Graphs and Semantics for Text Retrieval, Analysis, and Understanding (KG4IR)",
+        "authors": [
+            "Laura Dietz",
+            "Chenyan Xiong",
+            "Jeff Dalton",
+            "Edgar Meij"
+        ],
+        "affiliations": [
+            "Bloomberg",
+            "University of Glasgow",
+            "Carnegie Mellon University",
+            "University of New Hampshire"
+        ],
+        "paperId": "13c7764ba6b0455ef5f77c3cdd5425c3110603b9",
+        "url": "https://www.semanticscholar.org/paper/13c7764ba6b0455ef5f77c3cdd5425c3110603b9",
+        "year": 2018,
+        "citationCount": 2,
+        "influentialCitationCount": 0,
+        "matchScore": 292.597
+    },
+    {
+        "title": "Computational Surprise in Information Retrieval",
+        "authors": [
+            "Xi Niu",
+            "Wlodek Zadrozny",
+            "Kazjon Grace",
+            "Weimao Ke"
+        ],
+        "affiliations": [
+            "University of Sydney",
+            "University of North Carolina at Charlotte",
+            "Drexel University"
+        ],
+        "paperId": "55339ca1f8bb93b61ad9e6626018c745f67e428e",
+        "url": "https://www.semanticscholar.org/paper/55339ca1f8bb93b61ad9e6626018c745f67e428e",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 149.50063
+    },
+    {
+        "title": "First International Workshop on Professional Search (ProfS2018)",
+        "authors": [
+            "Suzan Verberne",
+            "Jiyin He",
+            "Udo Kruschwitz",
+            "Birger Larsen",
+            "Rose",
+            "Arjen P. de Vries"
+        ],
+        "affiliations": [
+            "Leiden University",
+            "Aalborg University",
+            "Radboud University",
+            "University of Essex",
+            "UXLabs",
+            "Centrum Wiskunde & Informatica"
+        ],
+        "paperId": "01c4cfdce4fa3b769b16007a8e7d53fa6020b52c",
+        "url": "https://www.semanticscholar.org/paper/01c4cfdce4fa3b769b16007a8e7d53fa6020b52c",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 200.30289
+    },
+    {
+        "title": "Second International Workshop on Conversational Approaches to Information Retrieval (CAIR'18): Workshop at SIGIR 2018",
+        "authors": [
+            "Jaime Arguello",
+            "Filip Radlinski",
+            "Hideo Joho",
+            "Damiano Spina",
+            "Julia Kiseleva"
+        ],
+        "affiliations": [
+            "RMIT University",
+            "University of Amsterdam",
+            "University of North Carolina at Chapel Hill",
+            "Google",
+            "University of Tsukuba"
+        ],
+        "paperId": "602a60221c3031716deffd34a0b7a16ab5e84f82",
+        "url": "https://www.semanticscholar.org/paper/602a60221c3031716deffd34a0b7a16ab5e84f82",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 347.20062
+    },
+    {
+        "title": "SIGIR 2018 Workshop on Learning from Limited or Noisy Data for Information Retrieval",
+        "authors": [
+            "Hamed Zamani",
+            "Mostafa Dehghani",
+            "Fernando Diaz",
+            "Hang Li",
+            "Nick Craswell"
+        ],
+        "affiliations": [
+            "Toutiao AI Lab",
+            "University of Amsterdam",
+            "Microsoft",
+            "Spotify",
+            "University of Massachusetts, Amherst"
+        ],
+        "paperId": "e301275b5924494b43bff0f931baa324fddc1a0c",
+        "url": "https://www.semanticscholar.org/paper/e301275b5924494b43bff0f931baa324fddc1a0c",
+        "year": 2018,
+        "citationCount": 17,
+        "influentialCitationCount": 0,
+        "matchScore": 260.8562
+    },
+    {
+        "title": "SIGIR 2018 Workshop on Intelligent Transportation Informatics",
+        "authors": [
+            "Yan Liu",
+            "Zhenhui Li",
+            "Wei Ai",
+            "Lingyu Zhang"
+        ],
+        "affiliations": [
+            "University of South California",
+            "Didi Chuxing",
+            "Pennsylvania State University",
+            "University of Michigan"
+        ],
+        "paperId": "62837e6f6ac0bdf3e6fb0317ac0f18982144dd7c",
+        "url": "https://www.semanticscholar.org/paper/62837e6f6ac0bdf3e6fb0317ac0f18982144dd7c",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 216.96342
+    },
+    {
+        "title": "Exploring Potential Pathways to Address Bias and Ethics in IR",
+        "authors": [
+            "Steven Zimmerman"
+        ],
+        "affiliations": [
+            "University of Essex"
+        ],
+        "paperId": "cd8c0502c2fe87439dd9d6c2fa76664895df8ab8",
+        "url": "https://www.semanticscholar.org/paper/cd8c0502c2fe87439dd9d6c2fa76664895df8ab8",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 228.384
+    },
+    {
+        "title": "SmartTable: Equipping Spreadsheets with Intelligent AssistanceFunctionalities",
+        "authors": [
+            "Shuo Zhang"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ],
+        "paperId": "9a3f9429d3b87a1007efe8cc2a8731d7eb9a117d",
+        "url": "https://www.semanticscholar.org/paper/9a3f9429d3b87a1007efe8cc2a8731d7eb9a117d",
+        "year": 2018,
+        "citationCount": 8,
+        "influentialCitationCount": 1,
+        "matchScore": 220.53467
+    },
+    {
+        "title": "Efficiency-Effectiveness Trade-Offs in Machine Learned Models for Information Retrieval",
+        "authors": [
+            "Luke Gallagher"
+        ],
+        "affiliations": [
+            "RMIT University"
+        ],
+        "paperId": "3941a1189989e75cea45716cbeb63239c79466fb",
+        "url": "https://www.semanticscholar.org/paper/3941a1189989e75cea45716cbeb63239c79466fb",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 253.31775
+    },
+    {
+        "title": "Case-Based Retrieval Using Document-Level Semantic Networks",
+        "authors": [
+            "Stefano Marchesin"
+        ],
+        "affiliations": [
+            "University of Padova"
+        ],
+        "paperId": "9826d048eb465556d310200b1d00768ba93cbc7f",
+        "url": "https://www.semanticscholar.org/paper/9826d048eb465556d310200b1d00768ba93cbc7f",
+        "year": 2018,
+        "citationCount": 6,
+        "influentialCitationCount": 0,
+        "matchScore": 228.14957
+    },
+    {
+        "title": "Utilizing Inter-Passage Similarities for Focused Retrieval",
+        "authors": [
+            "Eilon Sheetrit"
+        ],
+        "affiliations": [
+            "Technion"
+        ],
+        "paperId": "ff36037c7a573ae7555f14fe34f48c965b9bf82d",
+        "url": "https://www.semanticscholar.org/paper/ff36037c7a573ae7555f14fe34f48c965b9bf82d",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 227.75815
+    },
+    {
+        "title": "Enhanced Contextual Recommendation using Social Media Data",
+        "authors": [
+            "Anirban Chakraborty"
+        ],
+        "affiliations": [
+            "Trinity College Dublin"
+        ],
+        "paperId": "ee98be70ed82c7420499a1d31684c284a2f00a0b",
+        "url": "https://www.semanticscholar.org/paper/ee98be70ed82c7420499a1d31684c284a2f00a0b",
+        "year": 2018,
+        "citationCount": 5,
+        "influentialCitationCount": 0,
+        "matchScore": 202.45978
+    },
+    {
+        "title": "A Semantic Search Approach to Task-Completion Engines",
+        "authors": [
+            "Dar\u00edo Garigliotti"
+        ],
+        "affiliations": [
+            "University of Stavanger"
+        ],
+        "paperId": "c611680c780895669edf8610176ab327decbf10b",
+        "url": "https://www.semanticscholar.org/paper/c611680c780895669edf8610176ab327decbf10b",
+        "year": 2018,
+        "citationCount": 4,
+        "influentialCitationCount": 0,
+        "matchScore": 214.08958
+    },
+    {
+        "title": "Addressing News-Related Standing Information Needs",
+        "authors": [
+            "Kristine M. Rogers"
+        ],
+        "affiliations": [
+            "University of Maryland"
+        ],
+        "paperId": "b4080cb8c9f1b8a29450130669fab33da3671ae6",
+        "url": "https://www.semanticscholar.org/paper/b4080cb8c9f1b8a29450130669fab33da3671ae6",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 216.82791
+    },
+    {
+        "title": "Design and Evaluation of Query Auto Completion Mechanisms",
+        "authors": [
+            "Unni Krishnan"
+        ],
+        "affiliations": [
+            "The University of Melbourne"
+        ],
+        "paperId": "cdd7842ae0a5e2e060ab695fd94fd567a2221787",
+        "url": "https://www.semanticscholar.org/paper/cdd7842ae0a5e2e060ab695fd94fd567a2221787",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 202.60864
+    },
+    {
+        "title": "Better Textbooks with Human Language Technology",
+        "authors": [
+            "Sudeshna Das"
+        ],
+        "affiliations": [
+            "Indian Institute of Technology, Kharagpur"
+        ],
+        "paperId": "1c30e94f707adf504039e6881822e24253544d98",
+        "url": "https://www.semanticscholar.org/paper/1c30e94f707adf504039e6881822e24253544d98",
+        "year": 2018,
+        "citationCount": 0,
+        "influentialCitationCount": 0,
+        "matchScore": 173.09506
+    },
+    {
+        "title": "CHEERS: CHeap & Engineered Evaluation of Retrieval Systems",
+        "authors": [
+            "Kevin Roitero"
+        ],
+        "affiliations": [
+            "University of Udine"
+        ],
+        "paperId": "fb29ecf3fab71a7fc9e75a4bef0b91529c47c13d",
+        "url": "https://www.semanticscholar.org/paper/fb29ecf3fab71a7fc9e75a4bef0b91529c47c13d",
+        "year": 2018,
+        "citationCount": 1,
+        "influentialCitationCount": 0,
+        "matchScore": 59.558243
+    }
+]
