@@ -46,6 +46,8 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 |2024|[Data Void Exploits: Tracking & Mitigation Strategies](https://dl.acm.org/doi/10.1145/3627673.3679781)|Miro Mannino, Junior Garcia, Reem Hazim, Azza Abouzied, Paolo Papotti|BYU Abu Dhabi, EURECOM|
 |2024 <br> (Runner-up)|[Revisiting Optimal Window Aggregation in Data Streams: The Prefix-Sum Approach](https://dl.acm.org/doi/10.1145/3627673.3679573)|José Martinez, Guillaume Raschia|Nantes Universite|
 |2023|[Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-informed Demand](https://dl.acm.org/doi/10.1145/3583780.3614942)|Heng Tan, Yukun Yuan, Shuxin Zhong, Yu Yang|Lehigh University, University of Tennessee at Chattanooga, Rutgers University|
+|2022|[Harnessing Neighborhood Modeling and Asymmetry Preservation for Digraph Representation Learning](http://gerard.demelo.org/papers/digraph-representation-learning-ijcai.pdf)|Honglu Zhou, Advith Chegu, Samuel S. Sohn, Zuohui Fu, Gerard de Melo, Mubbasir Kapadia|Rutgers University, University of Potsdam|
+|2022(Runner-up)|[Cross-Network Social User Embedding with Hybrid Differential Privacy Guarantees](https://dl.acm.org/doi/abs/10.1145/3511808.3557278)|Jiaqian Ren, Lei Jiang, Hao Peng, Lingjuan Lyu, Zhiwei Liu, Chaochao Chen, Jia Wu, Xu Bai, Philip S. Yu|IIE CAS, Beihang University, Sony AI, University of Illinois Chicago, Macquarie University, Zhejiang University|
 |||||
 
 ## 3. Best Student Full Paper Awards <a id="best_student"></a>
@@ -62,13 +64,17 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2024|[GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding](https://dl.acm.org/doi/10.1145/3627673.3679934)|Yibo Yan, Joey Lee|National University of Singapore, Shanghai Zhangjiang Institute of Mathematics|
 |2023|[Knowledge Graph Error Detection with Hierarchical Path Structure](https://dl.acm.org/doi/10.1145/3583780.3615201)|Zhao Zhang, Fuwei Zhang, Fuzhen Zhuang, Yongjun Xu|ICT, CAS|
-
+|2022|[Commonsense Knowledge Base Completion with Relational Graph Attention Network and Pre-trained Language Model](https://dl.acm.org/doi/abs/10.1145/3511808.3557564?casa_token=KPFcZFc3r9IAAAAA:7oSll1vm9570rI415S9LDyaAj3aEDplA3Hw0riEHhiX5QcY2AqKP3DymR8I9yqGYoPfO8gbTuujheQ)|Iinhao ju, Deqing Yang, Jingping Liu|Fudan University|
+|2022(Runner-up)|[Adaptive Graph Spatial-Temporal Transformer Network for Traffic Forecasting](https://dl.acm.org/doi/abs/10.1145/3511808.3557540)|Aosong Feng, Leandros Tassiulas|Yale University|
+|||||
 ## 5. Best Resource Paper Awards <a id="best_resource"></a>
 
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2024|[pyPANTERA: A Python PAckage for Natural language obfuscaTion Enforcing pRivacy & Anonymization](https://dl.acm.org/doi/10.1145/3627673.3679173)|Francesco Luigi De Faveri, Guglielmo Faggioli, Nicola Ferro|University of Padova|
 |2023|[Towards Filling the Gap in Conversational Search: From Passage Retrieval to Conversational Response Generation](https://dl.acm.org/doi/10.1145/3583780.3615132)|Weronika Lajewska, Krisztian Balog|University of Stavanger|
+|2022|[SimlR 2. 0 Framework: User Tvpes, MarkovModel-Based interaction Simulation, and Advanced Query Generation](https://downloads.webis.de/publications/papers/zerhoudi_2022.pdf)|Saber Zerhoudi, Sebastian Gunther, Kim Plassmeier, Timo Borst. Christin Seifert. Matthias Hagen and Michael Granitzer|University of Passau, Martin-Luther-Universität, ZBW Leibniz Information Centre for Economics|
+|2022(Runner-up)|[RecBole2.0: Towardsa More Up-to-Date Recommendation Library](https://dl.acm.org/doi/10.1145/3511808.3557680)|Wayne Xin Zhao, Yupeng Hou, Xingyu Pan, Chen Yang,Zeyu Zhang, Zihan Lin, ingsen Zhang, Shuging Bian, jiakai Tang, WengiSun, Yushuo Chen, Lanling Xu, Gaowei Zhang, Zhen Tian, Changxin Tian, hanlei Mu,Xinyan Fan, xu Chen and ji-Rong Wen|Renmin University of China|
 |||||
 
 ## 6. Best Demo Paper Awards <a id="best_demo"></a>
@@ -76,4 +82,5 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2024|[Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning](https://dl.acm.org/doi/10.1145/3627673.3679218)|Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, Abhinav Gorantla, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan|Arizona State University|
 |2023|[HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://dl.acm.org/doi/10.1145/3583780.3614742)|Jianing Wang, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao|East China Normal University, National University of Singapore, Alibaba Group|
-|||||
+|2022|[BED: A Real-Time Object Detection System forEdge Devices](https://dl.acm.org/doi/10.1145/3511808.3557168)|Guanchu Wang.,Zaid Pervaiz Bhat. Zhimeng jiang, Yi-Wei Chen. Daochen Zha, Alfredo Costila Reves, Afshin Niktash, GorkemUlkar, Erman Okman, Xuanting Cai and Xia Hu|Rice University, Texas A&M University, Analog Devices, Meta Platforms Inc|
+|2022(Runner-up)|[eDental: Managing Your Dental Care in DietDiaries](https://dl.acm.org/doi/10.1145/3511808.3557215)|Kaiping Zheng, Thao Nguyen, Changshuo Liu, Charlene Goh, Beng Chin Ooi|National University of Singapore| 
