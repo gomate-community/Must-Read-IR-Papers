@@ -45,6 +45,7 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2024|[Data Void Exploits: Tracking & Mitigation Strategies](https://dl.acm.org/doi/10.1145/3627673.3679781)|Miro Mannino, Junior Garcia, Reem Hazim, Azza Abouzied, Paolo Papotti|BYU Abu Dhabi, EURECOM|
 |2024 <br> (Runner-up)|[Revisiting Optimal Window Aggregation in Data Streams: The Prefix-Sum Approach](https://dl.acm.org/doi/10.1145/3627673.3679573)|José Martinez, Guillaume Raschia|Nantes Universite|
+|2023|[Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-informed Demand](https://dl.acm.org/doi/10.1145/3583780.3614942)|Heng Tan, Yukun Yuan, Shuxin Zhong, Yu Yang|Lehigh University, University of Tennessee at Chattanooga, Rutgers University|
 |||||
 
 ## 3. Best Student Full Paper Awards <a id="best_student"></a>
@@ -59,15 +60,20 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
-|||||
+|2024|[GeoReasoner: Reasoning On Geospatially Grounded Context For Natural Language Understanding](https://dl.acm.org/doi/10.1145/3627673.3679934)|Yibo Yan, Joey Lee|National University of Singapore, Shanghai Zhangjiang Institute of Mathematics|
+|2023|[Knowledge Graph Error Detection with Hierarchical Path Structure](https://dl.acm.org/doi/10.1145/3583780.3615201)|Zhao Zhang, Fuwei Zhang, Fuzhen Zhuang, Yongjun Xu|ICT, CAS|
 
 ## 5. Best Resource Paper Awards <a id="best_resource"></a>
 
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|2024|[pyPANTERA: A Python PAckage for Natural language obfuscaTion Enforcing pRivacy & Anonymization](https://dl.acm.org/doi/10.1145/3627673.3679173)|Francesco Luigi De Faveri, Guglielmo Faggioli, Nicola Ferro|University of Padova|
+|2023|[Towards Filling the Gap in Conversational Search: From Passage Retrieval to Conversational Response Generation](https://dl.acm.org/doi/10.1145/3583780.3615132)|Weronika Lajewska, Krisztian Balog|University of Stavanger|
 |||||
 
 ## 6. Best Demo Paper Awards <a id="best_demo"></a>
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|2024|[Introducing CausalBench: A Flexible Benchmark Framework for Causal Analysis and Machine Learning](https://dl.acm.org/doi/10.1145/3627673.3679218)|Ahmet Kapkiç, Pratanu Mandal, Shu Wan, Paras Sheth, Abhinav Gorantla, Yoonhyuk Choi, Huan Liu, K. Selçuk Candan|Arizona State University|
+|2023|[HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://dl.acm.org/doi/10.1145/3583780.3614742)|Jianing Wang, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao|East China Normal University, National University of Singapore, Alibaba Group|
 |||||
