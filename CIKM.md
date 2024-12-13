@@ -110,6 +110,8 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 | Year       | Title | Authors   | Orgnization |                                                                                    
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
 |2024|[A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search](https://dl.acm.org/doi/10.1145/3627673.3680054)|Yiping Sun, Yang Shi, Jiaolong Du|Xiaohongshu|
+|2022|[Real-time Short Video Recommendation on Mobile Devices](https://dl.acm.org/doi/10.1145/3511808.3557065)|Xudong Gong, Qinlin Feng, Yuan Zhang, Jiangling Qin, Weijie Ding, Biao Li, Peng Jiang, Kun Gai|Kuaishou|
+|2022(Runner-up)|[Query Rewriting in TaoBao Search](https://dl.acm.org/doi/10.1145/3511808.3557068)|Sen Li, Fuyu Lv, Taiwei Jin, Guiyang Li, Yukun Zheng, Tao Zhuang, Qingwen Liu, Xiaoyi Zeng, James Kwok, Qianli Ma|Alibaba| 
 
 ## 8. Best Student Applied Research Paper Awards <a id="best_stu_applied"></a>
 | Year       | Title | Authors   | Orgnization |                                                                                    
