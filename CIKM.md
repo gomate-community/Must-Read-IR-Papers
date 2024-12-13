@@ -28,6 +28,7 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 
 | Year       | Title | Authors   | Orgnization | PubYear |                                                                                   
 |------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+|2024|[Learning deep structured semantic models for web search using clickthrough data](https://dl.acm.org/doi/10.1145/2505515.2505665)|Po-Sen Huang, Xiaodong He, Jianfeng Gao, Li Deng, Alex Acero, Larry Heck|University of Illinois at Urbana-Champaign, Microsoft|2013|
 |2023|[TAGME: on-the-fly annotation of short text fragments (by Wikipedia entities)](https://dl.acm.org/doi/10.1145/1871437.1871689)|Paolo Ferragina, Ugo Scaiella|University of Pisa|2010|
 |2022|[The link prediction problem for social networks](https://dl.acm.org/doi/10.1145/956863.956972)|David Liben-Nowell, Jon Kleinberg|Massachusetts Institute of Technology, Cornell University|2003|
 |2021|[Expected reciprocal rank for graded relevance](https://dl.acm.org/doi/10.1145/1645953.1646033)|Olivier Chapelle, Donald Metzler, Ya Zhang, Pierre Grinspan|Yahoo! Labs, Google Inc|2009|
@@ -104,3 +105,13 @@ CIKM has a strong tradition of workshops devoted to emerging areas of database m
 |2023|[HugNLP: A Unified and Comprehensive Library for Natural Language Processing](https://dl.acm.org/doi/10.1145/3583780.3614742)|Jianing Wang, Nuo Chen, Qiushi Sun, Wenkang Huang, Chengyu Wang, Ming Gao|East China Normal University, National University of Singapore, Alibaba Group|
 |2022|[BED: A Real-Time Object Detection System forEdge Devices](https://dl.acm.org/doi/10.1145/3511808.3557168)|Guanchu Wang.,Zaid Pervaiz Bhat. Zhimeng jiang, Yi-Wei Chen. Daochen Zha, Alfredo Costila Reves, Afshin Niktash, GorkemUlkar, Erman Okman, Xuanting Cai and Xia Hu|Rice University, Texas A&M University, Analog Devices, Meta Platforms Inc|
 |2022(Runner-up)|[eDental: Managing Your Dental Care in DietDiaries](https://dl.acm.org/doi/10.1145/3511808.3557215)|Kaiping Zheng, Thao Nguyen, Changshuo Liu, Charlene Goh, Beng Chin Ooi|National University of Singapore| 
+
+## 7. Best Applied Research Paper Awards <a id="best_applied"></a>
+| Year       | Title | Authors   | Orgnization |                                                                                    
+|------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|2024|[A Real-Time Adaptive Multi-Stream GPU System for Online Approximate Nearest Neighborhood Search](https://dl.acm.org/doi/10.1145/3627673.3680054)|Yiping Sun, Yang Shi, Jiaolong Du|Xiaohongshu|
+
+## 8. Best Student Applied Research Paper Awards <a id="best_stu_applied"></a>
+| Year       | Title | Authors   | Orgnization |                                                                                    
+|------------|-----------------------------------------------------------------------------------------------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------|
+|2024|[CLeAR: Robust Contrastive Learning of Intensity-Aware Representations for Anti-Money Laundering](https://dl.acm.org/doi/10.1145/3627673.3680078)|Shuaibin Huang, Yun Xiong, Yi Xie, Tianyu Qiu, Guangzhong Wang|Fudan University, Bank of Communications, Shanghai, China|
